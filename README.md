@@ -79,7 +79,7 @@ The files committed today are a sample for 2026-10-29. The first real run replac
 ## Register
 
 1. Open the [registration form](https://github.com/Waqas-Shah-42-fastn/news-digest/issues/new?template=register.yml). You need a GitHub account.
-2. Within about 10 minutes a bot comments a personal, single-use fastn setup link on your issue.
+2. Within 6 hours a bot comments a personal, single-use fastn setup link on your issue.
 3. Open it, connect your Slack workspace, pick a channel and, if you like, adjust sections and sources.
 4. The digest arrives daily at the time you chose.
 

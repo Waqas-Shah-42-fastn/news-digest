@@ -75,7 +75,7 @@ Hi @${login}, here is your personal setup link for the news digest:
 2. Set the channel, and if you like, the sections and sources.
 3. The digest arrives every day at 09:00 Pakistan time; you can change the time during setup.
 
-The link works once and expires ${new Date(link.expiresAt).toUTCString()}. If it expires or someone else uses it first, comment \`new link\` here and a fresh one follows within a few minutes.`;
+The link works once and expires ${new Date(link.expiresAt).toUTCString()}. If it expires or someone else uses it first, comment \`new link\` here and a fresh one follows on the next check (within 6 hours).`;
 }
 
 // True when the requester asked for a new link after the most recent invite.
