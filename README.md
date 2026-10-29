@@ -83,7 +83,7 @@ The files committed today are a sample for 2026-10-29. The first real run replac
 3. Open it, connect your Slack workspace, pick a channel and, if you like, adjust sections and sources.
 4. The digest arrives daily at the time you chose.
 
-The setup link expires after 7 days. If it expires, comment `new link` on the issue.
+The setup link expires after 2 hours (issues are public, so links are kept short-lived). If it expires, comment `new link` on the issue.
 
 ## Local preview
 
