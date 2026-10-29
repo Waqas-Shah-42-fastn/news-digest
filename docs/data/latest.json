@@ -1,0 +1,174 @@
+{
+  "sample": true,
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T04:00:12Z",
+  "overview": "• Central banks are signalling a slower pace of rate cuts as inflation stays sticky.\n• EU leaders reached a provisional deal on an energy security package.\n• A large cloud outage disrupted apps and websites across the US East Coast for several hours.\n• Engineering blogs this week focus on latency, feature stores and zero-downtime migrations.",
+  "totalItems": 20,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Central banks signal slower pace of rate cuts as inflation proves sticky",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/markets/",
+          "published": "2026-10-29T02:14:00.000Z",
+          "outlets": 6
+        },
+        {
+          "title": "EU leaders reach provisional deal on new energy security package",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/world/europe",
+          "published": "2026-10-28T22:41:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Cloud outage disrupts apps and websites across the US East Coast",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech",
+          "published": "2026-10-28T20:05:00.000Z",
+          "outlets": 4
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "UN Security Council convenes emergency session on Red Sea shipping attacks",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/",
+          "published": "2026-10-29T01:30:00.000Z"
+        },
+        {
+          "title": "Japan and the Philippines sign expanded defence cooperation agreement",
+          "source": "Nikkei Asia",
+          "link": "https://asia.nikkei.com/Politics",
+          "published": "2026-10-28T23:10:00.000Z"
+        },
+        {
+          "title": "Talks on Black Sea grain corridor resume in Istanbul",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/world",
+          "published": "2026-10-28T17:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Oil prices slip as OPEC+ weighs output increase for December",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/markets",
+          "published": "2026-10-29T03:02:00.000Z"
+        },
+        {
+          "title": "Chipmaker shares rally after stronger-than-expected data center revenue",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/technology/",
+          "published": "2026-10-28T21:20:00.000Z"
+        },
+        {
+          "title": "Airline group reports record quarterly profit on strong travel demand",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/",
+          "published": null
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "New browser release adds passkey sync and on-device translation",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/",
+          "published": "2026-10-28T19:40:00.000Z"
+        },
+        {
+          "title": "Researchers disclose critical flaw affecting a popular open-source VPN",
+          "source": "BleepingComputer",
+          "link": "https://www.bleepingcomputer.com/news/security/",
+          "published": "2026-10-28T16:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "AI labs race to ship agent tooling for enterprise customers",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/artificial-intelligence",
+          "published": "2026-10-29T00:25:00.000Z"
+        },
+        {
+          "title": "Open-weight models close the gap on coding benchmarks, new study finds",
+          "source": "VentureBeat",
+          "link": "https://venturebeat.com/ai/",
+          "published": "2026-10-28T18:12:00.000Z"
+        },
+        {
+          "title": "Demand from AI data centers drives record quarter for chip suppliers",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/category/artificial-intelligence/",
+          "published": "2026-10-28T15:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "👽 Reddit",
+      "items": [
+        {
+          "title": "TIL the Eiffel Tower can grow about 15 cm taller in summer because of thermal expansion",
+          "source": "r/todayilearned",
+          "link": "https://www.reddit.com/r/todayilearned/top/?t=day",
+          "published": "2026-10-28T14:08:00.000Z"
+        },
+        {
+          "title": "After 10 years of self-hosting email I moved to a managed provider. Here's why.",
+          "source": "r/selfhosted",
+          "link": "https://www.reddit.com/r/selfhosted/top/?t=day",
+          "published": "2026-10-28T12:47:00.000Z"
+        },
+        {
+          "title": "What's a skill that took you embarrassingly long to learn?",
+          "source": "r/AskReddit",
+          "link": "https://www.reddit.com/r/AskReddit/top/?t=day",
+          "published": "2026-10-28T10:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "How we cut p99 latency in half by rethinking connection pooling",
+          "source": "Cloudflare",
+          "link": "https://blog.cloudflare.com/",
+          "published": "2026-10-28T13:00:00.000Z"
+        },
+        {
+          "title": "Scaling our feature store to billions of lookups per day",
+          "source": "Netflix",
+          "link": "https://netflixtechblog.com/",
+          "published": "2026-10-28T09:30:00.000Z"
+        },
+        {
+          "title": "Lessons from migrating a payments ledger without downtime",
+          "source": "Stripe",
+          "link": "https://stripe.com/blog/engineering",
+          "published": "2026-10-27T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

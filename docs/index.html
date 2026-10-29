@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="A daily news digest: top stories, geopolitics, business, technology, AI companies, Reddit and engineering blogs. Built on fastn and delivered to Slack.">
+  <title>News Digest</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main" data-skip>Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./"><span aria-hidden="true">📰</span> News Digest</a>
+      <nav aria-label="Primary">
+        <ul class="nav">
+          <li><a href="./" aria-current="page">Digest</a></li>
+          <li><a href="register.html">Register</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <div class="toolbar" id="picker">
+      <label for="date-select">Edition</label>
+      <select id="date-select">
+        <option value="">Latest</option>
+      </select>
+    </div>
+
+    <p id="status" class="status" role="status" aria-live="polite">Loading the latest digest…</p>
+    <div id="digest"></div>
+
+    <noscript>
+      <p class="notice">This page needs JavaScript to load the digest. The raw data is available at <a href="data/latest.json">data/latest.json</a>.</p>
+    </noscript>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Built on fastn and delivered to Slack daily. <a href="register.html">Get it in your workspace</a> · <a href="https://github.com/Waqas-Shah-42-fastn/news-digest">Source on GitHub</a></p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="Register to get the daily News Digest delivered to a Slack channel of your choice.">
+  <title>Register · News Digest</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./"><span aria-hidden="true">📰</span> News Digest</a>
+      <nav aria-label="Primary">
+        <ul class="nav">
+          <li><a href="./">Digest</a></li>
+          <li><a href="register.html" aria-current="page">Register</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap prose" tabindex="-1">
+    <div class="page-head">
+      <p class="eyebrow">Register</p>
+      <h1>Get the daily digest in Slack</h1>
+      <p class="lead">News Digest is a once-a-day roundup of what matters, built on fastn and posted to a Slack channel of your choice. Every edition is also published on <a href="./">this site</a>.</p>
+    </div>
+
+    <h2>What's in it</h2>
+    <ul class="section-list">
+      <li><strong>🔝 Top stories</strong>: the headlines covered by the most outlets.</li>
+      <li><strong>🌍 Geopolitics</strong>: world affairs, diplomacy and conflict.</li>
+      <li><strong>💼 Business</strong>: markets, companies and the economy.</li>
+      <li><strong>💻 Technology</strong>: products, platforms and security.</li>
+      <li><strong>🤖 AI companies</strong>: news about the labs and companies building AI.</li>
+      <li><strong>👽 Reddit</strong>: the top posts of the day.</li>
+      <li><strong>🛠️ Engineering blogs</strong>: new posts from teams such as Netflix, Stripe, Cloudflare and GitHub.</li>
+    </ul>
+
+    <h2>How registration works</h2>
+    <ol class="steps">
+      <li>
+        <strong>Request an invite</strong>
+        Click the button below. It opens a short issue form on GitHub, so you need a GitHub account.
+      </li>
+      <li>
+        <strong>Get your setup link</strong>
+        Within about 10 minutes a bot comments a personal, single-use fastn setup link on your issue.
+      </li>
+      <li>
+        <strong>Connect Slack</strong>
+        Open the link, connect your Slack workspace, pick a channel and, if you like, adjust which sections and sources you get.
+      </li>
+      <li>
+        <strong>Read it every day</strong>
+        The digest arrives in your channel daily at the time you chose.
+      </li>
+    </ol>
+
+    <div class="cta">
+      <a class="btn" href="https://github.com/Waqas-Shah-42-fastn/news-digest/issues/new?template=register.yml">Request an invite</a>
+      <p class="muted small">Opens a GitHub issue form. Issues in this repository are public, so only include what you are happy to share.</p>
+    </div>
+
+    <p class="banner" role="note"><strong>Your setup link is single-use and expires after 7 days.</strong> If it expires before you use it, comment <code>new link</code> on your issue and the bot will send a fresh one.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Built on fastn. <a href="./">Read today's digest</a> · <a href="https://github.com/Waqas-Shah-42-fastn/news-digest">Source on GitHub</a></p>
+    </div>
+  </footer>
+</body>
+</html>

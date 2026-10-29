@@ -1,0 +1,37 @@
+name: Register for the news digest
+description: Request an invite to get the daily news digest in your Slack workspace.
+title: "Register: "
+labels: ["register"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in the daily news digest.
+
+        After you submit this form, a bot will comment a **personal, single-use fastn setup link** on this issue, usually within about 10 minutes. Open it to connect your Slack workspace, pick a channel and (optionally) adjust sections and sources.
+
+        The link expires after 7 days. If it expires, comment `new link` on this issue to get a fresh one.
+
+        This issue is public, so only include what you are happy to share.
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: slack_workspace
+    attributes:
+      label: Slack workspace
+      description: Optional. The workspace you plan to connect.
+      placeholder: acme.slack.com
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Optional. For example, sections you care most about or a preferred delivery time.
+    validations:
+      required: false
