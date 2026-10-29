@@ -16,7 +16,7 @@ const INVITED = "invited";
 const MARKER = "<!-- news-digest-invite -->";
 // A request for a new link is a comment that starts with "new link" (the invite says to comment `new link`),
 // so a remark like "thanks, the new link worked" does not get another one.
-const NEW_LINK = /^\s*`?new link/i;
+const NEW_LINK = /^\s*`?new link\b/i;
 
 async function gh(call) {
   const r = await call;
