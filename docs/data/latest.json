@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T17:25:38.625Z",
+  "generatedAt": "2026-10-29T17:26:35.532Z",
   "overview": "",
   "totalItems": 35,
   "sections": [
@@ -164,12 +164,6 @@
           "published": "2026-10-29T13:51:24.000Z"
         },
         {
-          "title": "OpenAI says GPT-5.6-Sol helped find the PHP flaws now shaking the internet",
-          "source": "Mashable",
-          "link": "https://mashable.com/tech/openai-takes-credit-for-finding-php-flaws",
-          "published": "2026-10-29T13:37:07.000Z"
-        },
-        {
           "title": "Anthropic Bought A One-Person Biotech That Ran A Drug Program With Claude",
           "source": "Forbes",
           "link": "https://www.forbes.com/sites/jonmarkman/2026/10/29/anthropic-bought-a-one-person-biotech-that-ran-a-drug-program-with-claude/",
@@ -182,10 +176,16 @@
           "published": "2026-10-28T20:11:02.000Z"
         },
         {
-          "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
-          "source": "WSJ",
-          "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e",
-          "published": "2026-10-29T15:55:53.000Z"
+          "title": "Anthropic IPO Disclosure of ‘Existential’ AI Risk Sets Standard",
+          "source": "Bloomberg Law News",
+          "link": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/anthropic-ipo-disclosure-of-existential-ai-risk-sets-standard",
+          "published": "2026-10-29T14:17:00.000Z"
+        },
+        {
+          "title": "Anthropic files for IPO, plans Nasdaq listing under ANT",
+          "source": "MobiHealthNews",
+          "link": "https://www.mobihealthnews.com/news/anthropic-files-ipo-plans-nasdaq-listing-under-ant",
+          "published": "2026-10-29T15:49:31.000Z"
         }
       ]
     },
