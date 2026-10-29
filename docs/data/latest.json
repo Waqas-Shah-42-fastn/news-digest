@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T17:23:07.088Z",
+  "generatedAt": "2026-10-29T17:25:38.625Z",
   "overview": "",
   "totalItems": 35,
   "sections": [
@@ -68,16 +68,16 @@
           "published": "2026-10-29T14:08:23.000Z"
         },
         {
-          "title": "China’s Communist Party expels 33 officials in post-Mao era record purge",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/world/china/chinas-communist-party-expels-33-officials-post-mao-era-record-purge-rcna606319",
-          "published": "2026-10-29T14:04:16.000Z"
+          "title": "China’s Xi Demands More Loyalty as Purges Trim Party Elite",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/world/china/chinas-xi-demands-more-loyalty-as-purges-trim-party-elite-e2cc90ab",
+          "published": "2026-10-29T14:56:28.000Z"
         },
         {
-          "title": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3",
-          "source": "CNN",
-          "link": "https://www.cnn.com/2026/10/29/world/rock-collapse-turkeys-touristic-latam-intl",
-          "published": "2026-10-29T16:12:01.000Z"
+          "title": "At least 13 people killed in Russian attack on Dnipro train station",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight",
+          "published": "2026-10-29T14:45:34.000Z"
         }
       ]
     },
@@ -104,16 +104,16 @@
           "published": "2026-10-29T15:38:15.000Z"
         },
         {
-          "title": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
-          "source": "Fox Business",
-          "link": "https://www.foxbusiness.com/economy/september-2026-pce-inflation",
-          "published": "2026-10-29T14:34:00.000Z"
-        },
-        {
           "title": "Lilly reports third-quarter 2026 financial results, raises full-year guidance and highlights regulatory progress across the portfolio",
           "source": "Eli Lilly",
           "link": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-third-quarter-2026-financial-results-raises-full",
           "published": "2026-10-29T10:45:54.000Z"
+        },
+        {
+          "title": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
+          "source": "Fox Business",
+          "link": "https://www.foxbusiness.com/economy/september-2026-pce-inflation",
+          "published": "2026-10-29T14:34:00.000Z"
         }
       ]
     },
@@ -126,6 +126,12 @@
           "source": "PCMag",
           "link": "https://www.pcmag.com/news/pro-and-tell-apple-event-everything-announced-touchscreen-macbook-m6imac",
           "published": "2026-10-29T15:06:44.000Z"
+        },
+        {
+          "title": "‘GTA 6’ Enormous Map Size Confirmed, Enormous File Size Reported",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/paultassi/2026/10/29/gta-6-enormous-map-size-confirmed-enormous-file-size-reported/",
+          "published": "2026-10-29T16:56:40.000Z"
         },
         {
           "title": "EasySMX S10 Lite Review: A Switch 2 Fidget Toy With A Weird Removable Faceplate",
@@ -144,12 +150,6 @@
           "source": "The Verge",
           "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
           "published": "2026-10-28T17:00:00.000Z"
-        },
-        {
-          "title": "Samsung News app on Galaxy devices is being shut down",
-          "source": "SamMobile",
-          "link": "https://www.sammobile.com/news/samsung-news-shut-down-galaxy-phones-tablets/",
-          "published": "2026-10-29T06:31:00.000Z"
         }
       ]
     },
@@ -157,12 +157,6 @@
       "key": "ai",
       "title": "🤖 AI companies",
       "items": [
-        {
-          "title": "Anthropic Unveils Paperwork for Blockbuster IPO",
-          "source": "WSJ",
-          "link": "https://www.wsj.com/tech/anthropic-unveils-paperwork-for-blockbuster-ipo-291a684b",
-          "published": "2026-10-29T16:17:08.000Z"
-        },
         {
           "title": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center",
           "source": "Bloomberg.com",
@@ -186,6 +180,12 @@
           "source": "ServiceNow Newsroom",
           "link": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-and-OpenAI-accelerate-enterprise-AI-from-models-and-operations-to-cybersecurity-and-agentic-development/default.aspx",
           "published": "2026-10-28T20:11:02.000Z"
+        },
+        {
+          "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e",
+          "published": "2026-10-29T15:55:53.000Z"
         }
       ]
     },
