@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T17:01:16.618Z",
+  "generatedAt": "2026-10-29T17:23:07.088Z",
   "overview": "",
   "totalItems": 35,
   "sections": [
@@ -74,10 +74,10 @@
           "published": "2026-10-29T14:04:16.000Z"
         },
         {
-          "title": "At least 13 people killed in Russian attack on Dnipro train station",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight",
-          "published": "2026-10-29T14:45:34.000Z"
+          "title": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/10/29/world/rock-collapse-turkeys-touristic-latam-intl",
+          "published": "2026-10-29T16:12:01.000Z"
         }
       ]
     },
@@ -95,7 +95,7 @@
           "title": "Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates",
           "source": "WSJ",
           "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
-          "published": "2026-10-29T15:51:13.000Z"
+          "published": "2026-10-29T17:18:38.000Z"
         },
         {
           "title": "DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet",
@@ -110,10 +110,10 @@
           "published": "2026-10-29T14:34:00.000Z"
         },
         {
-          "title": "Earnings live updates: Eli Lilly stock pops as strong GLP-1 drug demand lifts results, ServiceNow stock plunges",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-eli-lilly-stock-pops-as-strong-glp-1-drug-demand-lifts-results-servicenow-stock-plunges-114628789.html",
-          "published": "2026-10-29T12:46:05.000Z"
+          "title": "Lilly reports third-quarter 2026 financial results, raises full-year guidance and highlights regulatory progress across the portfolio",
+          "source": "Eli Lilly",
+          "link": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-third-quarter-2026-financial-results-raises-full",
+          "published": "2026-10-29T10:45:54.000Z"
         }
       ]
     },
@@ -125,7 +125,7 @@
           "title": "Everything Apple Announced at Its 'Pro and Tell' Event: Touch-Screen MacBook Pro, M6 Macs, More",
           "source": "PCMag",
           "link": "https://www.pcmag.com/news/pro-and-tell-apple-event-everything-announced-touchscreen-macbook-m6imac",
-          "published": "2026-10-29T15:36:36.000Z"
+          "published": "2026-10-29T15:06:44.000Z"
         },
         {
           "title": "EasySMX S10 Lite Review: A Switch 2 Fidget Toy With A Weird Removable Faceplate",
@@ -134,22 +134,22 @@
           "published": "2026-10-29T12:00:00.000Z"
         },
         {
-          "title": "Samsung News app on Galaxy devices is being shut down",
-          "source": "SamMobile",
-          "link": "https://www.sammobile.com/news/samsung-news-shut-down-galaxy-phones-tablets/",
-          "published": "2026-10-29T06:31:00.000Z"
-        },
-        {
           "title": "Apple Has 8 New Products Available for Pre-Order",
           "source": "MacRumors",
           "link": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
           "published": "2026-10-28T20:45:26.000Z"
         },
         {
-          "title": "Samsung teases Galaxy S27 plans as its phone business slips into the red again",
-          "source": "Android Authority",
-          "link": "https://www.androidauthority.com/samsung-galaxy-s27-plans-q3-2026-earnings-call-3729435/",
-          "published": "2026-10-29T04:55:00.000Z"
+          "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+          "published": "2026-10-28T17:00:00.000Z"
+        },
+        {
+          "title": "Samsung News app on Galaxy devices is being shut down",
+          "source": "SamMobile",
+          "link": "https://www.sammobile.com/news/samsung-news-shut-down-galaxy-phones-tablets/",
+          "published": "2026-10-29T06:31:00.000Z"
         }
       ]
     },
