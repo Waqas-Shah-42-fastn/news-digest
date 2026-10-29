@@ -8,7 +8,7 @@ body:
       value: |
         Thanks for your interest in the daily news digest.
 
-        After you submit this form, a bot will comment a **personal, single-use fastn setup link** on this issue, within 6 hours. Open it to connect your Slack workspace, pick a channel and (optionally) adjust sections and sources.
+        After you submit this form, a bot will comment a **personal, single-use fastn setup link** on this issue, usually within a minute or two. Open it to connect your Slack workspace, pick a channel and (optionally) adjust sections and sources.
 
         The link expires after 2 hours (issues are public, so links are kept short-lived). If it expires, comment `new link` on this issue to get a fresh one.
 

@@ -14,6 +14,9 @@ const MAX_PER_RUN = 20;     // cheap guard against a flood of requests
 const REGISTER = "register";
 const INVITED = "invited";
 const MARKER = "<!-- news-digest-invite -->";
+// A request for a new link is a comment that starts with "new link" (the invite says to comment `new link`),
+// so a remark like "thanks, the new link worked" does not get another one.
+const NEW_LINK = /^\s*`?new link/i;
 
 async function gh(call) {
   const r = await call;
@@ -36,7 +39,7 @@ function ignoreReason(event) {
     if (body.includes(MARKER)) return "our own invite comment";
     if (event.action !== "created") return `comment ${event.action}`;
     if (event.comment.user?.login !== event.issue.user?.login) return "comment not by the requester";
-    if (!/new link/i.test(body)) return "comment does not ask for a new link";
+    if (!NEW_LINK.test(body)) return "comment does not ask for a new link";
     return null;
   }
   // Not "labeled": GitHub sends it alongside "opened" for an issue created with labels, and two
@@ -75,7 +78,7 @@ Hi @${login}, here is your personal setup link for the news digest:
 2. Set the channel, and if you like, the sections and sources.
 3. The digest arrives every day at 09:00 Pakistan time; you can change the time during setup.
 
-The link works once and expires ${new Date(link.expiresAt).toUTCString()}. If it expires or someone else uses it first, comment \`new link\` here and a fresh one follows on the next check (within 6 hours).`;
+The link works once and expires ${new Date(link.expiresAt).toUTCString()}. If it expires or someone else uses it first, comment \`new link\` here and a fresh one follows within a minute or two.`;
 }
 
 // True when the requester asked for a new link after the most recent invite.
@@ -84,7 +87,7 @@ async function wantsNewLink(fastn, issue) {
   const list = Array.isArray(comments) ? comments : [];
   let lastInvite = -1;
   list.forEach((c, i) => { if ((c.body || "").includes(MARKER)) lastInvite = i; });
-  return list.slice(lastInvite + 1).some(c => c.user?.login === issue.user.login && /new link/i.test(c.body || ""));
+  return list.slice(lastInvite + 1).some(c => c.user?.login === issue.user.login && NEW_LINK.test(c.body || ""));
 }
 
 export default async function (ctx) {

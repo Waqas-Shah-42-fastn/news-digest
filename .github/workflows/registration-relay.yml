@@ -18,14 +18,14 @@ concurrency:
 
 jobs:
   relay:
-    # Registration issues only. For comments: only the requester asking for a new link, and never
-    # the bot's own invite (which also says "new link"). contains() ignores case.
+    # Registration issues only. For comments: only the requester's comments that start with
+    # "new link" (as the invite asks), never the bot's own invite. startsWith() ignores case.
     if: >-
       contains(github.event.issue.labels.*.name, 'register') &&
       !github.event.issue.pull_request &&
       (github.event_name == 'issues' ||
        (github.event.comment.user.login == github.event.issue.user.login &&
-        contains(github.event.comment.body, 'new link') &&
+        (startsWith(github.event.comment.body, 'new link') || startsWith(github.event.comment.body, '`new link')) &&
         !contains(github.event.comment.body, 'news-digest-invite')))
     runs-on: ubuntu-latest
     timeout-minutes: 3
