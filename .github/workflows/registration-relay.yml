@@ -1,0 +1,73 @@
+# Runs the fastn workflow "news-digest-register" as soon as someone opens a registration issue or
+# asks for a new link, instead of waiting for its fallback check every 6 hours.
+# Needs the repository secret FASTN_API_KEY: a fastn API key of the org that owns the workflow.
+name: Registration relay
+
+on:
+  issues:
+    types: [opened, reopened]
+  issue_comment:
+    types: [created]
+
+permissions: {}
+
+# One run at a time, so two events close together can't both invite the same person.
+concurrency:
+  group: registration-relay
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    # Registration issues only. For comments: only the requester asking for a new link, and never
+    # the bot's own invite (which also says "new link"). contains() ignores case.
+    if: >-
+      contains(github.event.issue.labels.*.name, 'register') &&
+      !github.event.issue.pull_request &&
+      (github.event_name == 'issues' ||
+       (github.event.comment.user.login == github.event.issue.user.login &&
+        contains(github.event.comment.body, 'new link') &&
+        !contains(github.event.comment.body, 'news-digest-invite')))
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Run news-digest-register on fastn
+        env:
+          FASTN_API_KEY: ${{ secrets.FASTN_API_KEY }}
+          WORKFLOW_URL: https://api.fastn.dev/api/v1/workflows/wf_5ec5ab73815e/execute
+        run: |
+          set -euo pipefail
+          if [ -z "${FASTN_API_KEY:-}" ]; then
+            echo "::error::The repository secret FASTN_API_KEY is not set."
+            exit 1
+          fi
+
+          # Only the fields the workflow's event filter reads; it reads the issues from GitHub itself.
+          jq -c '{input: ({action: .action,
+                           issue: {number: .issue.number, user: {login: .issue.user.login}, labels: [.issue.labels[] | {name}]}}
+                          + (if .comment then {comment: {user: {login: .comment.user.login}, body: .comment.body}} else {} end))}' \
+            "$GITHUB_EVENT_PATH" > body.json
+
+          # The workflow is on fastn's instant tier, so the call returns the finished run.
+          code=$(curl -sS -o result.json -w '%{http_code}' --max-time 60 -X POST "$WORKFLOW_URL" \
+            -H "Authorization: Bearer $FASTN_API_KEY" \
+            -H "Content-Type: application/json" \
+            -H "Idempotency-Key: gh-relay-$GITHUB_RUN_ID-$GITHUB_RUN_ATTEMPT" \
+            --data @body.json)
+
+          echo "fastn answered HTTP $code"
+          jq '.data // .' result.json || cat result.json
+          {
+            echo "### news-digest-register"
+            echo '```json'
+            jq '.data // .' result.json 2>/dev/null || cat result.json
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "$code" != 200 ]; then
+            echo "::error::fastn returned HTTP $code. The fallback check every 6 hours will retry."
+            exit 1
+          fi
+          if ! jq -e '(.data // .).errors == 0' result.json > /dev/null; then
+            echo "::error::The registration run reported errors (see the output above)."
+            exit 1
+          fi
