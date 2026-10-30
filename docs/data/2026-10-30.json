@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T04:01:54.261Z",
+  "overview": "",
+  "totalItems": 35,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "DoJ reportedly issues subpoenas over same-name Alaska candidates",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-subpoenas",
+          "published": "2026-10-30T00:00:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Midterms live updates: Trump scraps another red-state rally as he shifts strategy ahead of midterms",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress",
+          "published": "2026-10-30T01:25:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
+          "source": "PBS",
+          "link": "https://www.pbs.org/newshour/politics/hegseth-fires-the-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes",
+          "published": "2026-10-29T20:51:20.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "3 dead in midair crash of 2 helicopters near Oregon airport: Sheriff",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://abcnews.com/US/2-helicopters-collide-mid-air-oregon-airport-faa/story?id=137690382",
+          "published": "2026-10-30T00:54:01.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Justice Department issues subpoenas to California election workers",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+          "published": "2026-10-30T01:35:54.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/americas/bukeles-gang-offensive-goes-abroad-el-salvador-rushes-troops-haiti-2026-10-29/",
+          "published": "2026-10-29T22:59:55.000Z"
+        },
+        {
+          "title": "Exclusive | The Troubled History of Russia’s Anti-Plague Institute",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c",
+          "published": "2026-10-30T01:00:00.000Z"
+        },
+        {
+          "title": "With all votes counted, Netanyahu’s bloc has 53 seats, Eisenkot’s 48, Arab parties 19",
+          "source": "The Times of Israel",
+          "link": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/",
+          "published": "2026-10-29T23:48:14.000Z"
+        },
+        {
+          "title": "Why is North Korea fortifying its border with South Korea?",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/30/why-is-north-korea-fortifying-its-border-with-south-korea",
+          "published": "2026-10-30T00:02:00.000Z"
+        },
+        {
+          "title": "Audio recordings reveal decisions made moments before deadly train crash in Spain",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/world/spain/audio-recordings-decisions-deadly-spain-train-crash-rcna606366",
+          "published": "2026-10-29T20:59:38.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-slides-alphabet-revenue-184007636.html",
+          "published": "2026-10-29T20:29:47.000Z"
+        },
+        {
+          "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
+          "published": "2026-10-30T01:20:57.000Z"
+        },
+        {
+          "title": "Robust consumer spending, AI-related investment power US economy in third quarter",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/us/us-economic-growth-accelerates-third-quarter-2026-10-29/",
+          "published": "2026-10-29T20:29:42.000Z"
+        },
+        {
+          "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+          "published": "2026-10-29T20:04:08.000Z"
+        },
+        {
+          "title": "Starbucks Reports Q4 and Full Fiscal Year 2026 Results",
+          "source": "Starbucks Investor Relations",
+          "link": "https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2026-Results/default.aspx",
+          "published": "2026-10-29T20:12:01.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "How macOS Adapts Its Controls for Touch on the New MacBook Pro",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/10/29/macos-adapts-controls-touch-macbook-pro/",
+          "published": "2026-10-29T12:33:47.000Z"
+        },
+        {
+          "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+          "published": "2026-10-29T23:44:56.000Z"
+        },
+        {
+          "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more",
+          "source": "9to5Mac",
+          "link": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
+          "published": "2026-10-29T20:49:00.000Z"
+        },
+        {
+          "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+          "published": "2026-10-29T18:45:31.000Z"
+        },
+        {
+          "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/",
+          "published": "2026-10-30T00:50:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Anthropic’s financials are surprisingly strong",
+          "source": "Understanding AI | Timothy B. Lee",
+          "link": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "published": "2026-10-29T19:10:41.000Z"
+        },
+        {
+          "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project",
+          "source": "The Information",
+          "link": "https://www.theinformation.com/articles/nvidia-talks-provide-billions-credit-support-cloud-providers-45-billion-anthropic-deal",
+          "published": "2026-10-29T22:40:00.000Z"
+        },
+        {
+          "title": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
+          "published": "2026-10-29T19:19:12.000Z"
+        },
+        {
+          "title": "OpenAI-backed Thrive Holdings acquires ADT",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+          "published": "2026-10-29T19:56:19.000Z"
+        },
+        {
+          "title": "Anthropic Launched A Consulting Arm. 5 Ways The Industry Has To Change",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/alexanderpuutio/2026/10/29/anthropic-launched-a-consulting-arm-5-ways-the-industry-has-to-change/",
+          "published": "2026-10-29T15:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": [
+        {
+          "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xiun7c/trump_and_his_aides_helped_bolsonaro_flee_brazil/",
+          "published": "2026-10-29T20:06:03.000Z"
+        },
+        {
+          "title": "DoorDash is buying Instacart for $17 billion",
+          "source": "r/business",
+          "link": "https://www.reddit.com/r/business/comments/1xijmso/doordash_is_buying_instacart_for_17_billion/",
+          "published": "2026-10-29T13:13:50.000Z"
+        },
+        {
+          "title": "Man granted first-of-its-kind religious exemption against mandatory AI use at work — Humanist argues that offloading his thinking to LLMs violates his beliefs, Title VII accommodation protects employee",
+          "source": "r/technology",
+          "link": "https://www.reddit.com/r/technology/comments/1xih1ic/man_granted_firstofitskind_religious_exemption/",
+          "published": "2026-10-29T11:10:36.000Z"
+        },
+        {
+          "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
+          "source": "r/artificial",
+          "link": "https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/",
+          "published": "2026-10-29T15:41:37.000Z"
+        },
+        {
+          "title": "Over 600 drones targeted Moscow and surrounding area",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xic0ru/over_600_drones_targeted_moscow_and_surrounding/",
+          "published": "2026-10-29T06:05:06.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/updated-model-spec",
+          "published": "2026-10-29T17:00:00.000Z"
+        },
+        {
+          "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+          "source": "Engineering at Meta",
+          "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+          "published": "2026-10-29T16:00:12.000Z"
+        },
+        {
+          "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+          "published": "2026-10-29T12:55:00.000Z"
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "published": "2026-10-29T09:00:00.000Z"
+        },
+        {
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/ropes-gray-ai-diligence",
+          "published": "2026-10-29T07:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
