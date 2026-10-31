@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T04:02:01.892Z",
+  "overview": "",
+  "totalItems": 35,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/live/2026/10/30/us/midterms-elections-trump",
+          "published": "2026-10-31T03:59:41.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Judge to probe whether Trump officials lied in golf course case",
+          "source": "Axios",
+          "link": "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course",
+          "published": "2026-10-30T21:52:30.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+          "published": "2026-10-30T23:42:10.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Federal judge signals she may halt construction on Trump’s arch",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/10/30/dc-government-may-sue-block-trumps-arch-adding-legal-pressure/",
+          "published": "2026-10-31T03:02:02.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "U.S. approves $2.1 billion sale of Patriot interceptors to Ukraine",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/world/ukraine/us-approves-21-billion-sale-patriot-interceptors-ukraine-rcna606641",
+          "published": "2026-10-30T22:44:38.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Binance says user funds are safe after thieves make off with billions in largest-ever crypto hack",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/business/markets/binance-pledges-cover-billions-stolen-assets-hack-rcna606517",
+          "published": "2026-10-30T21:36:24.000Z"
+        },
+        {
+          "title": "Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery",
+          "source": "Fox Business",
+          "link": "https://www.foxbusiness.com/business-leaders/real-estate-ceo-family-shot-attacked-hammer-masked-intruders-home-invasion-robbery",
+          "published": "2026-10-31T00:03:00.000Z"
+        },
+        {
+          "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+          "published": "2026-10-31T02:55:00.000Z"
+        },
+        {
+          "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+          "published": "2026-10-30T23:27:46.000Z"
+        },
+        {
+          "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+          "source": "AP News",
+          "link": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
+          "published": "2026-10-30T21:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30/",
+          "published": "2026-10-30T20:42:09.000Z"
+        },
+        {
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
+          "published": "2026-10-31T02:12:19.000Z"
+        },
+        {
+          "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+          "published": "2026-10-30T19:55:13.000Z"
+        },
+        {
+          "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/business/energy/exxonmobil-chevron-profits-trump-high-oil-prices-rcna606524",
+          "published": "2026-10-30T19:06:03.000Z"
+        },
+        {
+          "title": "Gold falls below $3,900, silver tumbles as Wall Street selloff triggers liquidation - Kitco PM Report",
+          "source": "Kitco",
+          "link": "https://www.kitco.com/news/article/2026-10-30/gold-falls-below-3900-silver-tumbles-wall-street-selloff-triggers",
+          "published": "2026-10-30T21:06:50.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "The 12th Google Store is opening on November 6",
+          "source": "9to5Google",
+          "link": "https://9to5google.com/2026/10/30/google-store-houston/",
+          "published": "2026-10-30T20:37:00.000Z"
+        },
+        {
+          "title": "Apple’s iPhone Maker Confident of Meeting Surge in Duo Demand",
+          "source": "Bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand",
+          "published": "2026-10-29T23:00:00.000Z"
+        },
+        {
+          "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
+          "source": "9to5Mac",
+          "link": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+          "published": "2026-10-29T14:44:00.000Z"
+        },
+        {
+          "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+          "published": "2026-10-30T22:20:02.000Z"
+        },
+        {
+          "title": "Android 17 is barely making a dent as Android 11 still powers 10% of phones",
+          "source": "Android Authority",
+          "link": "https://www.androidauthority.com/android-distribution-numbers-october-2026-3729798/",
+          "published": "2026-10-30T03:50:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+          "published": "2026-10-31T02:56:00.000Z"
+        },
+        {
+          "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/",
+          "published": "2026-10-31T00:17:00.000Z"
+        },
+        {
+          "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+          "published": "2026-10-31T00:06:45.000Z"
+        },
+        {
+          "title": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "published": "2026-10-30T21:52:03.000Z"
+        },
+        {
+          "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+          "source": "WIRED",
+          "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+          "published": "2026-10-30T20:38:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": [
+        {
+          "title": "“Appeasing Dictators Brings Only Humiliation”: Estonia’s PM Rejects Softer Rhetoric Toward Russia",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xjk0m1/appeasing_dictators_brings_only_humiliation/",
+          "published": "2026-10-30T16:26:52.000Z"
+        },
+        {
+          "title": "Putin open to phone call with Zelensky, Ukraine suspects a Kremlin trap",
+          "source": "r/geopolitics",
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xji39o/putin_open_to_phone_call_with_zelensky_ukraine/",
+          "published": "2026-10-30T15:15:19.000Z"
+        },
+        {
+          "title": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
+          "source": "r/business",
+          "link": "https://www.reddit.com/r/business/comments/1xjufrc/reddit_stock_plunges_29_after_weak_outlook/",
+          "published": "2026-10-30T23:14:07.000Z"
+        },
+        {
+          "title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
+          "source": "r/technology",
+          "link": "https://www.reddit.com/r/technology/comments/1xj6gwl/north_korea_steals_usd_636_billion_from_binance/",
+          "published": "2026-10-30T04:59:26.000Z"
+        },
+        {
+          "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
+          "source": "r/artificial",
+          "link": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
+          "published": "2026-10-30T08:41:28.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/emudhra-patching/",
+          "published": "2026-10-30T17:38:50.000Z"
+        },
+        {
+          "title": "Cloudflare services for private origins is now generally available",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
+          "published": "2026-10-30T14:23:43.000Z"
+        },
+        {
+          "title": "Making it easier for websites to express AI training preferences",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "published": "2026-10-30T09:30:00.000Z"
+        },
+        {
+          "title": "Community safety report and new protections for teens",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "published": "2026-10-30T09:00:00.000Z"
+        },
+        {
+          "title": "Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts",
+          "source": "Stripe Blog",
+          "link": "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
+          "published": "2026-10-30T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
