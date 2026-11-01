@@ -1,46 +1,46 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T04:02:01.892Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T04:02:12.656Z",
   "overview": "",
-  "totalItems": 35,
+  "totalItems": 34,
   "sections": [
     {
       "key": "top",
       "title": "🔝 Top stories",
       "items": [
         {
-          "title": "2026 Elections Live Updates: Court Rejects Latest Trump Effort to Impound California Ballots",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/live/2026/10/30/us/midterms-elections-trump",
-          "published": "2026-10-31T03:59:41.000Z",
+          "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
+          "source": "PBS",
+          "link": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
+          "published": "2026-10-31T22:22:29.000Z",
           "outlets": 5
         },
         {
-          "title": "Judge to probe whether Trump officials lied in golf course case",
+          "title": "Shops looted as German cost of living protests turn violent",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cqj34gnd3n30o",
+          "published": "2026-11-01T01:59:57.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Virginia and D.C. sue to block construction of Trump arch",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+          "published": "2026-10-31T22:48:51.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
           "source": "Axios",
-          "link": "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course",
-          "published": "2026-10-30T21:52:30.000Z",
+          "link": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+          "published": "2026-10-31T22:14:17.000Z",
           "outlets": 5
         },
         {
-          "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+          "title": "Democratic Discord Intensifies in Michigan Senate Race",
           "source": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
-          "published": "2026-10-30T23:42:10.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "Federal judge signals she may halt construction on Trump’s arch",
-          "source": "The Washington Post",
-          "link": "https://www.washingtonpost.com/politics/2026/10/30/dc-government-may-sue-block-trumps-arch-adding-legal-pressure/",
-          "published": "2026-10-31T03:02:02.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "U.S. approves $2.1 billion sale of Patriot interceptors to Ukraine",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/world/ukraine/us-approves-21-billion-sale-patriot-interceptors-ukraine-rcna606641",
-          "published": "2026-10-30T22:44:38.000Z",
+          "link": "https://www.nytimes.com/live/2026/10/31/us/midterms-elections-trump",
+          "published": "2026-11-01T03:05:39.000Z",
           "outlets": 5
         }
       ]
@@ -50,34 +50,34 @@
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "Binance says user funds are safe after thieves make off with billions in largest-ever crypto hack",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/business/markets/binance-pledges-cover-billions-stolen-assets-hack-rcna606517",
-          "published": "2026-10-30T21:36:24.000Z"
-        },
-        {
-          "title": "Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery",
-          "source": "Fox Business",
-          "link": "https://www.foxbusiness.com/business-leaders/real-estate-ceo-family-shot-attacked-hammer-masked-intruders-home-invasion-robbery",
-          "published": "2026-10-31T00:03:00.000Z"
-        },
-        {
-          "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
-          "published": "2026-10-31T02:55:00.000Z"
-        },
-        {
-          "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+          "title": "Hundreds of Thousands Join Another Round of Protests in France",
           "source": "The New York Times",
-          "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
-          "published": "2026-10-30T23:27:46.000Z"
+          "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+          "published": "2026-10-31T21:00:33.000Z"
         },
         {
-          "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
-          "source": "AP News",
-          "link": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
-          "published": "2026-10-30T21:10:00.000Z"
+          "title": "North Korea says defence research institutes tested major weapon system",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/north-korea-says-defence-research-institutes-tested-major-weapon-system-2026-10-31/",
+          "published": "2026-10-31T21:48:05.000Z"
+        },
+        {
+          "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+          "published": "2026-10-31T22:43:00.000Z"
+        },
+        {
+          "title": "Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’",
+          "source": "The Times of Israel",
+          "link": "https://www.timesofisrael.com/eisenkot-vows-to-swiftly-utilize-knesset-majority-against-oct-7-government/",
+          "published": "2026-10-31T21:01:00.000Z"
+        },
+        {
+          "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban",
+          "published": "2026-10-31T21:45:56.000Z"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "title": "💼 Business",
       "items": [
         {
-          "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30/",
-          "published": "2026-10-30T20:42:09.000Z"
+          "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+          "source": "AP News",
+          "link": "https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315",
+          "published": "2026-11-01T01:28:00.000Z"
         },
         {
-          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-          "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
-          "published": "2026-10-31T02:12:19.000Z"
+          "title": "Judge won't dismiss McRib class-action lawsuit against McDonald's",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/money/food/2026/10/31/mcdonalds-mcrib-lawsuit/92541992007/",
+          "published": "2026-11-01T02:47:00.000Z"
         },
         {
-          "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-          "published": "2026-10-30T19:55:13.000Z"
+          "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+          "published": "2026-10-31T11:00:01.000Z"
         },
         {
-          "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/business/energy/exxonmobil-chevron-profits-trump-high-oil-prices-rcna606524",
-          "published": "2026-10-30T19:06:03.000Z"
+          "title": "Oil company earnings skyrocket — again",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+          "published": "2026-10-31T09:00:00.000Z"
         },
         {
-          "title": "Gold falls below $3,900, silver tumbles as Wall Street selloff triggers liquidation - Kitco PM Report",
-          "source": "Kitco",
-          "link": "https://www.kitco.com/news/article/2026-10-30/gold-falls-below-3900-silver-tumbles-wall-street-selloff-triggers",
-          "published": "2026-10-30T21:06:50.000Z"
+          "title": "Tech stock meltdown could get a lot of worse if history is any guide",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/article/tech-stock-meltdown-could-get-a-lot-of-worse-if-history-is-any-guide-161226786.html",
+          "published": "2026-10-31T16:12:26.000Z"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "title": "💻 Technology",
       "items": [
         {
-          "title": "The 12th Google Store is opening on November 6",
-          "source": "9to5Google",
-          "link": "https://9to5google.com/2026/10/30/google-store-houston/",
-          "published": "2026-10-30T20:37:00.000Z"
+          "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+          "source": "BleepingComputer",
+          "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+          "published": "2026-10-31T15:35:11.000Z"
         },
         {
-          "title": "Apple’s iPhone Maker Confident of Meeting Surge in Duo Demand",
-          "source": "Bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand",
-          "published": "2026-10-29T23:00:00.000Z"
+          "title": "I took two iPhones on vacation. The Duo won me over.",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+          "published": "2026-10-31T14:00:00.000Z"
         },
         {
-          "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
+          "title": "My Favorite Smartwatch Has Stayed on My Wrist for Years — No, It’s Not an Apple Watch",
+          "source": "CNET",
+          "link": "https://www.cnet.com/tech/mobile/my-favorite-smartwatch-for-years-not-apple-watch/",
+          "published": "2026-10-31T09:00:02.000Z"
+        },
+        {
+          "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
+          "source": "Kotaku",
+          "link": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+          "published": "2026-10-31T15:21:38.000Z"
+        },
+        {
+          "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
           "source": "9to5Mac",
-          "link": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
-          "published": "2026-10-29T14:44:00.000Z"
-        },
-        {
-          "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
-          "source": "MacRumors",
-          "link": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
-          "published": "2026-10-30T22:20:02.000Z"
-        },
-        {
-          "title": "Android 17 is barely making a dent as Android 11 still powers 10% of phones",
-          "source": "Android Authority",
-          "link": "https://www.androidauthority.com/android-distribution-numbers-october-2026-3729798/",
-          "published": "2026-10-30T03:50:00.000Z"
+          "link": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
+          "published": "2026-10-31T16:42:00.000Z"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-          "source": "WSJ",
-          "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-          "published": "2026-10-31T02:56:00.000Z"
+          "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+          "published": "2026-10-31T19:56:23.000Z"
         },
         {
-          "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/",
-          "published": "2026-10-31T00:17:00.000Z"
-        },
-        {
-          "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-          "source": "Financial Times",
-          "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-          "published": "2026-10-31T00:06:45.000Z"
-        },
-        {
-          "title": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says",
+          "title": "OpenAI reportedly lowers funding target for new round",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-          "published": "2026-10-30T21:52:03.000Z"
+          "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "published": "2026-10-31T16:12:55.000Z"
         },
         {
-          "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-          "source": "WIRED",
-          "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-          "published": "2026-10-30T20:38:00.000Z"
+          "title": "Before Buying Anthropic Stock, Here's What History Says About Investing in IPOs",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/buying-anthropic-stock-heres-history-032000696.html",
+          "published": "2026-11-01T03:20:00.000Z"
+        },
+        {
+          "title": "OpenAI cuts off Cursor's AI models, deepening feud with Musk",
+          "source": "Mashable",
+          "link": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
+          "published": "2026-10-31T14:28:41.000Z"
+        },
+        {
+          "title": "Anthropic IPO Valuation Slips to $1.5T From $2T [2026]",
+          "source": "shattered.io",
+          "link": "https://shattered.io/anthropic-ipo-valuation-1-5-trillion-big-tech-ai-spending-2026/",
+          "published": "2026-11-01T03:45:39.000Z"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "title": "🔥 Reddit",
       "items": [
         {
-          "title": "“Appeasing Dictators Brings Only Humiliation”: Estonia’s PM Rejects Softer Rhetoric Toward Russia",
+          "title": "Ukrainian arms manufacturer Fire Point claims to have overcome Starlink restrictions for long-range strikes",
           "source": "r/worldnews",
-          "link": "https://www.reddit.com/r/worldnews/comments/1xjk0m1/appeasing_dictators_brings_only_humiliation/",
-          "published": "2026-10-30T16:26:52.000Z"
+          "link": "https://www.reddit.com/r/worldnews/comments/1xkav5t/ukrainian_arms_manufacturer_fire_point_claims_to/",
+          "published": "2026-10-31T13:55:42.000Z"
         },
         {
-          "title": "Putin open to phone call with Zelensky, Ukraine suspects a Kremlin trap",
+          "title": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
           "source": "r/geopolitics",
-          "link": "https://www.reddit.com/r/geopolitics/comments/1xji39o/putin_open_to_phone_call_with_zelensky_ukraine/",
-          "published": "2026-10-30T15:15:19.000Z"
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xka2fk/us_south_korea_and_japan_vow_complete/",
+          "published": "2026-10-31T13:20:43.000Z"
         },
         {
-          "title": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
+          "title": "Reese Witherspoon’s Hello Sunshine Cuts 50% of Employees After Actress Buys Back Company",
           "source": "r/business",
-          "link": "https://www.reddit.com/r/business/comments/1xjufrc/reddit_stock_plunges_29_after_weak_outlook/",
-          "published": "2026-10-30T23:14:07.000Z"
+          "link": "https://www.reddit.com/r/business/comments/1xk33vl/reese_witherspoons_hello_sunshine_cuts_50_of/",
+          "published": "2026-10-31T06:39:23.000Z"
         },
         {
-          "title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
+          "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
           "source": "r/technology",
-          "link": "https://www.reddit.com/r/technology/comments/1xj6gwl/north_korea_steals_usd_636_billion_from_binance/",
-          "published": "2026-10-30T04:59:26.000Z"
+          "link": "https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/",
+          "published": "2026-10-31T12:37:31.000Z"
         },
         {
-          "title": "Google's parent company Alphabet shares record their worst day ever, shedding $500 billion in value",
+          "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
           "source": "r/artificial",
-          "link": "https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/",
-          "published": "2026-10-30T08:41:28.000Z"
+          "link": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
+          "published": "2026-10-31T18:57:26.000Z"
         }
       ]
     },
@@ -252,12 +252,6 @@
           "source": "OpenAI News",
           "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
           "published": "2026-10-30T09:00:00.000Z"
-        },
-        {
-          "title": "Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts",
-          "source": "Stripe Blog",
-          "link": "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
-          "published": "2026-10-30T00:00:00.000Z"
         }
       ]
     }
