@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T04:01:06.061Z",
+  "overview": "",
+  "totalItems": 30,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate",
+          "published": "2026-11-02T02:53:56.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cm369yy7lw73o",
+          "published": "2026-11-02T02:59:02.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Judge tosses DOJ’s attempt to delay Alaska’s Senate results if Republican loses",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/11/01/judge-tosses-dojs-attempt-delay-alaska-senate-results-if-republican-loses/",
+          "published": "2026-11-02T02:01:45.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Russia says emergency alert app under cyber-attack after apparent hack on Ukraine's warning system",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/live/cm4g1yjxv38gt",
+          "published": "2026-11-02T01:44:43.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Germany blames infiltrators as Gen Z protests turn violent",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl",
+          "published": "2026-11-01T13:22:44.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+          "published": "2026-11-02T01:52:38.000Z"
+        },
+        {
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cwvg05z184j0o",
+          "published": "2026-11-02T00:15:30.000Z"
+        },
+        {
+          "title": "Ukraine says public air raid alert app sent false alerts after being hacked",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/europe/ukrainian-air-force-says-public-air-raid-alert-app-has-been-hacked-2026-11-01/",
+          "published": "2026-11-01T21:36:00.000Z"
+        },
+        {
+          "title": "Inside the leaderless movement set to govern Serbia",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+          "published": "2026-11-01T16:12:16.000Z"
+        },
+        {
+          "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
+          "source": "AP News",
+          "link": "https://apnews.com/article/russia-ukraine-war-kherson-ceasefire-oleshky-22a9bcde97cf12c96328aacf88486e40",
+          "published": "2026-11-01T23:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Binance users withdraw $3.6bn after record crypto hack",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cwj34gdmnly4o",
+          "published": "2026-11-02T03:32:14.000Z"
+        },
+        {
+          "title": "Stock futures open a monster week after a $5 trillion AI wipeout",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html",
+          "published": "2026-11-01T23:25:00.000Z"
+        },
+        {
+          "title": "Companies Have a Solution for the Skilled Trade Shortage: More Women",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/economy/jobs/companies-have-a-solution-for-the-skilled-trade-shortage-more-women-37851f46",
+          "published": "2026-11-02T00:00:25.000Z"
+        },
+        {
+          "title": "Shares steady as Apple earnings near, oil eases",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asia-shares-bend-under-ai-004046810.html",
+          "published": "2026-11-02T02:37:30.000Z"
+        },
+        {
+          "title": "Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if stock hit zero",
+          "source": "Fortune",
+          "link": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei/",
+          "published": "2026-11-01T14:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+          "source": "WIRED",
+          "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+          "published": "2026-10-31T10:00:00.000Z"
+        },
+        {
+          "title": "Apple's HomeView Ships With Six-Month-Old Software",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
+          "published": "2026-11-01T15:37:04.000Z"
+        },
+        {
+          "title": "Apple to eliminate non-touch MacBooks Pros other than core 14-inch model",
+          "source": "AppleInsider",
+          "link": "https://appleinsider.com/articles/26/11/01/apple-to-eliminate-non-touch-macbooks-pros-other-than-core-14-inch-model",
+          "published": "2026-11-01T15:28:00.000Z"
+        },
+        {
+          "title": "5 New Foldable Phones To Consider Instead Of The iPhone Duo",
+          "source": "SlashGear",
+          "link": "https://www.slashgear.com/2297495/foldable-smartphone-coming-out-iphone-duo-alternatives/",
+          "published": "2026-11-01T10:45:00.000Z"
+        },
+        {
+          "title": "Strands Hints for November 1, 2026",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/31/crosswords/strands-sidekick-973.html",
+          "published": "2026-10-31T10:00:04.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+          "published": "2026-11-01T22:02:00.000Z"
+        },
+        {
+          "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
+          "published": "2026-11-01T17:00:16.000Z"
+        },
+        {
+          "title": "Anthropic is heading to Wall Street — its CEO warns AI could erase entry-level jobs",
+          "source": "The Independent Florida Alligator",
+          "link": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs",
+          "published": "2026-11-02T00:05:00.000Z"
+        },
+        {
+          "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+          "published": "2026-11-02T02:58:00.000Z"
+        },
+        {
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "published": "2026-11-01T21:55:23.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": [
+        {
+          "title": "Support for Kyiv costs me politically but I won't change stance - Meloni",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xkwea8/support_for_kyiv_costs_me_politically_but_i_wont/",
+          "published": "2026-11-01T06:53:52.000Z"
+        },
+        {
+          "title": "The U.S. Is Bullying Europe Like Never Before",
+          "source": "r/geopolitics",
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xl5vp9/the_us_is_bullying_europe_like_never_before/",
+          "published": "2026-11-01T15:28:14.000Z"
+        },
+        {
+          "title": "\"None of these people have ever made a game,\" BioWare co-founder Greg Zeschuk says of game industry executives: \"They just don't know how it works\"",
+          "source": "r/business",
+          "link": "https://www.reddit.com/r/business/comments/1xlgjcc/none_of_these_people_have_ever_made_a_game/",
+          "published": "2026-11-01T22:34:10.000Z"
+        },
+        {
+          "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation — city takes matters into its own hands amid privacy controversies",
+          "source": "r/technology",
+          "link": "https://www.reddit.com/r/technology/comments/1xl3u8r/police_chief_physically_unplugs_flock_cameras/",
+          "published": "2026-11-01T14:02:53.000Z"
+        },
+        {
+          "title": "Trump’s achilles heel is turning his own voters against him",
+          "source": "r/artificial",
+          "link": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
+          "published": "2026-11-01T14:48:18.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": []
+    }
+  ]
+}

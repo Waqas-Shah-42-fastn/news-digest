@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T04:02:12.656Z",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T04:01:06.061Z",
   "overview": "",
-  "totalItems": 34,
+  "totalItems": 30,
   "sections": [
     {
       "key": "top",
       "title": "🔝 Top stories",
       "items": [
         {
-          "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
-          "source": "PBS",
-          "link": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
-          "published": "2026-10-31T22:22:29.000Z",
+          "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate",
+          "published": "2026-11-02T02:53:56.000Z",
           "outlets": 5
         },
         {
-          "title": "Shops looted as German cost of living protests turn violent",
+          "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
           "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/cqj34gnd3n30o",
-          "published": "2026-11-01T01:59:57.000Z",
+          "link": "https://www.bbc.com/news/articles/cm369yy7lw73o",
+          "published": "2026-11-02T02:59:02.000Z",
           "outlets": 5
         },
         {
-          "title": "Virginia and D.C. sue to block construction of Trump arch",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-          "published": "2026-10-31T22:48:51.000Z",
+          "title": "Judge tosses DOJ’s attempt to delay Alaska’s Senate results if Republican loses",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/11/01/judge-tosses-dojs-attempt-delay-alaska-senate-results-if-republican-loses/",
+          "published": "2026-11-02T02:01:45.000Z",
           "outlets": 5
         },
         {
-          "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
-          "source": "Axios",
-          "link": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
-          "published": "2026-10-31T22:14:17.000Z",
+          "title": "Russia says emergency alert app under cyber-attack after apparent hack on Ukraine's warning system",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/live/cm4g1yjxv38gt",
+          "published": "2026-11-02T01:44:43.000Z",
           "outlets": 5
         },
         {
-          "title": "Democratic Discord Intensifies in Michigan Senate Race",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/live/2026/10/31/us/midterms-elections-trump",
-          "published": "2026-11-01T03:05:39.000Z",
+          "title": "Germany blames infiltrators as Gen Z protests turn violent",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl",
+          "published": "2026-11-01T13:22:44.000Z",
           "outlets": 5
         }
       ]
@@ -50,34 +50,34 @@
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "Hundreds of Thousands Join Another Round of Protests in France",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-          "published": "2026-10-31T21:00:33.000Z"
-        },
-        {
-          "title": "North Korea says defence research institutes tested major weapon system",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/business/aerospace-defense/north-korea-says-defence-research-institutes-tested-major-weapon-system-2026-10-31/",
-          "published": "2026-10-31T21:48:05.000Z"
-        },
-        {
-          "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+          "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
-          "published": "2026-10-31T22:43:00.000Z"
+          "link": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+          "published": "2026-11-02T01:52:38.000Z"
         },
         {
-          "title": "Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’",
-          "source": "The Times of Israel",
-          "link": "https://www.timesofisrael.com/eisenkot-vows-to-swiftly-utilize-knesset-majority-against-oct-7-government/",
-          "published": "2026-10-31T21:01:00.000Z"
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cwvg05z184j0o",
+          "published": "2026-11-02T00:15:30.000Z"
         },
         {
-          "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban",
-          "published": "2026-10-31T21:45:56.000Z"
+          "title": "Ukraine says public air raid alert app sent false alerts after being hacked",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/europe/ukrainian-air-force-says-public-air-raid-alert-app-has-been-hacked-2026-11-01/",
+          "published": "2026-11-01T21:36:00.000Z"
+        },
+        {
+          "title": "Inside the leaderless movement set to govern Serbia",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+          "published": "2026-11-01T16:12:16.000Z"
+        },
+        {
+          "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
+          "source": "AP News",
+          "link": "https://apnews.com/article/russia-ukraine-war-kherson-ceasefire-oleshky-22a9bcde97cf12c96328aacf88486e40",
+          "published": "2026-11-01T23:24:00.000Z"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "title": "💼 Business",
       "items": [
         {
-          "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
-          "source": "AP News",
-          "link": "https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315",
-          "published": "2026-11-01T01:28:00.000Z"
+          "title": "Binance users withdraw $3.6bn after record crypto hack",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cwj34gdmnly4o",
+          "published": "2026-11-02T03:32:14.000Z"
         },
         {
-          "title": "Judge won't dismiss McRib class-action lawsuit against McDonald's",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/money/food/2026/10/31/mcdonalds-mcrib-lawsuit/92541992007/",
-          "published": "2026-11-01T02:47:00.000Z"
-        },
-        {
-          "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
-          "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-          "published": "2026-10-31T11:00:01.000Z"
-        },
-        {
-          "title": "Oil company earnings skyrocket — again",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
-          "published": "2026-10-31T09:00:00.000Z"
-        },
-        {
-          "title": "Tech stock meltdown could get a lot of worse if history is any guide",
+          "title": "Stock futures open a monster week after a $5 trillion AI wipeout",
           "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/article/tech-stock-meltdown-could-get-a-lot-of-worse-if-history-is-any-guide-161226786.html",
-          "published": "2026-10-31T16:12:26.000Z"
+          "link": "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html",
+          "published": "2026-11-01T23:25:00.000Z"
+        },
+        {
+          "title": "Companies Have a Solution for the Skilled Trade Shortage: More Women",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/economy/jobs/companies-have-a-solution-for-the-skilled-trade-shortage-more-women-37851f46",
+          "published": "2026-11-02T00:00:25.000Z"
+        },
+        {
+          "title": "Shares steady as Apple earnings near, oil eases",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/asia-shares-bend-under-ai-004046810.html",
+          "published": "2026-11-02T02:37:30.000Z"
+        },
+        {
+          "title": "Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if stock hit zero",
+          "source": "Fortune",
+          "link": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei/",
+          "published": "2026-11-01T14:15:00.000Z"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "title": "💻 Technology",
       "items": [
         {
-          "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-          "source": "BleepingComputer",
-          "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-          "published": "2026-10-31T15:35:11.000Z"
+          "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+          "source": "WIRED",
+          "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+          "published": "2026-10-31T10:00:00.000Z"
         },
         {
-          "title": "I took two iPhones on vacation. The Duo won me over.",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-          "published": "2026-10-31T14:00:00.000Z"
+          "title": "Apple's HomeView Ships With Six-Month-Old Software",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
+          "published": "2026-11-01T15:37:04.000Z"
         },
         {
-          "title": "My Favorite Smartwatch Has Stayed on My Wrist for Years — No, It’s Not an Apple Watch",
-          "source": "CNET",
-          "link": "https://www.cnet.com/tech/mobile/my-favorite-smartwatch-for-years-not-apple-watch/",
-          "published": "2026-10-31T09:00:02.000Z"
+          "title": "Apple to eliminate non-touch MacBooks Pros other than core 14-inch model",
+          "source": "AppleInsider",
+          "link": "https://appleinsider.com/articles/26/11/01/apple-to-eliminate-non-touch-macbooks-pros-other-than-core-14-inch-model",
+          "published": "2026-11-01T15:28:00.000Z"
         },
         {
-          "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
-          "source": "Kotaku",
-          "link": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
-          "published": "2026-10-31T15:21:38.000Z"
+          "title": "5 New Foldable Phones To Consider Instead Of The iPhone Duo",
+          "source": "SlashGear",
+          "link": "https://www.slashgear.com/2297495/foldable-smartphone-coming-out-iphone-duo-alternatives/",
+          "published": "2026-11-01T10:45:00.000Z"
         },
         {
-          "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
-          "source": "9to5Mac",
-          "link": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
-          "published": "2026-10-31T16:42:00.000Z"
+          "title": "Strands Hints for November 1, 2026",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/10/31/crosswords/strands-sidekick-973.html",
+          "published": "2026-10-31T10:00:04.000Z"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+          "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+          "published": "2026-11-01T22:02:00.000Z"
+        },
+        {
+          "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
+          "published": "2026-11-01T17:00:16.000Z"
+        },
+        {
+          "title": "Anthropic is heading to Wall Street — its CEO warns AI could erase entry-level jobs",
+          "source": "The Independent Florida Alligator",
+          "link": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs",
+          "published": "2026-11-02T00:05:00.000Z"
+        },
+        {
+          "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
           "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-          "published": "2026-10-31T19:56:23.000Z"
+          "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+          "published": "2026-11-02T02:58:00.000Z"
         },
         {
-          "title": "OpenAI reportedly lowers funding target for new round",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-          "published": "2026-10-31T16:12:55.000Z"
-        },
-        {
-          "title": "Before Buying Anthropic Stock, Here's What History Says About Investing in IPOs",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/buying-anthropic-stock-heres-history-032000696.html",
-          "published": "2026-11-01T03:20:00.000Z"
-        },
-        {
-          "title": "OpenAI cuts off Cursor's AI models, deepening feud with Musk",
-          "source": "Mashable",
-          "link": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
-          "published": "2026-10-31T14:28:41.000Z"
-        },
-        {
-          "title": "Anthropic IPO Valuation Slips to $1.5T From $2T [2026]",
-          "source": "shattered.io",
-          "link": "https://shattered.io/anthropic-ipo-valuation-1-5-trillion-big-tech-ai-spending-2026/",
-          "published": "2026-11-01T03:45:39.000Z"
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "published": "2026-11-01T21:55:23.000Z"
         }
       ]
     },
@@ -194,66 +194,41 @@
       "title": "🔥 Reddit",
       "items": [
         {
-          "title": "Ukrainian arms manufacturer Fire Point claims to have overcome Starlink restrictions for long-range strikes",
+          "title": "Support for Kyiv costs me politically but I won't change stance - Meloni",
           "source": "r/worldnews",
-          "link": "https://www.reddit.com/r/worldnews/comments/1xkav5t/ukrainian_arms_manufacturer_fire_point_claims_to/",
-          "published": "2026-10-31T13:55:42.000Z"
+          "link": "https://www.reddit.com/r/worldnews/comments/1xkwea8/support_for_kyiv_costs_me_politically_but_i_wont/",
+          "published": "2026-11-01T06:53:52.000Z"
         },
         {
-          "title": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
+          "title": "The U.S. Is Bullying Europe Like Never Before",
           "source": "r/geopolitics",
-          "link": "https://www.reddit.com/r/geopolitics/comments/1xka2fk/us_south_korea_and_japan_vow_complete/",
-          "published": "2026-10-31T13:20:43.000Z"
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xl5vp9/the_us_is_bullying_europe_like_never_before/",
+          "published": "2026-11-01T15:28:14.000Z"
         },
         {
-          "title": "Reese Witherspoon’s Hello Sunshine Cuts 50% of Employees After Actress Buys Back Company",
+          "title": "\"None of these people have ever made a game,\" BioWare co-founder Greg Zeschuk says of game industry executives: \"They just don't know how it works\"",
           "source": "r/business",
-          "link": "https://www.reddit.com/r/business/comments/1xk33vl/reese_witherspoons_hello_sunshine_cuts_50_of/",
-          "published": "2026-10-31T06:39:23.000Z"
+          "link": "https://www.reddit.com/r/business/comments/1xlgjcc/none_of_these_people_have_ever_made_a_game/",
+          "published": "2026-11-01T22:34:10.000Z"
         },
         {
-          "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation — city takes matters into its own hands amid privacy controversies",
           "source": "r/technology",
-          "link": "https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/",
-          "published": "2026-10-31T12:37:31.000Z"
+          "link": "https://www.reddit.com/r/technology/comments/1xl3u8r/police_chief_physically_unplugs_flock_cameras/",
+          "published": "2026-11-01T14:02:53.000Z"
         },
         {
-          "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+          "title": "Trump’s achilles heel is turning his own voters against him",
           "source": "r/artificial",
-          "link": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
-          "published": "2026-10-31T18:57:26.000Z"
+          "link": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
+          "published": "2026-11-01T14:48:18.000Z"
         }
       ]
     },
     {
       "key": "engineering",
       "title": "🛠️ Engineering blogs",
-      "items": [
-        {
-          "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
-          "source": "Cloudflare Blog",
-          "link": "https://blog.cloudflare.com/emudhra-patching/",
-          "published": "2026-10-30T17:38:50.000Z"
-        },
-        {
-          "title": "Cloudflare services for private origins is now generally available",
-          "source": "Cloudflare Blog",
-          "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
-          "published": "2026-10-30T14:23:43.000Z"
-        },
-        {
-          "title": "Making it easier for websites to express AI training preferences",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-          "published": "2026-10-30T09:30:00.000Z"
-        },
-        {
-          "title": "Community safety report and new protections for teens",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-          "published": "2026-10-30T09:00:00.000Z"
-        }
-      ]
+      "items": []
     }
   ]
 }
