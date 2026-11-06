@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T04:01:54.437Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T04:01:31.649Z",
   "overview": "",
   "totalItems": 35,
   "sections": [
@@ -9,38 +9,38 @@
       "title": "🔝 Top stories",
       "items": [
         {
-          "title": "Vance says voters want to ‘end the war,’ change Israel relationship",
-          "source": "The Washington Post",
-          "link": "https://www.washingtonpost.com/politics/2026/11/04/vance-blames-republicans-midterm-losses-iran-war-cost-living/",
-          "published": "2026-11-05T01:39:20.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington",
+          "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
           "source": "The New York Times",
-          "link": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats",
-          "published": "2026-11-05T02:32:55.000Z",
+          "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump",
+          "published": "2026-11-06T03:35:27.000Z",
           "outlets": 5
         },
         {
-          "title": "‘An earthquake’: Nithya Raman’s rise jolts LA’s political establishment",
-          "source": "Politico",
-          "link": "https://www.politico.com/news/2026/11/04/nithya-raman-rise-jolts-la-establishment-01151074",
-          "published": "2026-11-05T03:12:00.000Z",
+          "title": "How the Texas blue wave came crashing down on Republicans",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/11/05/how-democrats-turned-texas-blue/",
+          "published": "2026-11-06T00:15:58.000Z",
           "outlets": 5
         },
         {
-          "title": "What's next in the investigation of the Learjet crash in Florida that killed 9?",
-          "source": "PBS",
-          "link": "https://www.pbs.org/newshour/nation/whats-next-in-the-investigation-of-the-learjet-crash-in-florida-that-killed-9",
-          "published": "2026-11-04T22:37:20.000Z",
+          "title": "Trump signs order to prevent future presidents from changing Oval Office",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cmy0eeg101djo",
+          "published": "2026-11-06T01:20:01.000Z",
           "outlets": 5
         },
         {
-          "title": "Conservative US Supreme Court justices Thomas and Alito in spotlight after Democratic landslide",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/legal/government/conservative-us-supreme-court-justices-thomas-alito-spotlight-after-democratic-2026-11-04/",
-          "published": "2026-11-04T20:14:35.000Z",
+          "title": "Head of DOJ Civil Rights Division resigns after GOP midterms loss",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/justice-department/head-doj-civil-rights-division-resigns-gop-midterms-loss-rcna607697",
+          "published": "2026-11-05T19:28:53.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/c9p8g085mz07o",
+          "published": "2026-11-05T19:08:08.000Z",
           "outlets": 5
         }
       ]
@@ -50,34 +50,34 @@
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
+          "title": "France strikes: largest day of protests in years as economy fuels unrest",
           "source": "CNN",
-          "link": "https://www.cnn.com/2026/11/04/world/iran-israel-ukraine-midterm-impact-intl",
-          "published": "2026-11-04T16:37:19.000Z"
+          "link": "https://www.cnn.com/2026/11/05/world/live-news/france-strikes-protests-action-schools-intl",
+          "published": "2026-11-05T21:24:00.000Z"
         },
         {
-          "title": "France: Cyberattack targets blood bank refrigerators",
-          "source": "DW.com",
-          "link": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981",
-          "published": "2026-11-04T21:49:04.000Z"
+          "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+          "published": "2026-11-06T02:30:48.000Z"
         },
         {
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/c98rz6penv86o",
-          "published": "2026-11-04T22:48:43.000Z"
+          "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/comedian-russell-brand-found-guilty-rape-2026-11-05/",
+          "published": "2026-11-05T18:04:46.000Z"
         },
         {
-          "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://abcnews.com/International/wireStory/canadian-authorities-multiple-grizzlies-attacked-mother-daughter-found-137863509",
-          "published": "2026-11-05T01:24:04.000Z"
+          "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/",
+          "published": "2026-11-05T21:23:10.000Z"
         },
         {
-          "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription",
-          "published": "2026-11-04T19:18:46.000Z"
+          "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
+          "source": "AP News",
+          "link": "https://apnews.com/article/flight-diverted-france-bomb-threat-dublin-rome-6585ff565ee1ccb9f19b73074aa2fec4",
+          "published": "2026-11-05T21:56:00.000Z"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "title": "💼 Business",
       "items": [
         {
-          "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins",
+          "title": "Stocks plunge as election outcome and AI worries crush tech shares",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
+          "published": "2026-11-06T02:51:30.000Z"
+        },
+        {
+          "title": "IRS announces new federal income tax brackets for 2027",
           "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-          "published": "2026-11-05T03:01:57.000Z"
+          "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+          "published": "2026-11-05T19:23:32.000Z"
         },
         {
-          "title": "Datacenters were on the ballot. US voters rejected them",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
-          "published": "2026-11-05T01:32:00.000Z"
-        },
-        {
-          "title": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut",
-          "source": "WSJ",
-          "link": "https://www.wsj.com/health/healthcare/inside-cvss-decision-to-break-up-a-healthcare-juggernaut-39925a2e",
-          "published": "2026-11-05T01:30:48.000Z"
-        },
-        {
-          "title": "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap",
+          "title": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap",
           "source": "Bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-          "published": "2026-11-05T02:57:00.000Z"
+          "link": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-11-06T02:53:00.000Z"
         },
         {
-          "title": "$200K, 2 $50K Powerball tickets bought in N.J. as jackpot soars to $835M",
-          "source": "NJ.com",
-          "link": "https://www.nj.com/lottery/2026/11/200k-2-50k-powerball-tickets-bought-in-nj-as-jackpot-soars-to-835m.html",
-          "published": "2026-11-04T17:08:00.000Z"
+          "title": "Investors have dumped Tesla and SpaceX stock since the blue wave election",
+          "source": "Business Insider",
+          "link": "https://www.businessinsider.com/tesla-spacex-elon-musk-democrats-tsla-spcx-stock-2026-11",
+          "published": "2026-11-05T21:32:00.000Z"
+        },
+        {
+          "title": "Markets realise they hate America’s blue wave",
+          "source": "The Economist",
+          "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+          "published": "2026-11-05T23:41:07.000Z"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "title": "💻 Technology",
       "items": [
         {
-          "title": "Nintendo’s biggest ROM chip supplier is bowing out of the business",
+          "title": "MacBook Pro M6 Review: A Slight Upgrade, But Still The Most Accessible MacBook Pro",
+          "source": "Engadget",
+          "link": "https://www.engadget.com/2307614/apple-macbook-pro-m6-review/",
+          "published": "2026-11-05T14:00:00.000Z"
+        },
+        {
+          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
           "source": "Ars Technica",
-          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-          "published": "2026-11-04T22:47:51.000Z"
+          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+          "published": "2026-11-06T00:17:06.000Z"
         },
         {
-          "title": "Google Maps update makes the app fully iPhone Duo compatible - GSMArena.com news",
-          "source": "GSMArena.com",
-          "link": "https://www.gsmarena.com/google_maps_update_makes_the_app_fully_iphone_duo_compatible-news-75349.php",
-          "published": "2026-11-04T21:02:02.000Z"
+          "title": "Instagram brings Edits to desktop to take on CapCut",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+          "published": "2026-11-05T15:00:00.000Z"
         },
         {
-          "title": "HomePod Mini 2's Amount of RAM Confirmed",
-          "source": "MacRumors",
-          "link": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
-          "published": "2026-11-04T21:50:46.000Z"
+          "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+          "published": "2026-11-05T17:00:00.000Z"
         },
         {
-          "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
-          "source": "MacRumors",
-          "link": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
-          "published": "2026-11-04T17:40:27.000Z"
-        },
-        {
-          "title": "Motorola is apparently working on a surprising product revival with some intriguing specs",
-          "source": "PhoneArena",
-          "link": "https://www.phonearena.com/news/motorola-moto-one-product-revival-snapdragon-8-gen-5-wireless-charging_id184557",
-          "published": "2026-11-04T12:59:20.000Z"
+          "title": "Meta says US users can now video chat with their Muse AI avatar",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "published": "2026-11-05T19:48:28.000Z"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "source": "OpenAI",
-          "link": "https://openai.com/index/openai-to-acquire-pierre/",
-          "published": "2026-11-04T14:33:56.000Z"
+          "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-2026-11-05/",
+          "published": "2026-11-05T23:41:00.000Z"
         },
         {
-          "title": "A top Anthropic product leader has been poached by OpenAI",
-          "source": "Business Insider",
-          "link": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
-          "published": "2026-11-05T00:57:00.000Z"
+          "title": "Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b",
+          "published": "2026-11-05T23:17:00.000Z"
         },
         {
-          "title": "Should You Buy Anthropic's IPO on Day 1?",
+          "title": "OpenAI to Change How It Handles Data Center Efforts After Outcry",
+          "source": "Bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
+          "published": "2026-11-06T00:51:00.000Z"
+        },
+        {
+          "title": "AI for scientific discovery How researchers use Claude",
+          "source": "Anthropic",
+          "link": "https://www.anthropic.com/research/how-researchers-use-claude",
+          "published": "2026-11-05T15:07:56.000Z"
+        },
+        {
+          "title": "Anthropic's IPO plans run up against a battered Wall Street",
           "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-anthropics-ipo-day-1-192900111.html",
-          "published": "2026-11-04T19:29:00.000Z"
-        },
-        {
-          "title": "OpenAI’s approach to mathematics does not add up",
-          "source": "The Economist",
-          "link": "https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
-          "published": "2026-11-04T18:11:10.000Z"
-        },
-        {
-          "title": "Opinion: Anthropic’s stark warning makes the case for taking AI out of Silicon Valley’s hands",
-          "source": "Crain's Chicago Business",
-          "link": "https://www.chicagobusiness.com/opinion/commentary/ccb-opinion-anthropic-ai-risks-raise-nationalization-debate-20261104/",
-          "published": "2026-11-05T02:46:36.000Z"
+          "link": "https://finance.yahoo.com/technology/article/anthropics-ipo-plans-run-up-against-a-battered-wall-street-192138177.html",
+          "published": "2026-11-05T19:21:38.000Z"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "title": "🔥 Reddit",
       "items": [
         {
-          "title": "Russian tankers carrying diesel have sharply changed course and are no longer heading to the United States",
+          "title": "Taliban sets fire to hundreds of ‘immoral’ musical instruments",
           "source": "r/worldnews",
-          "link": "https://www.reddit.com/r/worldnews/comments/1xnk0z4/russian_tankers_carrying_diesel_have_sharply/",
-          "published": "2026-11-04T09:36:37.000Z"
+          "link": "https://www.reddit.com/r/worldnews/comments/1xoi6by/taliban_sets_fire_to_hundreds_of_immoral_musical/",
+          "published": "2026-11-05T13:06:40.000Z"
         },
         {
-          "title": "President Zelensky: The US role in the world may become even smaller, so Europe's role in the world must become even greater. Freedom and security in Europe have no alternative to Germany",
+          "title": "“Regime Change Came in Texas Before Tehran”",
           "source": "r/geopolitics",
-          "link": "https://www.reddit.com/r/geopolitics/comments/1xnli4w/president_zelensky_the_us_role_in_the_world_may/",
-          "published": "2026-11-04T11:08:32.000Z"
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xommh2/regime_change_came_in_texas_before_tehran/",
+          "published": "2026-11-05T16:11:02.000Z"
         },
         {
-          "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+          "title": "Wendy's rejects buyout bid from activist investor and adopts 'poison pill' plan",
           "source": "r/business",
-          "link": "https://www.reddit.com/r/business/comments/1xnxhta/kraft_heinz_to_divest_its_north_american_coffee/",
-          "published": "2026-11-04T19:31:59.000Z"
+          "link": "https://www.reddit.com/r/business/comments/1xotlp7/wendys_rejects_buyout_bid_from_activist_investor/",
+          "published": "2026-11-05T20:38:28.000Z"
         },
         {
-          "title": "Texas just went blue, and the tech bros are sad",
+          "title": "Mark Cuban says Facebook knowingly runs AI deepfake scam ads as Meta docs reveal $16 billion in fraud-linked revenue",
           "source": "r/technology",
-          "link": "https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/",
-          "published": "2026-11-04T15:52:01.000Z"
+          "link": "https://www.reddit.com/r/technology/comments/1xoqri7/mark_cuban_says_facebook_knowingly_runs_ai/",
+          "published": "2026-11-05T18:47:12.000Z"
         },
         {
-          "title": "ChatGPT's search volume is now roughly 20% of Google's. Wow, people were really sick of Google, huh?",
+          "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” - AUTOMATON WEST",
           "source": "r/artificial",
-          "link": "https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/",
-          "published": "2026-11-04T05:38:58.000Z"
+          "link": "https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/",
+          "published": "2026-11-05T19:02:25.000Z"
         }
       ]
     },
@@ -230,34 +230,34 @@
       "title": "🛠️ Engineering blogs",
       "items": [
         {
-          "title": "Scaling Model Evaluation at Pinterest with Ray (Part 4)",
-          "source": "Pinterest Engineering Blog",
-          "link": "https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?source=rss----4c5a5f6279b6---4",
-          "published": "2026-11-04T16:01:04.000Z"
+          "title": "Inside GitHub’s new Git storage architecture",
+          "source": "The latest from GitHub's engineering team - The GitHub Blog",
+          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "published": "2026-11-05T20:23:21.000Z"
         },
         {
-          "title": "See the agents, set the terms: new visibility and control for personal agents",
+          "title": "Cult.fit builds operational muscle with Codex",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/cultfit-builds-with-codex",
+          "published": "2026-11-05T20:00:00.000Z"
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "source": "Google DeepMind News",
+          "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "published": "2026-11-05T17:05:16.000Z"
+        },
+        {
+          "title": "Agents aren’t humans (but they kinda are)",
           "source": "Cloudflare Blog",
-          "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-          "published": "2026-11-04T14:00:00.000Z"
+          "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+          "published": "2026-11-05T17:03:04.000Z"
         },
         {
-          "title": "A thousand fewer paths to root",
+          "title": "Australian universities are creating AI-native graduates",
           "source": "OpenAI News",
-          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "published": "2026-11-04T08:00:00.000Z"
-        },
-        {
-          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "published": "2026-11-04T07:00:00.000Z"
-        },
-        {
-          "title": "Introducing Images 2.6",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/introducing-images-2-6",
-          "published": "2026-11-04T00:00:00.000Z"
+          "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "published": "2026-11-05T17:00:00.000Z"
         }
       ]
     }
