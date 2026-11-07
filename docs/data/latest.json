@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T04:01:31.649Z",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T04:02:25.400Z",
   "overview": "",
   "totalItems": 35,
   "sections": [
@@ -9,38 +9,38 @@
       "title": "🔝 Top stories",
       "items": [
         {
-          "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump",
-          "published": "2026-11-06T03:35:27.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "How the Texas blue wave came crashing down on Republicans",
+          "title": "Stephen Miller’s promotion angers industries reeling from immigration enforcement",
           "source": "The Washington Post",
-          "link": "https://www.washingtonpost.com/politics/2026/11/05/how-democrats-turned-texas-blue/",
-          "published": "2026-11-06T00:15:58.000Z",
+          "link": "https://www.washingtonpost.com/business/2026/11/06/industries-that-rely-immigrant-workers-decry-stephen-millers-promotion/",
+          "published": "2026-11-07T02:00:40.000Z",
           "outlets": 5
         },
         {
-          "title": "Trump signs order to prevent future presidents from changing Oval Office",
+          "title": "Paraguay's President Santiago Peña impeached and arrested",
           "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/cmy0eeg101djo",
-          "published": "2026-11-06T01:20:01.000Z",
+          "link": "https://www.bbc.com/news/articles/c68jzzvjgdy9o",
+          "published": "2026-11-07T03:25:00.000Z",
           "outlets": 5
         },
         {
-          "title": "Head of DOJ Civil Rights Division resigns after GOP midterms loss",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/politics/justice-department/head-doj-civil-rights-division-resigns-gop-midterms-loss-rcna607697",
-          "published": "2026-11-05T19:28:53.000Z",
+          "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
+          "published": "2026-11-06T18:38:11.000Z",
           "outlets": 5
         },
         {
-          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-          "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/c9p8g085mz07o",
-          "published": "2026-11-05T19:08:08.000Z",
+          "title": "Houston Mayor Limits Cooperation With ICE: ‘Elections Matter’",
+          "source": "Rolling Stone",
+          "link": "https://www.rollingstone.com/politics/politics-news/houston-mayor-rolls-back-cooperation-ice-midterms-1235654184/",
+          "published": "2026-11-06T19:52:32.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
+          "published": "2026-11-07T00:57:32.000Z",
           "outlets": 5
         }
       ]
@@ -50,34 +50,34 @@
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "France strikes: largest day of protests in years as economy fuels unrest",
-          "source": "CNN",
-          "link": "https://www.cnn.com/2026/11/05/world/live-news/france-strikes-protests-action-schools-intl",
-          "published": "2026-11-05T21:24:00.000Z"
+          "title": "New Zealanders head to polls on final day of voting",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting",
+          "published": "2026-11-06T23:55:33.000Z"
         },
         {
-          "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-          "published": "2026-11-06T02:30:48.000Z"
+          "title": "Poised for breakout moment in Latin America, Pope Leo also faces test of health",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/world/2026/11/06/poised-breakout-moment-latin-america-pope-leo-also-faces-test-health/",
+          "published": "2026-11-07T02:32:27.000Z"
         },
         {
-          "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
+          "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+          "published": "2026-11-06T20:42:51.000Z"
+        },
+        {
+          "title": "Russian ballistic missiles slam Kyiv after Zelensky warns of mass attack",
+          "source": "The Kyiv Independent",
+          "link": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
+          "published": "2026-11-06T22:04:00.000Z"
+        },
+        {
+          "title": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector",
           "source": "Reuters",
-          "link": "https://www.reuters.com/world/comedian-russell-brand-found-guilty-rape-2026-11-05/",
-          "published": "2026-11-05T18:04:46.000Z"
-        },
-        {
-          "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/",
-          "published": "2026-11-05T21:23:10.000Z"
-        },
-        {
-          "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
-          "source": "AP News",
-          "link": "https://apnews.com/article/flight-diverted-france-bomb-threat-dublin-rome-6585ff565ee1ccb9f19b73074aa2fec4",
-          "published": "2026-11-05T21:56:00.000Z"
+          "link": "https://www.reuters.com/business/energy/zelenskiy-says-ukraine-is-continuing-attacks-russias-oil-refining-sector-2026-11-06/",
+          "published": "2026-11-06T18:59:43.000Z"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "title": "💼 Business",
       "items": [
         {
-          "title": "Stocks plunge as election outcome and AI worries crush tech shares",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650",
-          "published": "2026-11-06T02:51:30.000Z"
+          "title": "Stock Market Today: Nasdaq Rallies In Tech Turnaround; Airbnb Rockets Higher",
+          "source": "Investor's Business Daily",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-october-jobs-report-nvidia-stock-nvda/",
+          "published": "2026-11-06T21:52:00.000Z"
         },
         {
-          "title": "IRS announces new federal income tax brackets for 2027",
-          "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
-          "published": "2026-11-05T19:23:32.000Z"
+          "title": "The Cybertruck’s Death Is Actually Great News for EVs",
+          "source": "WIRED",
+          "link": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+          "published": "2026-11-06T22:31:00.000Z"
         },
         {
-          "title": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap",
-          "source": "Bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-          "published": "2026-11-06T02:53:00.000Z"
+          "title": "Data centers were not winners in the 2026 elections, CBS News exit polls find",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/exit-polls-data-centers-2026-election/",
+          "published": "2026-11-06T19:17:00.000Z"
         },
         {
-          "title": "Investors have dumped Tesla and SpaceX stock since the blue wave election",
-          "source": "Business Insider",
-          "link": "https://www.businessinsider.com/tesla-spacex-elon-musk-democrats-tsla-spcx-stock-2026-11",
-          "published": "2026-11-05T21:32:00.000Z"
+          "title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d",
+          "published": "2026-11-07T03:00:00.000Z"
         },
         {
-          "title": "Markets realise they hate America’s blue wave",
-          "source": "The Economist",
-          "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-          "published": "2026-11-05T23:41:07.000Z"
+          "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/",
+          "published": "2026-11-06T22:04:06.000Z"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "title": "💻 Technology",
       "items": [
         {
-          "title": "MacBook Pro M6 Review: A Slight Upgrade, But Still The Most Accessible MacBook Pro",
-          "source": "Engadget",
-          "link": "https://www.engadget.com/2307614/apple-macbook-pro-m6-review/",
-          "published": "2026-11-05T14:00:00.000Z"
+          "title": "Future iPhones will have one less button, new rumor claims - GSMArena.com news",
+          "source": "GSMArena.com",
+          "link": "https://www.gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php",
+          "published": "2026-11-06T23:42:02.000Z"
         },
         {
-          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-          "source": "Ars Technica",
-          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-          "published": "2026-11-06T00:17:06.000Z"
-        },
-        {
-          "title": "Instagram brings Edits to desktop to take on CapCut",
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-          "published": "2026-11-05T15:00:00.000Z"
+          "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "published": "2026-11-06T18:44:20.000Z"
         },
         {
-          "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-          "source": "The Verge",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-          "published": "2026-11-05T17:00:00.000Z"
+          "title": "Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
+          "published": "2026-11-06T17:18:31.000Z"
         },
         {
-          "title": "Meta says US users can now video chat with their Muse AI avatar",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-          "published": "2026-11-05T19:48:28.000Z"
+          "title": "The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS",
+          "source": "Wccftech",
+          "link": "https://wccftech.com/zelda-ocarina-of-time-remake-60-fps-pc-emulators/",
+          "published": "2026-11-06T19:00:00.000Z"
+        },
+        {
+          "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+          "source": "The Hacker News",
+          "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "published": "2026-11-06T14:58:00.000Z"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/world/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-2026-11-05/",
-          "published": "2026-11-05T23:41:00.000Z"
-        },
-        {
-          "title": "Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
-          "source": "WSJ",
-          "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b",
-          "published": "2026-11-05T23:17:00.000Z"
-        },
-        {
-          "title": "OpenAI to Change How It Handles Data Center Efforts After Outcry",
+          "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
           "source": "Bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
-          "published": "2026-11-06T00:51:00.000Z"
+          "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+          "published": "2026-11-06T21:41:15.000Z"
         },
         {
-          "title": "AI for scientific discovery How researchers use Claude",
+          "title": "Project EVE: Claude plays MMORPGs",
           "source": "Anthropic",
-          "link": "https://www.anthropic.com/research/how-researchers-use-claude",
-          "published": "2026-11-05T15:07:56.000Z"
+          "link": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+          "published": "2026-11-06T20:52:05.000Z"
         },
         {
-          "title": "Anthropic's IPO plans run up against a battered Wall Street",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/technology/article/anthropics-ipo-plans-run-up-against-a-battered-wall-street-192138177.html",
-          "published": "2026-11-05T19:21:38.000Z"
+          "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+          "published": "2026-11-06T15:42:41.000Z"
+        },
+        {
+          "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+          "published": "2026-11-06T21:00:09.000Z"
+        },
+        {
+          "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+          "source": "Axios",
+          "link": "https://www.axios.com/2026/11/06/anthropicai-ipo-valuation-ai-trade",
+          "published": "2026-11-07T00:07:43.000Z"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "title": "🔥 Reddit",
       "items": [
         {
-          "title": "Taliban sets fire to hundreds of ‘immoral’ musical instruments",
+          "title": "Zelensky: Ukraine Has Not Received $16 Billion in Previously Agreed US Aid",
           "source": "r/worldnews",
-          "link": "https://www.reddit.com/r/worldnews/comments/1xoi6by/taliban_sets_fire_to_hundreds_of_immoral_musical/",
-          "published": "2026-11-05T13:06:40.000Z"
+          "link": "https://www.reddit.com/r/worldnews/comments/1xp8zzv/zelensky_ukraine_has_not_received_16_billion_in/",
+          "published": "2026-11-06T09:54:07.000Z"
         },
         {
-          "title": "“Regime Change Came in Texas Before Tehran”",
+          "title": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy",
           "source": "r/geopolitics",
-          "link": "https://www.reddit.com/r/geopolitics/comments/1xommh2/regime_change_came_in_texas_before_tehran/",
-          "published": "2026-11-05T16:11:02.000Z"
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xpfdya/trump_teases_big_beautiful_european_security_deal/",
+          "published": "2026-11-06T15:19:23.000Z"
         },
         {
-          "title": "Wendy's rejects buyout bid from activist investor and adopts 'poison pill' plan",
+          "title": "Tesla set to wind down production of Cybertruck",
           "source": "r/business",
-          "link": "https://www.reddit.com/r/business/comments/1xotlp7/wendys_rejects_buyout_bid_from_activist_investor/",
-          "published": "2026-11-05T20:38:28.000Z"
+          "link": "https://www.reddit.com/r/business/comments/1xpexlr/tesla_set_to_wind_down_production_of_cybertruck/",
+          "published": "2026-11-06T15:01:21.000Z"
         },
         {
-          "title": "Mark Cuban says Facebook knowingly runs AI deepfake scam ads as Meta docs reveal $16 billion in fraud-linked revenue",
+          "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
           "source": "r/technology",
-          "link": "https://www.reddit.com/r/technology/comments/1xoqri7/mark_cuban_says_facebook_knowingly_runs_ai/",
-          "published": "2026-11-05T18:47:12.000Z"
+          "link": "https://www.reddit.com/r/technology/comments/1xpel3i/rip_cybertruck_you_were_unloved_unwanted_and/",
+          "published": "2026-11-06T14:46:53.000Z"
         },
         {
-          "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” - AUTOMATON WEST",
+          "title": "Microsoft files patent for AI that can alter what people say during live broadcasts",
           "source": "r/artificial",
-          "link": "https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/",
-          "published": "2026-11-05T19:02:25.000Z"
+          "link": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
+          "published": "2026-11-06T04:25:28.000Z"
         }
       ]
     },
@@ -230,34 +230,34 @@
       "title": "🛠️ Engineering blogs",
       "items": [
         {
+          "title": "Safe and Efficient Multi-Epoch Embedding Training",
+          "source": "Pinterest Engineering Blog",
+          "link": "https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4",
+          "published": "2026-11-06T16:01:03.000Z"
+        },
+        {
+          "title": "The post-quantum future of web privacy",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/vole-mole/",
+          "published": "2026-11-06T14:00:00.000Z"
+        },
+        {
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/partnering-with-hacktron",
+          "published": "2026-11-06T08:00:00.000Z"
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "published": "2026-11-06T00:00:00.000Z"
+        },
+        {
           "title": "Inside GitHub’s new Git storage architecture",
           "source": "The latest from GitHub's engineering team - The GitHub Blog",
           "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
           "published": "2026-11-05T20:23:21.000Z"
-        },
-        {
-          "title": "Cult.fit builds operational muscle with Codex",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/cultfit-builds-with-codex",
-          "published": "2026-11-05T20:00:00.000Z"
-        },
-        {
-          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-          "source": "Google DeepMind News",
-          "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-          "published": "2026-11-05T17:05:16.000Z"
-        },
-        {
-          "title": "Agents aren’t humans (but they kinda are)",
-          "source": "Cloudflare Blog",
-          "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
-          "published": "2026-11-05T17:03:04.000Z"
-        },
-        {
-          "title": "Australian universities are creating AI-native graduates",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "published": "2026-11-05T17:00:00.000Z"
         }
       ]
     }
