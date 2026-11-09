@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T04:01:20.819Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T04:02:06.212Z",
   "overview": "",
-  "totalItems": 32,
+  "totalItems": 30,
   "sections": [
     {
       "key": "top",
       "title": "🔝 Top stories",
       "items": [
         {
-          "title": "Trump says he offered White House press secretary role to UFC’s Dana White",
+          "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+          "published": "2026-11-09T01:10:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment",
           "source": "The Washington Post",
-          "link": "https://www.washingtonpost.com/politics/2026/11/07/ufc-dana-white-offered-white-house-press-secretary-role-trump-says/",
-          "published": "2026-11-08T01:46:15.000Z",
+          "link": "https://www.washingtonpost.com/politics/2026/11/08/pete-hegseth-impeachment-would-be-hard-yes-hakeem-jeffries/",
+          "published": "2026-11-09T01:13:25.000Z",
           "outlets": 5
         },
         {
-          "title": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know",
-          "source": "The Hill",
-          "link": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/",
-          "published": "2026-11-07T18:22:00.000Z",
+          "title": "Trump says after midterms defeat his immigration crackdown was 'too tough'",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cmg476w7wnl2o",
+          "published": "2026-11-09T01:51:44.000Z",
           "outlets": 5
         },
         {
-          "title": "At least six people killed in shooting in Poland’s Krakow main square",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
-          "published": "2026-11-08T00:38:05.000Z",
+          "title": "Brooklyn jogger killed in stabbing saves 4 lives through organ donations",
+          "source": "Gothamist",
+          "link": "https://gothamist.com/news/brooklyn-jogger-killed-in-stabbing-saves-4-lives-through-organ-donations",
+          "published": "2026-11-08T21:25:00.000Z",
           "outlets": 5
         },
         {
-          "title": "Teacher's aide arrested in connection with NYC jogger's murder: Police",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://abcnews.com/US/suspect-arrested-connection-nyc-joggers-murder-police/story?id=137942462",
-          "published": "2026-11-07T18:25:47.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "After midterm rout, Vance tries to build his own 2028 brand",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/world/us/after-midterm-rout-vance-tries-build-his-own-2028-brand-2026-11-07/",
-          "published": "2026-11-07T15:05:38.000Z",
+          "title": "Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/oregon-man-charged-taking-utah-teen-accused-sexually-abusing-child-rcna607784",
+          "published": "2026-11-09T00:15:00.000Z",
           "outlets": 5
         }
       ]
@@ -50,34 +50,34 @@
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "President Herzog taps Eisenkot to form coalition, but path remains fraught",
-          "source": "The Times of Israel",
-          "link": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/",
-          "published": "2026-11-08T01:52:30.000Z"
-        },
-        {
-          "title": "New Zealand’s two major parties are flatlining as dispirited voters seek transformational change",
+          "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/08/nz-election-2026-national-labour-rejection-by-voters",
-          "published": "2026-11-08T01:18:00.000Z"
+          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+          "published": "2026-11-09T02:12:25.000Z"
         },
         {
-          "title": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith",
-          "source": "AP News",
-          "link": "https://apnews.com/article/pope-uruguay-argentina-brazil-cancer-48fcfaf83f64e9fdb80e6ca6ad022e19",
-          "published": "2026-11-08T01:07:00.000Z"
+          "title": "Passenger trains crash in Egypt, killing 7 and injuring 125, authorities say",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/world/2026/11/08/passenger-trains-crash-egypt-killing-7-injuring-125-authorities-say/",
+          "published": "2026-11-09T03:32:31.000Z"
         },
         {
-          "title": "Judge orders Paraguay's ex-president Peña held before trial",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/business/finance/paraguays-ex-president-pea-faces-prosecutors-after-impeachment-house-arrest-2026-11-07/",
-          "published": "2026-11-07T23:34:21.000Z"
+          "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+          "published": "2026-11-08T16:46:15.000Z"
         },
         {
-          "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
-          "source": "AP News",
-          "link": "https://apnews.com/article/russia-ukraine-war-kyiv-talks-abu-dhabi-b042adf1f95848f5d233da866a72e312",
-          "published": "2026-11-08T00:37:00.000Z"
+          "title": "Europe will be represented in Abu Dhabi talks on Ukraine, French foreign minister says",
+          "source": "POLITICO.eu",
+          "link": "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/",
+          "published": "2026-11-08T14:03:00.000Z"
+        },
+        {
+          "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+          "published": "2026-11-08T23:11:30.000Z"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "title": "💼 Business",
       "items": [
         {
-          "title": "How midterm elections sent Wall Street from celebration to mayhem in just 24 hours / this week",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/article/stocks-soared-on-the-democratic-sweep-less-than-24-hours-later-the-ai-trade-cracked-183312401.html",
-          "published": "2026-11-07T18:33:12.000Z"
+          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+          "published": "2026-11-09T00:33:59.000Z"
         },
         {
-          "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+          "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
           "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-          "published": "2026-11-07T13:00:01.000Z"
+          "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "published": "2026-11-09T03:31:00.000Z"
         },
         {
-          "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
-          "source": "Bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation",
-          "published": "2026-11-07T20:33:10.000Z"
+          "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack",
+          "source": "Fox Business",
+          "link": "https://www.foxbusiness.com/fox-news-tech/binance-names-new-cfo-days-cryptocurrency-hack",
+          "published": "2026-11-08T13:42:00.000Z"
         },
         {
-          "title": "$847M Powerball winner may stay anonymous forever thanks to New Jersey exception",
-          "source": "New York Post",
-          "link": "https://nypost.com/2026/11/06/us-news/847m-powerball-winner-may-stay-anonymous-forever-thanks-to-rare-new-jersey-exception/",
-          "published": "2026-11-06T15:11:00.000Z"
+          "title": "Tech stocks are now cheaper than the S&P 500 for the first time since 2017 — here's what history says comes next: Chart of the Day",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/article/tech-stocks-are-now-cheaper-than-the-sp-500-for-the-first-time-since-2017--heres-what-history-says-comes-next-chart-of-the-day-130131812.html",
+          "published": "2026-11-07T13:01:31.000Z"
         },
         {
-          "title": "Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better",
-          "source": "24/7 Wall St.",
-          "link": "https://247wallst.com/investing/2026/11/07/musk-says-spacex-could-buy-a-legacy-telco-and-use-its-spectrum-10-times-better/",
-          "published": "2026-11-07T18:26:00.000Z"
+          "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+          "published": "2026-11-08T17:02:00.000Z"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "title": "💻 Technology",
       "items": [
         {
-          "title": "iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple's and Samsung's Foldables",
-          "source": "CNET",
-          "link": "https://www.cnet.com/tech/mobile/iphone-duo-vs-galaxy-z-fold-8-camera-comparison/",
-          "published": "2026-11-07T13:00:09.000Z"
+          "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "published": "2026-11-08T15:00:01.000Z"
         },
         {
-          "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
+          "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
           "source": "MacRumors",
-          "link": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
-          "published": "2026-11-07T20:44:15.000Z"
+          "link": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+          "published": "2026-11-08T15:42:38.000Z"
         },
         {
-          "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
-          "source": "MacRumors",
-          "link": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
-          "published": "2026-11-07T20:50:00.000Z"
+          "title": "If Snap's Specs are still ridiculously expensive, they're also a lot more comfortable than they used to be",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+          "published": "2026-11-08T21:00:00.000Z"
         },
         {
-          "title": "Ocarina of Time review: Does Nintendo's Zelda remake match its original?",
-          "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
-          "published": "2026-11-08T00:37:45.000Z"
+          "title": "NASA is looking for astronauts to live and work on the Moon",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+          "published": "2026-11-08T23:36:47.000Z"
         },
         {
-          "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for way under market price",
-          "source": "Mashable",
-          "link": "https://mashable.com/life/nov-6-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
-          "published": "2026-11-07T14:39:15.000Z"
+          "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+          "source": "The Hacker News",
+          "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "published": "2026-11-06T14:58:00.000Z"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "source": "OpenAI",
-          "link": "https://openai.com/index/partnering-with-hacktron/",
-          "published": "2026-11-06T18:17:05.000Z"
-        },
-        {
-          "title": "Anthropic Presses On With IPO as Bids Slip to $1.2T [2026]",
-          "source": "https://tech-insider.org/",
-          "link": "https://tech-insider.org/anthropic-presses-ahead-ipo-ft-bloomberg-1-2-1-3-trillion-2026/",
-          "published": "2026-11-08T01:22:12.000Z"
-        },
-        {
-          "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/",
-          "published": "2026-11-06T23:19:47.000Z"
-        },
-        {
-          "title": "Better IPO to Buy: Anthropic vs. SpaceX",
+          "title": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't'",
           "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/better-ipo-buy-anthropic-vs-130700914.html",
-          "published": "2026-11-07T13:07:00.000Z"
+          "link": "https://finance.yahoo.com/markets/article/anthropics-ipo-dilemma-after-the-ai-sell-off-damned-if-you-do-damned-if-you-dont-231326634.html",
+          "published": "2026-11-08T23:12:28.000Z"
         },
         {
-          "title": "Anthropic Engineer’s 3 Habits vs Cognitive Surrender [2026]",
-          "source": "shattered.io",
-          "link": "https://shattered.io/anthropic-engineer-cognitive-surrender-three-habits-addy-osmani-2026/",
-          "published": "2026-11-08T03:33:53.000Z"
+          "title": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/tech/ai/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-05f53582",
+          "published": "2026-11-08T23:40:46.000Z"
+        },
+        {
+          "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+          "published": "2026-11-08T12:54:10.000Z"
+        },
+        {
+          "title": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
+          "published": "2026-11-08T11:48:21.000Z"
+        },
+        {
+          "title": "OpenAI Valuation Hits $1.25 Trillion in New Funding Round",
+          "source": "PYMNTS.com",
+          "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-valuation-hits-1-25-trillion-in-new-funding-round/",
+          "published": "2026-11-09T00:06:59.000Z"
         }
       ]
     },
@@ -194,54 +194,41 @@
       "title": "🔥 Reddit",
       "items": [
         {
-          "title": "Israeli President Picks Gadi Eisenkot, Netanyahu Rival, To Form Government",
+          "title": "Putin Seizes Three More Japan Tobacco Businesses, Bringing Takeover to $3.7 Billion",
           "source": "r/worldnews",
-          "link": "https://www.reddit.com/r/worldnews/comments/1xqezyx/israeli_president_picks_gadi_eisenkot_netanyahu/",
-          "published": "2026-11-07T19:41:24.000Z"
+          "link": "https://www.reddit.com/r/worldnews/comments/1xqvpmi/putin_seizes_three_more_japan_tobacco_businesses/",
+          "published": "2026-11-08T10:48:42.000Z"
         },
         {
-          "title": "British troops will be allowed to fire back at Russian forces if attacked in mission — London and Paris pressing ahead with preparations for the \"Multinational Force-Ukraine\" (MNF-U)",
+          "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
           "source": "r/geopolitics",
-          "link": "https://www.reddit.com/r/geopolitics/comments/1xq7b3d/british_troops_will_be_allowed_to_fire_back_at/",
-          "published": "2026-11-07T14:12:39.000Z"
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xqtcci/russia_using_own_version_of_starlink_for_military/",
+          "published": "2026-11-08T08:09:46.000Z"
         },
         {
-          "title": "Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+          "title": "Nvidia’s Jensen Huang admits to affair after allegations of relationship with Chinese spy",
           "source": "r/business",
-          "link": "https://www.reddit.com/r/business/comments/1xq176g/tesla_and_spacex_lose_over_420_billion_in/",
-          "published": "2026-11-07T08:11:10.000Z"
+          "link": "https://www.reddit.com/r/business/comments/1xr9y68/nvidias_jensen_huang_admits_to_affair_after/",
+          "published": "2026-11-08T21:41:23.000Z"
         },
         {
-          "title": "Texas Governor-Elect Requests Pause on Land Talks With SpaceX",
+          "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
           "source": "r/technology",
-          "link": "https://www.reddit.com/r/technology/comments/1xq86a2/texas_governorelect_requests_pause_on_land_talks/",
-          "published": "2026-11-07T14:52:04.000Z"
+          "link": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
+          "published": "2026-11-08T20:25:13.000Z"
         },
         {
-          "title": "Professor returns from lunch to find AI deleted year’s worth of lecture notes",
+          "title": "Nvidia has launched an investigation on CEO Jensen Huang after, he admitted to having had a romantic relationship with a chinese spy",
           "source": "r/artificial",
-          "link": "https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/",
-          "published": "2026-11-07T15:57:44.000Z"
+          "link": "https://www.reddit.com/r/artificial/comments/1xrbxim/nvidia_has_launched_an_investigation_on_ceo/",
+          "published": "2026-11-08T23:09:44.000Z"
         }
       ]
     },
     {
       "key": "engineering",
       "title": "🛠️ Engineering blogs",
-      "items": [
-        {
-          "title": "Safe and Efficient Multi-Epoch Embedding Training",
-          "source": "Pinterest Engineering Blog",
-          "link": "https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4",
-          "published": "2026-11-06T16:01:03.000Z"
-        },
-        {
-          "title": "The post-quantum future of web privacy",
-          "source": "Cloudflare Blog",
-          "link": "https://blog.cloudflare.com/vole-mole/",
-          "published": "2026-11-06T14:00:00.000Z"
-        }
-      ]
+      "items": []
     }
   ]
 }
