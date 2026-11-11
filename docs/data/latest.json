@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T04:01:51.492Z",
-  "overview": "• Ukraine peace talks have resumed in Abu Dhabi after a months-long pause, while France accused Iran of hacking hundreds of French supermarket refrigerators.\n• President Trump stated the FBI is investigating Nvidia's boss over an affair with an alleged Chinese spy, as Exxon takes steps toward investing in Venezuela.\n• Apple launched iOS 27.2.1 with security fixes for Messages and AirPlay, while a remake of 'The Ocarina of Time' sets Metacritic records.\n• Anthropic is preparing to move forward with its IPO despite market jitters and a briefly retracted initial filing notification.",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T04:01:57.674Z",
+  "overview": "• Russia and Ukraine held nearly four hours of U.S.-mediated talks in Abu Dhabi as Baltic nations warned of new drone threats.\n• Anthropic bankers are preparing to raise the company's IPO valuation to $1.5 trillion, while U.S. gas prices dropped below $4 a gallon.\n• Adobe introduced new AI agents across Photoshop and Premiere, while Microsoft launched its DLSS competitor for handheld gaming devices.\n• OpenAI continues to suffer steep financial losses even as its quarterly revenue surged to $10 billion.",
   "totalItems": 35,
   "sections": [
     {
@@ -9,38 +9,38 @@
       "title": "🔝 Top stories",
       "items": [
         {
-          "title": "California voters reject new tax on billionaires in a blow to the left",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382",
-          "published": "2026-11-10T02:36:00.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "Republican Thomas Massie will force impeachment vote on Defence Secretary Pete Hegseth",
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
           "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/cwr5y58jjp8ro",
-          "published": "2026-11-10T01:38:49.000Z",
+          "link": "https://www.bbc.com/news/articles/cxly4y5jzl0qo",
+          "published": "2026-11-11T03:26:42.000Z",
           "outlets": 5
         },
         {
-          "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
-          "published": "2026-11-09T23:48:00.000Z",
+          "title": "House Republicans elect Jim Jordan to serve as minority leader next year",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/11/10/house-republicans-elect-jim-jordan-serve-minority-leader-next-year/",
+          "published": "2026-11-11T01:43:05.000Z",
           "outlets": 5
         },
         {
-          "title": "UFC chief takes White House podium, but turns down Trump",
-          "source": "Yahoo Sports",
-          "link": "https://sports.yahoo.com/articles/ufc-chief-takes-white-house-223446707.html",
-          "published": "2026-11-09T22:34:46.000Z",
+          "title": "U.S. charges 3 men with plotting multiple terrorist attacks, including planned attack against U.K. air base",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
+          "published": "2026-11-11T01:22:00.000Z",
           "outlets": 5
         },
         {
-          "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
-          "published": "2026-11-09T18:37:12.000Z",
+          "title": "Sanders, Slotkin won’t back Schumer as Senate Democratic leader",
+          "source": "The Hill",
+          "link": "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/",
+          "published": "2026-11-10T20:28:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "How much snow? Latest forecast for wintry weather",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/news/weather/2026/11/10/winter-weather-forecast-november-cold-frost-snow/92706328007/",
+          "published": "2026-11-10T21:52:00.000Z",
           "outlets": 5
         }
       ]
@@ -50,34 +50,34 @@
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "Iran hacked hundreds of French supermarket refrigerators, France says",
-          "source": "The Washington Post",
-          "link": "https://www.washingtonpost.com/world/2026/11/09/iran-hacked-hundreds-french-supermarket-refrigerators-france-says/",
-          "published": "2026-11-10T03:44:38.000Z"
+          "title": "Latvia, Lithuania warn of new drone threats as Finland adopts curbs",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/latvia-lithuania-warn-threat-airspace-near-belarus-2026-11-10/",
+          "published": "2026-11-10T23:55:47.000Z"
         },
         {
-          "title": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence",
-          "source": "Chicago Tribune",
-          "link": "https://www.chicagotribune.com/2026/11/09/megyn-kelly-elon-musk-russell-brand/",
-          "published": "2026-11-09T18:15:28.000Z"
+          "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+          "published": "2026-11-10T20:53:41.000Z"
         },
         {
-          "title": "Ukraine peace talks resume in Abu Dhabi after months-long pause",
+          "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+          "source": "PBS",
+          "link": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+          "published": "2026-11-10T18:09:38.000Z"
+        },
+        {
+          "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+          "published": "2026-11-10T16:23:18.000Z"
+        },
+        {
+          "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
           "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o",
-          "published": "2026-11-10T00:09:49.000Z"
-        },
-        {
-          "title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures",
-          "source": "AP News",
-          "link": "https://apnews.com/article/pope-argentina-milei-labor-unemployment-disabilities-2ad4ba74d0cff90fb49569df400ac582",
-          "published": "2026-11-09T22:18:00.000Z"
-        },
-        {
-          "title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say",
-          "source": "NBC News",
-          "link": "https://www.nbcnews.com/world/europe/krakow-shooting-gunman-poland-attack-dies-hospital-rcna608248",
-          "published": "2026-11-09T13:00:00.000Z"
+          "link": "https://www.bbc.com/news/articles/cmwy9jl18840o",
+          "published": "2026-11-11T03:13:07.000Z"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "title": "💼 Business",
       "items": [
         {
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/cqg7x7dpvym8o",
-          "published": "2026-11-10T01:44:53.000Z"
+          "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+          "source": "Axios",
+          "link": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
+          "published": "2026-11-11T00:58:33.000Z"
         },
         {
-          "title": "Skydance Details Cost Savings and Plans HBO Max-Paramount+ Bundle in First Post-Deal Earnings Report",
-          "source": "The Hollywood Reporter",
-          "link": "https://www.hollywoodreporter.com/business/business-news/skydance-first-earnings-q3-post-wb-deal-1236751164/",
-          "published": "2026-11-09T22:44:53.000Z"
+          "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+          "published": "2026-11-11T00:30:25.000Z"
         },
         {
-          "title": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
-          "published": "2026-11-10T01:00:00.000Z"
-        },
-        {
-          "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
+          "title": "Here's the inflation breakdown for October 2026 — in one chart",
           "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-          "published": "2026-11-10T02:33:47.000Z"
+          "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+          "published": "2026-11-10T16:18:20.000Z"
         },
         {
-          "title": "Exxon Takes First Step Toward Investing in Venezuela",
-          "source": "WSJ",
-          "link": "https://www.wsj.com/business/energy-oil/exxon-takes-first-step-toward-investing-in-venezuela-f8e0f5e0",
-          "published": "2026-11-10T00:58:00.000Z"
+          "title": "CoreWeave Earnings Beat Expectations, Assuaging Market Nervousness",
+          "source": "Barron's",
+          "link": "https://www.barrons.com/articles/coreweave-earnings-stock-price-7c0a24d8",
+          "published": "2026-11-10T23:03:00.000Z"
+        },
+        {
+          "title": "Gas prices fall below $4 a gallon for first time since July",
+          "source": "Fox Business",
+          "link": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
+          "published": "2026-11-10T22:12:00.000Z"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "title": "💻 Technology",
       "items": [
         {
-          "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
-          "source": "9to5Mac",
-          "link": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
-          "published": "2026-11-09T20:20:00.000Z"
+          "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+          "published": "2026-11-11T00:34:00.000Z"
         },
         {
-          "title": "iPhone 18e Could Feature Bigger Display and Battery",
-          "source": "MacRumors",
-          "link": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
-          "published": "2026-11-09T12:45:25.000Z"
+          "title": "Google Fi adds support for a second 5G network, won’t say which one",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+          "published": "2026-11-10T19:35:59.000Z"
         },
         {
-          "title": "Which Foldable Phone Has the Best Battery Life? We Put Them to the Test",
-          "source": "CNET",
-          "link": "https://www.cnet.com/tech/mobile/foldable-phone-best-battery-life/",
-          "published": "2026-11-09T13:00:12.000Z"
+          "title": "Starlink Mini 2 packs a 4.5-hour swappable battery, Wi-Fi 6 with 1,800 sq ft coverage",
+          "source": "Interesting Engineering",
+          "link": "https://interestingengineering.com/innovation/starlink-mini-2-swappable-battery-launch",
+          "published": "2026-11-10T19:59:00.000Z"
         },
         {
-          "title": "'The Ocarina of Time' remake is setting Metacritic records left and right",
-          "source": "Mashable",
-          "link": "https://mashable.com/entertainment/zelda-ocarina-of-time-switch-2-metacritic-records",
-          "published": "2026-11-10T03:12:14.000Z"
+          "title": "Seagate’s new hybrid drive raises some old questions",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+          "published": "2026-11-10T23:30:56.000Z"
         },
         {
-          "title": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes",
-          "source": "Nintendo Life",
-          "link": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
-          "published": "2026-11-10T01:50:47.000Z"
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+          "published": "2026-11-10T14:05:10.000Z"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "EXCLUSIVE: Anthropic sends out, then retracts details of IPO filing, emails show",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/",
-          "published": "2026-11-10T01:22:00.000Z"
-        },
-        {
-          "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+          "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
           "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
-          "published": "2026-11-09T23:30:15.000Z"
+          "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+          "published": "2026-11-10T23:46:35.000Z"
         },
         {
-          "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+          "title": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion",
           "source": "WSJ",
-          "link": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c",
-          "published": "2026-11-09T21:12:00.000Z"
+          "link": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb",
+          "published": "2026-11-11T01:02:00.000Z"
         },
         {
-          "title": "Claude can design electronic prototypes from start to finish",
-          "source": "Anthropic",
-          "link": "https://www.anthropic.com/research/claude-electronics-design",
-          "published": "2026-11-09T18:58:57.000Z"
+          "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+          "published": "2026-11-10T21:54:37.000Z"
         },
         {
-          "title": "Anthropic reportedly plans to move forward with IPO plans",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-          "published": "2026-11-10T01:27:12.000Z"
+          "title": "Anthropic Bankers Look to Increase IPO Valuation, Report Says",
+          "source": "Bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
+          "published": "2026-11-11T02:33:00.000Z"
+        },
+        {
+          "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/legal/transactional/openai-posts-steep-losses-even-quarterly-revenue-rises-10-billion-wsj-reports-2026-11-10/",
+          "published": "2026-11-10T23:54:00.000Z"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "title": "🔥 Reddit",
       "items": [
         {
-          "title": "France accuses Iran of supermarket fridge cyberattack",
+          "title": "Zelensky: Putin Will Return in 1, 2 or 5 Years if Ukraine Gives Up Donbas",
           "source": "r/worldnews",
-          "link": "https://www.reddit.com/r/worldnews/comments/1xrw43z/france_accuses_iran_of_supermarket_fridge/",
-          "published": "2026-11-09T16:24:28.000Z"
+          "link": "https://www.reddit.com/r/worldnews/comments/1xsn9k4/zelensky_putin_will_return_in_1_2_or_5_years_if/",
+          "published": "2026-11-10T13:44:46.000Z"
         },
         {
-          "title": "France says Iran's Guards behind cyberattacks on fridges | France on Monday said Iran's Revolutionary Guards were behind \"unprecedented\" cyberattacks on supermarket fridges in the country last month, vowing sanctions on a European level against Tehran.",
+          "title": "US demands a seat for Europe at Ukraine peace talks – POLITICO",
           "source": "r/geopolitics",
-          "link": "https://www.reddit.com/r/geopolitics/comments/1xryj9z/france_says_irans_guards_behind_cyberattacks_on/",
-          "published": "2026-11-09T17:52:50.000Z"
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xsnkq9/us_demands_a_seat_for_europe_at_ukraine_peace/",
+          "published": "2026-11-10T13:58:36.000Z"
         },
         {
-          "title": "Nvidia takes $300bn hit after boss Jensen Huang admits affair",
+          "title": "PepsiCo Eliminates 1,000 Roles as North America Business Faces Pressure",
           "source": "r/business",
-          "link": "https://www.reddit.com/r/business/comments/1xruc4r/nvidia_takes_300bn_hit_after_boss_jensen_huang/",
-          "published": "2026-11-09T15:18:11.000Z"
+          "link": "https://www.reddit.com/r/business/comments/1xsmyyz/pepsico_eliminates_1000_roles_as_north_america/",
+          "published": "2026-11-10T13:31:45.000Z"
         },
         {
-          "title": "America's school buses are becoming AI-powered ticket machines, generating millions from drivers who fail to stop",
+          "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
           "source": "r/technology",
-          "link": "https://www.reddit.com/r/technology/comments/1xrsyal/americas_school_buses_are_becoming_aipowered/",
-          "published": "2026-11-09T14:23:48.000Z"
+          "link": "https://www.reddit.com/r/technology/comments/1xsjbxl/nvidia_and_jensen_huang_sued_by_shareholders_over/",
+          "published": "2026-11-10T10:17:18.000Z"
         },
         {
-          "title": "Google is coming for Nvidia, it's a double bad day for Jensen. A deep look at Google's new TPUs (8tx/8i Max)",
+          "title": "Claude Fable 5.2 coordinated more than 1,000 AI agents to build a working operating system in eight days",
           "source": "r/artificial",
-          "link": "https://www.reddit.com/r/artificial/comments/1xs17j1/google_is_coming_for_nvidia_its_a_double_bad_day/",
-          "published": "2026-11-09T19:29:55.000Z"
+          "link": "https://www.reddit.com/r/artificial/comments/1xsoidy/claude_fable_52_coordinated_more_than_1000_ai/",
+          "published": "2026-11-10T14:37:40.000Z"
         }
       ]
     },
@@ -230,34 +230,34 @@
       "title": "🛠️ Engineering blogs",
       "items": [
         {
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
           "source": "OpenAI News",
-          "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-          "published": "2026-11-09T19:00:00.000Z"
+          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "published": "2026-11-12T00:00:00.000Z"
         },
         {
-          "title": "AI Product Management at Spotify: A View From Three Angles",
-          "source": "Spotify Engineering",
-          "link": "https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/",
-          "published": "2026-11-09T17:53:35.000Z"
+          "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+          "source": "The Airbnb Tech Blog",
+          "link": "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4",
+          "published": "2026-11-10T18:01:02.000Z"
         },
         {
-          "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
-          "source": "Netflix TechBlog",
-          "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
-          "published": "2026-11-09T17:01:02.000Z"
-        },
-        {
-          "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+          "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
           "source": "Engineering at Meta",
-          "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
-          "published": "2026-11-09T17:00:12.000Z"
+          "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+          "published": "2026-11-10T17:00:49.000Z"
         },
         {
-          "title": "Launching the Vite Ecosystem Fund",
-          "source": "Cloudflare Blog",
-          "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
-          "published": "2026-11-09T13:00:00.000Z"
+          "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+          "source": "Engineering at Meta",
+          "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+          "published": "2026-11-10T16:59:31.000Z"
+        },
+        {
+          "title": "Gemini 4 Carbon is now available",
+          "source": "Google DeepMind News",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "published": "2026-11-10T16:03:47.000Z"
         }
       ]
     }
