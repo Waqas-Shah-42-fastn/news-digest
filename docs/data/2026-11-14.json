@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T04:02:22.182Z",
+  "overview": "• President Donald Trump is scheduled to hold his first trilateral meeting with Russian President Vladimir Putin and Chinese leader Xi Jinping.\n• Congressional Republicans have called on Howard Lutnick and Jensen Huang to testify about Nvidia amid clashes among Trump’s top economic advisers.\n• A widespread Microsoft outage has disrupted services across the globe, serving as a stark reminder of critical reliance on modern tech.\n• Anthropic is seeing strong investor demand ahead of its IPO, while rival OpenAI announced the launch of ChatGPT Wallet.",
+  "totalItems": 35,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+          "published": "2026-11-14T03:44:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
+          "source": "WDSU",
+          "link": "https://www.wdsu.com/article/new-orleans-mississippi-river-cruise-ship-collision-what-we-know/74426415",
+          "published": "2026-11-14T02:00:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "MAGA firebrand Lauren Boebert falls to Democrat Eileen Laubacher in Colorado",
+          "source": "Politico",
+          "link": "https://www.politico.com/live-updates/2026/11/13/congress/lauren-boebert-loses-colorado-house-race-01165775",
+          "published": "2026-11-14T02:05:15.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/business/2026/11/13/treasury-secretary-points-commerce-secretary-failure-restrict-nvidia-customer/",
+          "published": "2026-11-14T01:40:29.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-peru-emotional-return-diocese-chiclayo-rcna608940",
+          "published": "2026-11-13T22:52:34.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "US Army names officer held on ‘allegations of espionage’",
+          "source": "Defense News",
+          "link": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
+          "published": "2026-11-13T16:32:38.000Z"
+        },
+        {
+          "title": "Trump to have first trilateral meeting with Putin, Xi",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-putin-xi-jinping/",
+          "published": "2026-11-14T03:47:00.000Z"
+        },
+        {
+          "title": "Rubio says further US military action is not needed against economically weakened Iran",
+          "source": "AP News",
+          "link": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08",
+          "published": "2026-11-14T00:45:00.000Z"
+        },
+        {
+          "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/13/europe/russia-ukraine-us-europe-peace-talks-putin-intl",
+          "published": "2026-11-13T18:24:53.000Z"
+        },
+        {
+          "title": "Man dies after eating crude bomb disguised as traditional Indian sweet",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/man-dies-eats-bomb-disguised-indian-sweet/",
+          "published": "2026-11-13T11:36:22.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "House and Senate Republicans call on Howard Lutnick, Jensen Huang to testify about Nvidia",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://abcnews.com/Politics/house-senate-republicans-call-howard-lutnick-jensen-huang/story?id=138111390",
+          "published": "2026-11-13T21:41:08.000Z"
+        },
+        {
+          "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cxzd9171m51qo",
+          "published": "2026-11-13T21:15:41.000Z"
+        },
+        {
+          "title": "Silicon Valley plots Jensen Huang’s comeback",
+          "source": "Politico",
+          "link": "https://www.politico.com/news/2026/11/13/silicon-valley-plots-jensen-huangs-comeback-01166322",
+          "published": "2026-11-14T01:21:00.000Z"
+        },
+        {
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "published": "2026-11-14T00:49:13.000Z"
+        },
+        {
+          "title": "Family Dollar to pay $63 million to settle claims it overcharged customers",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
+          "published": "2026-11-13T20:52:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
+          "source": "Engadget",
+          "link": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
+          "published": "2026-11-13T14:00:00.000Z"
+        },
+        {
+          "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+          "published": "2026-11-13T19:26:39.000Z"
+        },
+        {
+          "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+          "source": "9to5Google",
+          "link": "https://9to5google.com/2026/11/13/id-rather-use-android-xr-glasses-over-meta-ray-bans-for-the-app-alone/",
+          "published": "2026-11-13T13:30:00.000Z"
+        },
+        {
+          "title": "Another Linux kernel developer steps back from some duties due to overload",
+          "source": "The Register",
+          "link": "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
+          "published": "2026-11-13T15:28:00.000Z"
+        },
+        {
+          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+          "published": "2026-11-13T20:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/",
+          "published": "2026-11-13T23:30:55.000Z"
+        },
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "source": "OpenAI",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet/",
+          "published": "2026-11-13T15:15:30.000Z"
+        },
+        {
+          "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+          "published": "2026-11-13T23:20:11.000Z"
+        },
+        {
+          "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71",
+          "published": "2026-11-13T18:46:00.000Z"
+        },
+        {
+          "title": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident",
+          "source": "Fast Company",
+          "link": "https://www.fastcompany.com/91642227/openai-board-member-terrifying-prediction-you-will-die-from-ai-accident-chatgpt",
+          "published": "2026-11-14T00:37:06.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": [
+        {
+          "title": "Ukraine Says 100% of Missions Are Failing Under Starshield Restrictions—SpaceX Denies Any Changes",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xv35dg/ukraine_says_100_of_missions_are_failing_under/",
+          "published": "2026-11-13T09:09:04.000Z"
+        },
+        {
+          "title": "European citizens overwhelmingly back creation of EU army, survey finds",
+          "source": "r/geopolitics",
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xvfi0p/european_citizens_overwhelmingly_back_creation_of/",
+          "published": "2026-11-13T18:23:11.000Z"
+        },
+        {
+          "title": "‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO",
+          "source": "r/business",
+          "link": "https://www.reddit.com/r/business/comments/1xuztjp/im_a_piece_of_sh_jensen_huangs_last_hours_as/",
+          "published": "2026-11-13T05:45:45.000Z"
+        },
+        {
+          "title": "Microsoft's massive M365 outage stretches past 15 hours as its fixes keep failing",
+          "source": "r/technology",
+          "link": "https://www.reddit.com/r/technology/comments/1xv6c5l/microsofts_massive_m365_outage_stretches_past_15/",
+          "published": "2026-11-13T12:15:06.000Z"
+        },
+        {
+          "title": "Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy",
+          "source": "r/artificial",
+          "link": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
+          "published": "2026-11-13T04:17:20.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "Kitesurf is now open source",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+          "published": "2026-11-13T20:20:21.000Z"
+        },
+        {
+          "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+          "published": "2026-11-13T19:26:07.000Z"
+        },
+        {
+          "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
+          "source": "Engineering at Meta",
+          "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+          "published": "2026-11-13T17:00:39.000Z"
+        },
+        {
+          "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/spend-management/",
+          "published": "2026-11-13T14:00:00.000Z"
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/customer-stories/shield",
+          "published": "2026-11-13T08:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
