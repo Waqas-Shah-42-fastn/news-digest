@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T04:02:14.800Z",
+  "overview": "• Iran's navy reported that three oil tankers caught fire after striking mines in the Strait of Hormuz.\n• Microsoft confirmed that its services were fully restored following an hourslong global outage.\n• Breakthrough brain implants have successfully given patients with A.L.S. the ability to speak and sing.\n• OpenAI launched ChatGPT Wallet as Wall Street prepares for a potential Anthropic initial public offering.",
+  "totalItems": 35,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Judge rejects Trump’s bid to immediately close East Potomac golf course",
+          "source": "Politico",
+          "link": "https://www.politico.com/news/2026/11/14/judge-rejects-trumps-bid-to-immediately-close-east-potomac-golf-course-01166639",
+          "published": "2026-11-15T02:20:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
+          "published": "2026-11-14T22:03:12.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "How the White House plans to put Democrats on defense on oversight",
+          "source": "Politico",
+          "link": "https://www.politico.com/news/2026/11/14/white-house-defense-oversight-01161775",
+          "published": "2026-11-14T19:17:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/2026-election/democrat-mary-peltola-likely-win-alaska-senate-race-rcna608673",
+          "published": "2026-11-14T20:52:49.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cwe89y2r5j20o",
+          "published": "2026-11-14T22:27:06.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Fifth Canadian soldier dies of injuries from military training fire",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/world/canada/fifth-canadian-soldier-dies-injuries-military-training-fire-rcna609367",
+          "published": "2026-11-15T01:52:00.000Z"
+        },
+        {
+          "title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\"",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+          "published": "2026-11-15T00:56:00.000Z"
+        },
+        {
+          "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town",
+          "published": "2026-11-14T19:24:44.000Z"
+        },
+        {
+          "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/middle-east/irans-navy-says-oil-tanker-fire-after-hitting-mine-hormuz-2026-11-14/",
+          "published": "2026-11-14T22:54:19.000Z"
+        },
+        {
+          "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/us-europe-russia-engagement-ukraine-war/",
+          "published": "2026-11-14T22:07:08.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "FAA was warned for years about repair risks leading to nationwide ground stop",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/",
+          "published": "2026-11-15T02:45:45.000Z"
+        },
+        {
+          "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+          "published": "2026-11-15T00:40:59.000Z"
+        },
+        {
+          "title": "Tech Leaders Rally Behind Jensen Huang",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+          "published": "2026-11-14T20:57:38.000Z"
+        },
+        {
+          "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+          "published": "2026-11-14T23:08:49.000Z"
+        },
+        {
+          "title": "Microsoft says services fully restored after hourslong global outage",
+          "source": "AP News",
+          "link": "https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a",
+          "published": "2026-11-14T09:21:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "I test trending tech for a living. These 9 are actually worth gifting",
+          "source": "USA Today",
+          "link": "https://www.usatoday.com/story/shopping/gifts/2026/11/13/useful-tech-gifts-gadgets/92763282007/",
+          "published": "2026-11-14T15:33:00.000Z"
+        },
+        {
+          "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park",
+          "source": "ABC7 Los Angeles",
+          "link": "https://abc7.com/post/space-shuttle-endeavour-new-la-home-opens-california-science-center-exposition-park/20038657/",
+          "published": "2026-11-13T21:36:57.000Z"
+        },
+        {
+          "title": "Brain Implants Give A.L.S. Patients the Voice to Speak and Sing",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html",
+          "published": "2026-11-14T17:00:09.000Z"
+        },
+        {
+          "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/11/13/homeview-tidbits-2/",
+          "published": "2026-11-13T22:04:35.000Z"
+        },
+        {
+          "title": "‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/conormurray/2026/11/14/gta-vi-has-already-sold-1-billion-in-preorders-but-may-not-revive-console-sales-amid-ai-driven-price-hikes/",
+          "published": "2026-11-14T14:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
+          "published": "2026-11-14T18:56:19.000Z"
+        },
+        {
+          "title": "Meet the seven co-founders of Anthropic",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+          "published": "2026-11-14T12:00:01.000Z"
+        },
+        {
+          "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+          "source": "The Decoder",
+          "link": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+          "published": "2026-11-14T16:50:52.000Z"
+        },
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "source": "OpenAI",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet/",
+          "published": "2026-11-13T15:15:30.000Z"
+        },
+        {
+          "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+          "published": "2026-11-14T17:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": [
+        {
+          "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xvzor3/us_proposed_ukraine_cedes_donbas_in_exchange_for/",
+          "published": "2026-11-14T10:58:13.000Z"
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "source": "r/geopolitics",
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xw060e/us_has_floated_ukraine_ceding_donbas_for_nato/",
+          "published": "2026-11-14T11:26:53.000Z"
+        },
+        {
+          "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "source": "r/business",
+          "link": "https://www.reddit.com/r/business/comments/1xvvkbk/nvidia_allegedly_engineered_scarcity_by_funding/",
+          "published": "2026-11-14T06:40:45.000Z"
+        },
+        {
+          "title": "CNN Aviation Analyst Says ‘It’s Just Too Much of a Coincidence’ FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
+          "source": "r/technology",
+          "link": "https://www.reddit.com/r/technology/comments/1xvudm2/cnn_aviation_analyst_says_its_just_too_much_of_a/",
+          "published": "2026-11-14T05:33:00.000Z"
+        },
+        {
+          "title": "Russia demands that NATO return to its 1997 borders and stop supporting Ukraine",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xvxyay/russia_demands_that_nato_return_to_its_1997/",
+          "published": "2026-11-14T09:07:12.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "Kitesurf is now open source",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+          "published": "2026-11-13T20:20:21.000Z"
+        },
+        {
+          "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+          "published": "2026-11-13T19:26:07.000Z"
+        },
+        {
+          "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
+          "source": "Engineering at Meta",
+          "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+          "published": "2026-11-13T17:00:39.000Z"
+        },
+        {
+          "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/spend-management/",
+          "published": "2026-11-13T14:00:00.000Z"
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/customer-stories/shield",
+          "published": "2026-11-13T08:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
