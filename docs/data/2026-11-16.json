@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T04:02:28.240Z",
+  "overview": "• President Trump looks to project strength at an upcoming summit with Vladimir Putin and Xi Jinping amid domestic challenges.\n• Nvidia faces controversy over its leadership search as Elon Musk and thousands of others call for the return of Jensen Huang.\n• Anthropic’s landmark IPO is launching to test the broader tech market while putting increased competitive heat on OpenAI.\n• Apple launched a new application to research how people use artificial intelligence tools for their personal health.",
+  "totalItems": 32,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia",
+          "published": "2026-11-15T10:00:15.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "DeSantis knocks Republicans resisting Trump judicial appointment push",
+          "source": "The Hill",
+          "link": "https://thehill.com/homenews/state-watch/6221727-desantis-knocks-republicans-resisting-trump-judicial-appointment-push/",
+          "published": "2026-11-16T00:07:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Huge waves pummel California coast, forcing closure of popular piers",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+          "published": "2026-11-16T01:00:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Foreign leaders look beyond Trump on his Asian meeting spree",
+          "source": "Politico",
+          "link": "https://www.politico.com/news/2026/11/15/trump-asia-allies-china-01166512",
+          "published": "2026-11-15T19:00:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
+          "source": "PBS",
+          "link": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+          "published": "2026-11-15T16:32:43.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+          "published": "2026-11-16T02:09:16.000Z"
+        },
+        {
+          "title": "Weakened at Home, Trump Looks to Flex Power at Putin, Xi Summit",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-16/weakened-at-home-trump-looks-to-flex-power-at-putin-xi-summit",
+          "published": "2026-11-16T01:00:00.000Z"
+        },
+        {
+          "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+          "published": "2026-11-15T22:07:55.000Z"
+        },
+        {
+          "title": "Jordan sentences three men to death by hanging after deadly church attack",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
+          "published": "2026-11-15T14:23:05.000Z"
+        },
+        {
+          "title": "Pope Leo heads to the Amazon on the final leg of his South American tour",
+          "source": "DW.com",
+          "link": "https://www.dw.com/en/pope-leo-peru-cusco-pucallpa-santa-cruz-zana-andes/a-79952884",
+          "published": "2026-11-15T16:27:06.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Duffy blames Congress, prior administrations for air travel halt, chaos",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
+          "published": "2026-11-16T02:36:12.000Z"
+        },
+        {
+          "title": "Nvidia’s CEO Search Draws Fire With Bessent’s ‘Shakeup’ Call",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup",
+          "published": "2026-11-16T02:22:00.000Z"
+        },
+        {
+          "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+          "source": "The Economist",
+          "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+          "published": "2026-11-15T19:49:20.000Z"
+        },
+        {
+          "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+          "published": "2026-11-15T23:57:19.000Z"
+        },
+        {
+          "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+          "published": "2026-11-16T01:37:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "Apple launches new app to study how people use AI for health",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "published": "2026-11-16T01:30:00.000Z"
+        },
+        {
+          "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information",
+          "source": "Pure Xbox",
+          "link": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
+          "published": "2026-11-15T18:47:29.000Z"
+        },
+        {
+          "title": "Astronauts including Sen. Mark Kelly celebrate the opening of L.A.'s new air and space museum with plenty of kids",
+          "source": "Los Angeles Times",
+          "link": "https://www.latimes.com/entertainment-arts/story/2026-11-14/astronauts-kids-enjoy-opening-of-samuel-oschin-air-space-center",
+          "published": "2026-11-14T16:48:33.000Z"
+        },
+        {
+          "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+          "published": "2026-11-15T15:40:00.000Z"
+        },
+        {
+          "title": "GTA 6 physical copies have no discs, and some apparently have no download codes either",
+          "source": "VideoCardz.com",
+          "link": "https://videocardz.com/newz/gta-6-physical-copies-have-no-discs-and-some-apparently-have-no-download-codes-either",
+          "published": "2026-11-15T17:51:32.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Meet the miso-making engineer behind Anthropic’s biggest hit",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/15/tech/anthropic-claude-code-boris-cherny",
+          "published": "2026-11-15T17:00:15.000Z"
+        },
+        {
+          "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/",
+          "published": "2026-11-16T01:35:00.000Z"
+        },
+        {
+          "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+          "published": "2026-11-15T12:00:01.000Z"
+        },
+        {
+          "title": "Anthropic's record IPO faces some big questions",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html",
+          "published": "2026-11-16T01:32:39.000Z"
+        },
+        {
+          "title": "A Human Reads the Anthropic I.P.O. Filing",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+          "published": "2026-11-15T10:01:57.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": [
+        {
+          "title": "Lula said Brazil “learned an extraordinary lesson” after U.S. President Donald Trump imposed massive tariffs: “Instead of crying or begging the American government to have pity on Brazil, we decided to look for other partners to sell to and buy from\"",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xx1yye/lula_said_brazil_learned_an_extraordinary_lesson/",
+          "published": "2026-11-15T17:54:26.000Z"
+        },
+        {
+          "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
+          "source": "r/geopolitics",
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xwmsbi/macron_says_limiting_ukraine_aid_would_pave_way/",
+          "published": "2026-11-15T04:54:40.000Z"
+        },
+        {
+          "title": "Apps like DoorDash or Uber Eats rely on a small group of superusers, new federal data shows",
+          "source": "r/business",
+          "link": "https://www.reddit.com/r/business/comments/1xwq86n/apps_like_doordash_or_uber_eats_rely_on_a_small/",
+          "published": "2026-11-15T08:19:17.000Z"
+        },
+        {
+          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "source": "r/technology",
+          "link": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/",
+          "published": "2026-11-15T19:31:00.000Z"
+        },
+        {
+          "title": "built a fact-checker that catches politicians lying in real-time",
+          "source": "r/artificial",
+          "link": "https://www.reddit.com/r/artificial/comments/1xwmtff/built_a_factchecker_that_catches_politicians/",
+          "published": "2026-11-15T04:56:24.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "A step toward defining the Standard Model on a lattice",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "published": "2026-11-15T22:00:01.000Z"
+        },
+        {
+          "title": "Our new blog for science",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "published": "2026-11-15T22:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
