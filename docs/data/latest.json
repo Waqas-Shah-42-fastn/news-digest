@@ -1,155 +1,88 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T04:02:28.240Z",
-  "overview": "• President Trump looks to project strength at an upcoming summit with Vladimir Putin and Xi Jinping amid domestic challenges.\n• Nvidia faces controversy over its leadership search as Elon Musk and thousands of others call for the return of Jensen Huang.\n• Anthropic’s landmark IPO is launching to test the broader tech market while putting increased competitive heat on OpenAI.\n• Apple launched a new application to research how people use artificial intelligence tools for their personal health.",
-  "totalItems": 32,
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T04:01:47.912Z",
+  "overview": "• World leaders are gathering for Apec and Asean summits, while U.N. talks seek to rein in AI weapons and killer robots.\n• The state of California has sued OpenAI over AI safety issues, hacking risks, and rogue agent vulnerabilities.\n• Google reported the first-ever fully automated AI cyberattack, while Apple introduced new Mac security controls to address AI privacy risks.\n• Wall Street closed sharply lower amid mounting AI market jitters ahead of Nvidia’s upcoming results and Anthropic's anticipated IPO.",
+  "totalItems": 25,
   "sections": [
     {
       "key": "top",
       "title": "🔝 Top stories",
-      "items": [
-        {
-          "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped",
-          "source": "CNN",
-          "link": "https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia",
-          "published": "2026-11-15T10:00:15.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "DeSantis knocks Republicans resisting Trump judicial appointment push",
-          "source": "The Hill",
-          "link": "https://thehill.com/homenews/state-watch/6221727-desantis-knocks-republicans-resisting-trump-judicial-appointment-push/",
-          "published": "2026-11-16T00:07:00.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "Huge waves pummel California coast, forcing closure of popular piers",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
-          "published": "2026-11-16T01:00:00.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "Foreign leaders look beyond Trump on his Asian meeting spree",
-          "source": "Politico",
-          "link": "https://www.politico.com/news/2026/11/15/trump-asia-allies-china-01166512",
-          "published": "2026-11-15T19:00:00.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
-          "source": "PBS",
-          "link": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
-          "published": "2026-11-15T16:32:43.000Z",
-          "outlets": 5
-        }
-      ]
+      "items": []
     },
     {
       "key": "geopolitics",
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-          "published": "2026-11-16T02:09:16.000Z"
+          "title": "World leaders gather for Apec and Asean summits ahead of Trump-Xi-Putin meeting – live updates",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news",
+          "published": "2026-11-17T02:27:31.000Z"
         },
         {
-          "title": "Weakened at Home, Trump Looks to Flex Power at Putin, Xi Summit",
-          "source": "Bloomberg",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-16/weakened-at-home-trump-looks-to-flex-power-at-putin-xi-summit",
-          "published": "2026-11-16T01:00:00.000Z"
-        },
-        {
-          "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
           "source": "NPR",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
-          "published": "2026-11-15T22:07:55.000Z"
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+          "published": "2026-11-16T18:04:50.000Z"
         },
         {
-          "title": "Jordan sentences three men to death by hanging after deadly church attack",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack",
-          "published": "2026-11-15T14:23:05.000Z"
+          "title": "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar",
+          "source": "Daily Express",
+          "link": "https://www.express.co.uk/news/world/2266746/south-korea-scrambles-fighter-jets",
+          "published": "2026-11-16T22:16:00.000Z"
         },
         {
-          "title": "Pope Leo heads to the Amazon on the final leg of his South American tour",
-          "source": "DW.com",
-          "link": "https://www.dw.com/en/pope-leo-peru-cusco-pucallpa-santa-cruz-zana-andes/a-79952884",
-          "published": "2026-11-15T16:27:06.000Z"
+          "title": "Haiti praises Salvadoran troop deployment ahead of Bukele talks",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVlQWmJFX2YzcXdxVVRVN0xnNk81eVllbUxaVm1Za1Nvc1dBWFRUZUJkNm5peExWcG5odVBxaDM4eVlORVkzelgtckRrSTIwMEFKSnJCR2N4ZDhIS1hST0tob0VTWlNIX2dTeVZVbWxzaFBlZkdvUGFsVHg4a2duZXJNTWZGbmRxQjZZa1pGdDc0aHNOalZXcm41OXVnd2stS1VSSC1PdDFSRWlZeGhaYg?oc=5",
+          "published": "2026-11-16T20:39:44.000Z"
+        },
+        {
+          "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
+          "published": "2026-11-16T17:24:04.000Z"
         }
       ]
     },
     {
       "key": "business",
       "title": "💼 Business",
-      "items": [
-        {
-          "title": "Duffy blames Congress, prior administrations for air travel halt, chaos",
-          "source": "The Washington Post",
-          "link": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
-          "published": "2026-11-16T02:36:12.000Z"
-        },
-        {
-          "title": "Nvidia’s CEO Search Draws Fire With Bessent’s ‘Shakeup’ Call",
-          "source": "Bloomberg",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup",
-          "published": "2026-11-16T02:22:00.000Z"
-        },
-        {
-          "title": "Anthropic’s giant IPO puts the heat on OpenAI",
-          "source": "The Economist",
-          "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-          "published": "2026-11-15T19:49:20.000Z"
-        },
-        {
-          "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-          "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-          "published": "2026-11-15T23:57:19.000Z"
-        },
-        {
-          "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-          "published": "2026-11-16T01:37:00.000Z"
-        }
-      ]
+      "items": []
     },
     {
       "key": "technology",
       "title": "💻 Technology",
       "items": [
         {
-          "title": "Apple launches new app to study how people use AI for health",
+          "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+          "source": "The Verge",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkNnb0JyWWVtVWhWbGRSd1QxRDRSZld4aGtaTU82Vzk1Z1hBUzRNd0I2TkFCSmlGaWE2WGRaN09jX1hIZ3p0VXRKZTBoYWg0RVZpVTFOQXBSd0dTc1NGU1ZFMTYzRVNyLUxtRXpEbTk4TTZvZ2RMUkJ5ckI0dTdOY1lXaEtCYnNIVXlwTjE2U2E3RW9EOW9sNzFTeXpDdktmM05iU0N3?oc=5",
+          "published": "2026-11-16T19:24:40.000Z"
+        },
+        {
+          "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
+          "source": "POLITICO.eu",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3dXZ19OWEdSOVg1MGpaVTExaktQc3Joc3NLcGdWeUliY0xuS19WREpFMkpjcC10Y3FFc0lpRjVQdUxpNk54YXl6c2ZYQzhLZE1pMXZuLVJ2ZHplRXFYNVVNVTlpX1Q2MUhSQ3ZQRjBIZ0JMYWZ3QmtiZEVaUHNub1VRdUlNbVJoV05XeWNZQVF0aWRlZFVqN3E3YmFtZzVRSDYxVzdrcmZXSi1vNWFr?oc=5",
+          "published": "2026-11-16T15:43:00.000Z"
+        },
+        {
+          "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
           "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-          "published": "2026-11-16T01:30:00.000Z"
+          "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+          "published": "2026-11-16T21:01:02.000Z"
         },
         {
-          "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information",
-          "source": "Pure Xbox",
-          "link": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
-          "published": "2026-11-15T18:47:29.000Z"
+          "title": "New Apple study will test how people use AI for health",
+          "source": "Yahoo Tech",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3Q3Mm5vbTl2QVRvMlZ2TFhfM3h3b00yZWFSRTJTWlU3LWxIYzF5LThzUGFBbkNibHgzbVlTdnhEZm1WRnYtc3RaZmpXYTF6dmFERW03ZVFLMUhBSUxQR3l0ajE3STNjX2JSbDlsd3NWb2drdHZTWFdLYnVmODJldXlNVTVrX3YwbWhqQk45VWpzUWowR0I3eHJ5cw?oc=5",
+          "published": "2026-11-16T14:00:28.000Z"
         },
         {
-          "title": "Astronauts including Sen. Mark Kelly celebrate the opening of L.A.'s new air and space museum with plenty of kids",
-          "source": "Los Angeles Times",
-          "link": "https://www.latimes.com/entertainment-arts/story/2026-11-14/astronauts-kids-enjoy-opening-of-samuel-oschin-air-space-center",
-          "published": "2026-11-14T16:48:33.000Z"
-        },
-        {
-          "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
-          "published": "2026-11-15T15:40:00.000Z"
-        },
-        {
-          "title": "GTA 6 physical copies have no discs, and some apparently have no download codes either",
-          "source": "VideoCardz.com",
-          "link": "https://videocardz.com/newz/gta-6-physical-copies-have-no-discs-and-some-apparently-have-no-download-codes-either",
-          "published": "2026-11-15T17:51:32.000Z"
+          "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxVQ0NhMnc3ZmZSc1daLWJHVFphakxwZ1lTWmd6cEp0WWtPM1E0YWNoZXc1dnZjSkczdWYxZEZVcmpQN2FLaDR3cHBDMndqekNvWm5aTmF3TVFWZ1NVeU5lLWpIYVRQN3kwcjVsTEhKQVk4OFAzV3QxcWZmTVhUZUd2dDBaXzg?oc=5",
+          "published": "2026-11-16T13:24:37.000Z"
         }
       ]
     },
@@ -158,34 +91,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "Meet the miso-making engineer behind Anthropic’s biggest hit",
-          "source": "CNN",
-          "link": "https://www.cnn.com/2026/11/15/tech/anthropic-claude-code-boris-cherny",
-          "published": "2026-11-15T17:00:15.000Z"
+          "title": "California sues OpenAI over hacking risks",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "published": "2026-11-16T22:06:22.000Z"
         },
         {
-          "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+          "title": "California is suing OpenAI over its ‘rogue’ AI agent hack",
+          "source": "CalMatters",
+          "link": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+          "published": "2026-11-16T18:45:00.000Z"
+        },
+        {
+          "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
           "source": "Reuters",
-          "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/",
-          "published": "2026-11-16T01:35:00.000Z"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+          "published": "2026-11-16T23:45:50.000Z"
         },
         {
-          "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+          "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
           "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-          "published": "2026-11-15T12:00:01.000Z"
+          "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+          "published": "2026-11-16T18:48:51.000Z"
         },
         {
-          "title": "Anthropic's record IPO faces some big questions",
-          "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-faces-big-012430589.html",
-          "published": "2026-11-16T01:32:39.000Z"
-        },
-        {
-          "title": "A Human Reads the Anthropic I.P.O. Filing",
+          "title": "California Sues OpenAI Over A.I. Safety Issues",
           "source": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-          "published": "2026-11-15T10:01:57.000Z"
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5",
+          "published": "2026-11-16T19:55:37.000Z"
         }
       ]
     },
@@ -194,34 +127,34 @@
       "title": "🔥 Reddit",
       "items": [
         {
-          "title": "Lula said Brazil “learned an extraordinary lesson” after U.S. President Donald Trump imposed massive tariffs: “Instead of crying or begging the American government to have pity on Brazil, we decided to look for other partners to sell to and buy from\"",
+          "title": "British Prime Minister Andy Burnham says Brexit ‘has not worked’ and he will sign new deal with EU and secure agreements that he says could raise GDP by about £17bn, including on food and farming, emissions trading and a youth mobility scheme",
           "source": "r/worldnews",
-          "link": "https://www.reddit.com/r/worldnews/comments/1xx1yye/lula_said_brazil_learned_an_extraordinary_lesson/",
-          "published": "2026-11-15T17:54:26.000Z"
+          "link": "https://www.reddit.com/r/worldnews/comments/1xxjqsm/british_prime_minister_andy_burnham_says_brexit/",
+          "published": "2026-11-16T08:00:55.000Z"
         },
         {
-          "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
+          "title": "Why Israel Is Losing America",
           "source": "r/geopolitics",
-          "link": "https://www.reddit.com/r/geopolitics/comments/1xwmsbi/macron_says_limiting_ukraine_aid_would_pave_way/",
-          "published": "2026-11-15T04:54:40.000Z"
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xxt514/why_israel_is_losing_america/",
+          "published": "2026-11-16T16:02:33.000Z"
         },
         {
-          "title": "Apps like DoorDash or Uber Eats rely on a small group of superusers, new federal data shows",
+          "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
           "source": "r/business",
-          "link": "https://www.reddit.com/r/business/comments/1xwq86n/apps_like_doordash_or_uber_eats_rely_on_a_small/",
-          "published": "2026-11-15T08:19:17.000Z"
+          "link": "https://www.reddit.com/r/business/comments/1xxqpw3/warren_buffett_donates_55_billion_says_kindness/",
+          "published": "2026-11-16T14:27:52.000Z"
         },
         {
-          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
           "source": "r/technology",
-          "link": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/",
-          "published": "2026-11-15T19:31:00.000Z"
+          "link": "https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/",
+          "published": "2026-11-16T12:02:31.000Z"
         },
         {
-          "title": "built a fact-checker that catches politicians lying in real-time",
+          "title": "Survey of 268 early-career mathematicians: 7 in 10 say AI has made them less likely to stay in math",
           "source": "r/artificial",
-          "link": "https://www.reddit.com/r/artificial/comments/1xwmtff/built_a_factchecker_that_catches_politicians/",
-          "published": "2026-11-15T04:56:24.000Z"
+          "link": "https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/",
+          "published": "2026-11-16T14:31:24.000Z"
         }
       ]
     },
@@ -230,16 +163,34 @@
       "title": "🛠️ Engineering blogs",
       "items": [
         {
-          "title": "A step toward defining the Standard Model on a lattice",
+          "title": "Broadening access to AI for scientists",
           "source": "OpenAI News",
-          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-          "published": "2026-11-15T22:00:01.000Z"
+          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "published": "2026-11-16T17:00:00.000Z"
         },
         {
-          "title": "Our new blog for science",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
           "source": "OpenAI News",
-          "link": "https://openai.com/index/our-new-blog-for-science",
-          "published": "2026-11-15T22:00:00.000Z"
+          "link": "https://openai.com/index/strengthening-online-child-safety",
+          "published": "2026-11-16T17:00:00.000Z"
+        },
+        {
+          "title": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure…",
+          "source": "Pinterest Engineering Blog",
+          "link": "https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss----4c5a5f6279b6---4",
+          "published": "2026-11-16T16:01:03.000Z"
+        },
+        {
+          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/science-at-the-frontier",
+          "published": "2026-11-16T12:00:00.000Z"
+        },
+        {
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/lvmh-media-division-partnership",
+          "published": "2026-11-16T09:00:00.000Z"
         }
       ]
     }
