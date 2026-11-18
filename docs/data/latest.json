@@ -1,88 +1,124 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T04:01:47.912Z",
-  "overview": "• World leaders are gathering for Apec and Asean summits, while U.N. talks seek to rein in AI weapons and killer robots.\n• The state of California has sued OpenAI over AI safety issues, hacking risks, and rogue agent vulnerabilities.\n• Google reported the first-ever fully automated AI cyberattack, while Apple introduced new Mac security controls to address AI privacy risks.\n• Wall Street closed sharply lower amid mounting AI market jitters ahead of Nvidia’s upcoming results and Anthropic's anticipated IPO.",
-  "totalItems": 25,
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T04:01:35.228Z",
+  "overview": "• Democrat Mary Peltola flipped an Alaska Senate seat by defeating Republican Senator Dan Sullivan, while Trump travels to Asia ahead of talks with Russian and Chinese leaders.\n• Nvidia reported faster growth and confirmed Jensen Huang will not return as CEO, amid widespread outages that disrupted banks, air travel, the NSA, and Apple.\n• Anthropic is preparing for its major IPO this week, with Amazon and Google set to collectively own nearly 30% of the AI company.\n• Google launched its Google Wallet app on iOS, while OpenAI announced the release of its new GPT-6.2 Astra and Sol models.",
+  "totalItems": 30,
   "sections": [
     {
       "key": "top",
       "title": "🔝 Top stories",
-      "items": []
-    },
-    {
-      "key": "geopolitics",
-      "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "World leaders gather for Apec and Asean summits ahead of Trump-Xi-Putin meeting – live updates",
-          "source": "The Guardian",
-          "link": "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news",
-          "published": "2026-11-17T02:27:31.000Z"
+          "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307",
+          "published": "2026-11-18T03:19:00.000Z",
+          "outlets": 5
         },
         {
-          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-          "published": "2026-11-16T18:04:50.000Z"
-        },
-        {
-          "title": "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar",
-          "source": "Daily Express",
-          "link": "https://www.express.co.uk/news/world/2266746/south-korea-scrambles-fighter-jets",
-          "published": "2026-11-16T22:16:00.000Z"
-        },
-        {
-          "title": "Haiti praises Salvadoran troop deployment ahead of Bukele talks",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVlQWmJFX2YzcXdxVVRVN0xnNk81eVllbUxaVm1Za1Nvc1dBWFRUZUJkNm5peExWcG5odVBxaDM4eVlORVkzelgtckRrSTIwMEFKSnJCR2N4ZDhIS1hST0tob0VTWlNIX2dTeVZVbWxzaFBlZkdvUGFsVHg4a2duZXJNTWZGbmRxQjZZa1pGdDc0aHNOalZXcm41OXVnd2stS1VSSC1PdDFSRWlZeGhaYg?oc=5",
-          "published": "2026-11-16T20:39:44.000Z"
-        },
-        {
-          "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+          "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
           "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
-          "published": "2026-11-16T17:24:04.000Z"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGRnUU9ZdGtxYmdSSGdvOVZOSkszR0JtaURtcXUxQ3c2REFWUEhrZGVublczMWprb0swWU44YlF1LTlRUzQ3YTg0bkRQVFVNX1dyM3huanQ0dWhCWUtoYjJxNFFZU0xId2VNV19JUFpLVGNIa2hjcmFQTEljeG5Ecg?oc=5",
+          "published": "2026-11-18T02:09:10.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eTNySUF6Qk5WeER2eTkzNGpTb3JpZFBpZGppak80Q25WYm9LMlVLRVZ3UGJIVDN4aXZsX2N4c2l2ZFBQV2xBdDlySTgwZENrNzhybW82djVGYlE?oc=5",
+          "published": "2026-11-17T20:25:46.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
+          "published": "2026-11-17T22:26:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Illinois man charged in connection with bomb found at Peoria ethanol plant",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/illinois-man-charged-connection-bomb-found-peoria-ethanol-plant-rcna609858",
+          "published": "2026-11-17T18:29:02.000Z",
+          "outlets": 5
         }
       ]
     },
     {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": []
+    },
+    {
       "key": "business",
       "title": "💼 Business",
-      "items": []
+      "items": [
+        {
+          "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a",
+          "published": "2026-11-18T01:46:00.000Z"
+        },
+        {
+          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303",
+          "published": "2026-11-18T02:54:00.000Z"
+        },
+        {
+          "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
+          "published": "2026-11-17T20:35:00.000Z"
+        },
+        {
+          "title": "Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/congress/sean-duffys-50-billion-demand-groundstop-fixes-congress-skepitcal-rcna609844",
+          "published": "2026-11-17T23:06:19.000Z"
+        },
+        {
+          "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+          "source": "TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDRWN3ZsWTVWNkNia01rdTdxR0c4bnVsTS0xUFBWbG9EUWZCWnFKQVhWV0dXVUdVNmJhM3VpTFM4UWJDOGYxUVl2LTd5ZUlWWGVFX0RubWFRYThfV2lVU0tpWDJJM0V2cHljbUVqR3dBRE5yb2hscXBmU0I2NzRhRjBDS3dONmNCYnZrelRDWFRoNTFNS0t3cXRvVXRIcVBEa25YVjAxWHJ6ek56cERNbEFGY2I?oc=5",
+          "published": "2026-11-17T23:04:35.000Z"
+        }
+      ]
     },
     {
       "key": "technology",
       "title": "💻 Technology",
       "items": [
         {
-          "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+          "title": "Satya Nadella says he’s AGI-pilled now",
           "source": "The Verge",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkNnb0JyWWVtVWhWbGRSd1QxRDRSZld4aGtaTU82Vzk1Z1hBUzRNd0I2TkFCSmlGaWE2WGRaN09jX1hIZ3p0VXRKZTBoYWg0RVZpVTFOQXBSd0dTc1NGU1ZFMTYzRVNyLUxtRXpEbTk4TTZvZ2RMUkJ5ckI0dTdOY1lXaEtCYnNIVXlwTjE2U2E3RW9EOW9sNzFTeXpDdktmM05iU0N3?oc=5",
-          "published": "2026-11-16T19:24:40.000Z"
+          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+          "published": "2026-11-17T23:41:18.000Z"
         },
         {
-          "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
-          "source": "POLITICO.eu",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3dXZ19OWEdSOVg1MGpaVTExaktQc3Joc3NLcGdWeUliY0xuS19WREpFMkpjcC10Y3FFc0lpRjVQdUxpNk54YXl6c2ZYQzhLZE1pMXZuLVJ2ZHplRXFYNVVNVTlpX1Q2MUhSQ3ZQRjBIZ0JMYWZ3QmtiZEVaUHNub1VRdUlNbVJoV05XeWNZQVF0aWRlZFVqN3E3YmFtZzVRSDYxVzdrcmZXSi1vNWFr?oc=5",
-          "published": "2026-11-16T15:43:00.000Z"
+          "title": "Apple TV 4K (4th Gen, 2026) Review: Best Media Streamer for Apple Fans, but No One Else",
+          "source": "CNET",
+          "link": "https://www.cnet.com/tech/home-entertainment/apple-tv-4k-4th-gen-2026-review/",
+          "published": "2026-11-17T16:33:00.000Z"
         },
         {
-          "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-          "published": "2026-11-16T21:01:02.000Z"
+          "title": "The Google Wallet app is now available on iOS",
+          "source": "9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPelZNdnRrU0JjWjRqdE9aUTJQMk1SNVVCd1g4dzZDYnlWZHU2NFVBblJGdmhQRlRzcG9qeUs2ak4zMnZnaEFWSkY3ZUJlSnNrODkyOXdkVTJEVkxvR3dYSVROS3NhdXc?oc=5",
+          "published": "2026-11-17T17:48:00.000Z"
         },
         {
-          "title": "New Apple study will test how people use AI for health",
-          "source": "Yahoo Tech",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3Q3Mm5vbTl2QVRvMlZ2TFhfM3h3b00yZWFSRTJTWlU3LWxIYzF5LThzUGFBbkNibHgzbVlTdnhEZm1WRnYtc3RaZmpXYTF6dmFERW03ZVFLMUhBSUxQR3l0ajE3STNjX2JSbDlsd3NWb2drdHZTWFdLYnVmODJldXlNVTVrX3YwbWhqQk45VWpzUWowR0I3eHJ5cw?oc=5",
-          "published": "2026-11-16T14:00:28.000Z"
+          "title": "Aqara Launches Six New Smart Lights With Matter Over Thread / Zigbee",
+          "source": "Homekit News and Reviews",
+          "link": "https://homekitnews.com/2026/11/17/aqara-launches-six-new-smart-lights-with-matter-over-thread-zigbee/",
+          "published": "2026-11-17T07:48:21.000Z"
         },
         {
-          "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxVQ0NhMnc3ZmZSc1daLWJHVFphakxwZ1lTWmd6cEp0WWtPM1E0YWNoZXc1dnZjSkczdWYxZEZVcmpQN2FLaDR3cHBDMndqekNvWm5aTmF3TVFWZ1NVeU5lLWpIYVRQN3kwcjVsTEhKQVk4OFAzV3QxcWZmTVhUZUd2dDBaXzg?oc=5",
-          "published": "2026-11-16T13:24:37.000Z"
+          "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release",
+          "source": "Variety",
+          "link": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
+          "published": "2026-11-17T17:10:00.000Z"
         }
       ]
     },
@@ -91,34 +127,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "California sues OpenAI over hacking risks",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-          "published": "2026-11-16T22:06:22.000Z"
+          "title": "Should You Buy Anthropic Stock on Day 1 or Wait?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-anthropic-stock-day-1-012002749.html",
+          "published": "2026-11-18T01:20:00.000Z"
         },
         {
-          "title": "California is suing OpenAI over its ‘rogue’ AI agent hack",
-          "source": "CalMatters",
-          "link": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
-          "published": "2026-11-16T18:45:00.000Z"
+          "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "published": "2026-11-17T22:29:05.000Z"
         },
         {
-          "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
-          "published": "2026-11-16T23:45:50.000Z"
+          "title": "Anthropic's IPO set for blastoff this week in key test for AI boom",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5",
+          "published": "2026-11-17T20:15:00.000Z"
         },
         {
-          "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-          "source": "CNBC",
-          "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-          "published": "2026-11-16T18:48:51.000Z"
+          "title": "Should You Buy Anthropic Stock at Its IPO? Here's What History Says.",
+          "source": "The Motley Fool",
+          "link": "https://www.fool.com/investing/2026/11/17/should-you-buy-anthropic-stock-at-its-ipo-here-s-what-history-says/",
+          "published": "2026-11-17T22:00:00.000Z"
         },
         {
-          "title": "California Sues OpenAI Over A.I. Safety Issues",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5",
-          "published": "2026-11-16T19:55:37.000Z"
+          "title": "Anthropic Initiated at Buy Ahead of What Could Be a Massive Test of the AI Trade",
+          "source": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaExDNjNqb2lLejl2OUhoOExpMG5xR0ZfX19EQjBJTXJGcmNmeVhrQ25acXNQNk0tVlNudlN3YU5HSmhmTVpSN3UxMWxjSjJhX3NsZm1uQnctYU9qRW1rZElkN3UxNy1zM1NkMVB2ejhLRXh2Y3haMVFVVWF0amU3SQ?oc=5",
+          "published": "2026-11-17T18:38:00.000Z"
         }
       ]
     },
@@ -163,34 +199,34 @@
       "title": "🛠️ Engineering blogs",
       "items": [
         {
-          "title": "Broadening access to AI for scientists",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-          "published": "2026-11-16T17:00:00.000Z"
+          "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+          "published": "2026-11-17T20:24:27.000Z"
         },
         {
-          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/strengthening-online-child-safety",
-          "published": "2026-11-16T17:00:00.000Z"
+          "title": "Building the Agent Host Protocol for sessions that continue across devices",
+          "source": "The latest from GitHub's engineering team - The GitHub Blog",
+          "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+          "published": "2026-11-17T18:20:40.000Z"
         },
         {
-          "title": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure…",
-          "source": "Pinterest Engineering Blog",
-          "link": "https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss----4c5a5f6279b6---4",
-          "published": "2026-11-16T16:01:03.000Z"
+          "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+          "source": "The Airbnb Tech Blog",
+          "link": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+          "published": "2026-11-17T18:01:03.000Z"
         },
         {
-          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "title": "Introducing GPT-6.2 Astra and Sol",
           "source": "OpenAI News",
-          "link": "https://openai.com/index/science-at-the-frontier",
-          "published": "2026-11-16T12:00:00.000Z"
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "published": "2026-11-17T17:45:00.000Z"
         },
         {
-          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "source": "OpenAI News",
-          "link": "https://openai.com/index/lvmh-media-division-partnership",
-          "published": "2026-11-16T09:00:00.000Z"
+          "title": "Engineering AI Discover",
+          "source": "Netflix TechBlog",
+          "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+          "published": "2026-11-17T17:01:02.000Z"
         }
       ]
     }

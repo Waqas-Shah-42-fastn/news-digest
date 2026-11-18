@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T04:01:35.228Z",
+  "overview": "• Democrat Mary Peltola flipped an Alaska Senate seat by defeating Republican Senator Dan Sullivan, while Trump travels to Asia ahead of talks with Russian and Chinese leaders.\n• Nvidia reported faster growth and confirmed Jensen Huang will not return as CEO, amid widespread outages that disrupted banks, air travel, the NSA, and Apple.\n• Anthropic is preparing for its major IPO this week, with Amazon and Google set to collectively own nearly 30% of the AI company.\n• Google launched its Google Wallet app on iOS, while OpenAI announced the release of its new GPT-6.2 Astra and Sol models.",
+  "totalItems": 30,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307",
+          "published": "2026-11-18T03:19:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGRnUU9ZdGtxYmdSSGdvOVZOSkszR0JtaURtcXUxQ3c2REFWUEhrZGVublczMWprb0swWU44YlF1LTlRUzQ3YTg0bkRQVFVNX1dyM3huanQ0dWhCWUtoYjJxNFFZU0xId2VNV19JUFpLVGNIa2hjcmFQTEljeG5Ecg?oc=5",
+          "published": "2026-11-18T02:09:10.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eTNySUF6Qk5WeER2eTkzNGpTb3JpZFBpZGppak80Q25WYm9LMlVLRVZ3UGJIVDN4aXZsX2N4c2l2ZFBQV2xBdDlySTgwZENrNzhybW82djVGYlE?oc=5",
+          "published": "2026-11-17T20:25:46.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
+          "published": "2026-11-17T22:26:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Illinois man charged in connection with bomb found at Peoria ethanol plant",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/illinois-man-charged-connection-bomb-found-peoria-ethanol-plant-rcna609858",
+          "published": "2026-11-17T18:29:02.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": []
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nvidia-jensen-huang-china-national-security-chips-3026bcbe04ab57b844884382e583422a",
+          "published": "2026-11-18T01:46:00.000Z"
+        },
+        {
+          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303",
+          "published": "2026-11-18T02:54:00.000Z"
+        },
+        {
+          "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5",
+          "published": "2026-11-17T20:35:00.000Z"
+        },
+        {
+          "title": "Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/congress/sean-duffys-50-billion-demand-groundstop-fixes-congress-skepitcal-rcna609844",
+          "published": "2026-11-17T23:06:19.000Z"
+        },
+        {
+          "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+          "source": "TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDRWN3ZsWTVWNkNia01rdTdxR0c4bnVsTS0xUFBWbG9EUWZCWnFKQVhWV0dXVUdVNmJhM3VpTFM4UWJDOGYxUVl2LTd5ZUlWWGVFX0RubWFRYThfV2lVU0tpWDJJM0V2cHljbUVqR3dBRE5yb2hscXBmU0I2NzRhRjBDS3dONmNCYnZrelRDWFRoNTFNS0t3cXRvVXRIcVBEa25YVjAxWHJ6ek56cERNbEFGY2I?oc=5",
+          "published": "2026-11-17T23:04:35.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "Satya Nadella says he’s AGI-pilled now",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+          "published": "2026-11-17T23:41:18.000Z"
+        },
+        {
+          "title": "Apple TV 4K (4th Gen, 2026) Review: Best Media Streamer for Apple Fans, but No One Else",
+          "source": "CNET",
+          "link": "https://www.cnet.com/tech/home-entertainment/apple-tv-4k-4th-gen-2026-review/",
+          "published": "2026-11-17T16:33:00.000Z"
+        },
+        {
+          "title": "The Google Wallet app is now available on iOS",
+          "source": "9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPelZNdnRrU0JjWjRqdE9aUTJQMk1SNVVCd1g4dzZDYnlWZHU2NFVBblJGdmhQRlRzcG9qeUs2ak4zMnZnaEFWSkY3ZUJlSnNrODkyOXdkVTJEVkxvR3dYSVROS3NhdXc?oc=5",
+          "published": "2026-11-17T17:48:00.000Z"
+        },
+        {
+          "title": "Aqara Launches Six New Smart Lights With Matter Over Thread / Zigbee",
+          "source": "Homekit News and Reviews",
+          "link": "https://homekitnews.com/2026/11/17/aqara-launches-six-new-smart-lights-with-matter-over-thread-zigbee/",
+          "published": "2026-11-17T07:48:21.000Z"
+        },
+        {
+          "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release",
+          "source": "Variety",
+          "link": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
+          "published": "2026-11-17T17:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Should You Buy Anthropic Stock on Day 1 or Wait?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/buy-anthropic-stock-day-1-012002749.html",
+          "published": "2026-11-18T01:20:00.000Z"
+        },
+        {
+          "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "published": "2026-11-17T22:29:05.000Z"
+        },
+        {
+          "title": "Anthropic's IPO set for blastoff this week in key test for AI boom",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5",
+          "published": "2026-11-17T20:15:00.000Z"
+        },
+        {
+          "title": "Should You Buy Anthropic Stock at Its IPO? Here's What History Says.",
+          "source": "The Motley Fool",
+          "link": "https://www.fool.com/investing/2026/11/17/should-you-buy-anthropic-stock-at-its-ipo-here-s-what-history-says/",
+          "published": "2026-11-17T22:00:00.000Z"
+        },
+        {
+          "title": "Anthropic Initiated at Buy Ahead of What Could Be a Massive Test of the AI Trade",
+          "source": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaExDNjNqb2lLejl2OUhoOExpMG5xR0ZfX19EQjBJTXJGcmNmeVhrQ25acXNQNk0tVlNudlN3YU5HSmhmTVpSN3UxMWxjSjJhX3NsZm1uQnctYU9qRW1rZElkN3UxNy1zM1NkMVB2ejhLRXh2Y3haMVFVVWF0amU3SQ?oc=5",
+          "published": "2026-11-17T18:38:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": [
+        {
+          "title": "British Prime Minister Andy Burnham says Brexit ‘has not worked’ and he will sign new deal with EU and secure agreements that he says could raise GDP by about £17bn, including on food and farming, emissions trading and a youth mobility scheme",
+          "source": "r/worldnews",
+          "link": "https://www.reddit.com/r/worldnews/comments/1xxjqsm/british_prime_minister_andy_burnham_says_brexit/",
+          "published": "2026-11-16T08:00:55.000Z"
+        },
+        {
+          "title": "Why Israel Is Losing America",
+          "source": "r/geopolitics",
+          "link": "https://www.reddit.com/r/geopolitics/comments/1xxt514/why_israel_is_losing_america/",
+          "published": "2026-11-16T16:02:33.000Z"
+        },
+        {
+          "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
+          "source": "r/business",
+          "link": "https://www.reddit.com/r/business/comments/1xxqpw3/warren_buffett_donates_55_billion_says_kindness/",
+          "published": "2026-11-16T14:27:52.000Z"
+        },
+        {
+          "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
+          "source": "r/technology",
+          "link": "https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/",
+          "published": "2026-11-16T12:02:31.000Z"
+        },
+        {
+          "title": "Survey of 268 early-career mathematicians: 7 in 10 say AI has made them less likely to stay in math",
+          "source": "r/artificial",
+          "link": "https://www.reddit.com/r/artificial/comments/1xxqt45/survey_of_268_earlycareer_mathematicians_7_in_10/",
+          "published": "2026-11-16T14:31:24.000Z"
+        }
+      ]
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+          "published": "2026-11-17T20:24:27.000Z"
+        },
+        {
+          "title": "Building the Agent Host Protocol for sessions that continue across devices",
+          "source": "The latest from GitHub's engineering team - The GitHub Blog",
+          "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+          "published": "2026-11-17T18:20:40.000Z"
+        },
+        {
+          "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+          "source": "The Airbnb Tech Blog",
+          "link": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+          "published": "2026-11-17T18:01:03.000Z"
+        },
+        {
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "published": "2026-11-17T17:45:00.000Z"
+        },
+        {
+          "title": "Engineering AI Discover",
+          "source": "Netflix TechBlog",
+          "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+          "published": "2026-11-17T17:01:02.000Z"
+        }
+      ]
+    }
+  ]
+}
