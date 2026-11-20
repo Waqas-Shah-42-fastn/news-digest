@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T04:02:19.554Z",
+  "overview": "• A U.N. court ruled that Myanmar committed genocide against the Rohingya, while Vladimir Putin stated Russia will not negotiate a limited ceasefire with Ukraine.\n• Anthropic debuted on the public market with shares closing up 17% for a $1.27 trillion valuation, even as SoftBank plunged amid an Asian tech sell-off.\n• Apple is reportedly developing a new AI agent designed for device control, operating apps, web browsing, and writing code.\n• Grand Theft Auto 6 has broken industry records with estimated sales surpassing $2 billion.",
+  "totalItems": 30,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+          "published": "2026-11-20T00:14:03.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "White House cyber director ousted after US hit by wave of tech outages",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+          "published": "2026-11-20T01:28:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Fiona the hippo dies after eating a hat, Cincinnati Zoo says",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/fiona-hippo-dies-cincinnati-zoo-rcna610297",
+          "published": "2026-11-19T23:13:02.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump backs Elon Musk in latest MAGA breakup",
+          "source": "Axios",
+          "link": "https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend",
+          "published": "2026-11-19T18:52:22.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Justice Department seeks dismissal of its lawsuit in the Alaska Senate race",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/2026-election/doj-seeks-dismissal-lawsuit-alaska-senate-dan-sullivan-mary-peltola-rcna610343",
+          "published": "2026-11-20T01:59:00.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+          "published": "2026-11-20T01:45:44.000Z"
+        },
+        {
+          "title": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/",
+          "published": "2026-11-19T17:22:00.000Z"
+        },
+        {
+          "title": "Saudi Arabia says Houthi attack damaged Riyadh tower",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south",
+          "published": "2026-11-19T20:14:23.000Z"
+        },
+        {
+          "title": "Everyone is a friend: Trump's meetings in Asia show his varied approaches to shifting world order",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-xi-putin-quad-asia-meetings-c679cf7a85872a0ebc202540f6fedaf7",
+          "published": "2026-11-19T21:25:00.000Z"
+        },
+        {
+          "title": "Muslims will outnumber Christians worldwide by 2035, report says",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
+          "published": "2026-11-19T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
+          "published": "2026-11-20T02:30:00.000Z"
+        },
+        {
+          "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+          "published": "2026-11-20T01:07:00.000Z"
+        },
+        {
+          "title": "California targets Nvidia in China AI chip probe",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
+          "published": "2026-11-19T23:04:30.000Z"
+        },
+        {
+          "title": "Hyundai reveals new 'bold and muscular look' Elantra",
+          "source": "Detroit Free Press",
+          "link": "https://www.freep.com/story/money/cars/2026/11/19/hyundai-elantra-gets-bold-and-muscular-look/92842447007/",
+          "published": "2026-11-20T00:13:00.000Z"
+        },
+        {
+          "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+          "published": "2026-11-20T00:42:44.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
+          "published": "2026-11-20T02:48:47.000Z"
+        },
+        {
+          "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
+          "source": "Bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+          "published": "2026-11-19T21:44:56.000Z"
+        },
+        {
+          "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
+          "published": "2026-11-19T22:45:00.000Z"
+        },
+        {
+          "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+          "published": "2026-11-19T19:35:52.000Z"
+        },
+        {
+          "title": "The best early Black Friday deals: discounts on OLED TVs, wireless headphones and more, handpicked by our experts",
+          "source": "What Hi-Fi?",
+          "link": "https://www.whathifi.com/live/news/early-black-friday-deals-19-11-2026",
+          "published": "2026-11-19T16:43:33.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8",
+          "published": "2026-11-20T03:01:17.000Z"
+        },
+        {
+          "title": "Anthropic IPO Live Updates: Company Value Surges in Stock Market Debut",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai",
+          "published": "2026-11-20T02:18:00.000Z"
+        },
+        {
+          "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+          "published": "2026-11-19T22:41:43.000Z"
+        },
+        {
+          "title": "Anthropic begins public trading in major test for promise and risk of AI",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://abcnews.com/Business/anthropic-public/story?id=138174650",
+          "published": "2026-11-19T23:18:21.000Z"
+        },
+        {
+          "title": "Anthropic IPO Live Updates: Shares Close Up 17%",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/",
+          "published": "2026-11-19T21:08:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": []
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/nginx2root/",
+          "published": "2026-11-20T01:58:29.000Z"
+        },
+        {
+          "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+          "published": "2026-11-19T14:00:00.000Z"
+        },
+        {
+          "title": "When Can You Ship on Offline Evals Alone?",
+          "source": "Spotify Engineering",
+          "link": "https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/",
+          "published": "2026-11-19T13:34:19.000Z"
+        },
+        {
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "published": "2026-11-19T08:00:00.000Z"
+        },
+        {
+          "title": "Give your agents controlled access to analyze your data and move funds",
+          "source": "Stripe Blog",
+          "link": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+          "published": "2026-11-19T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
