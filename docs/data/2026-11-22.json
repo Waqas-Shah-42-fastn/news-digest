@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T04:01:37.566Z",
+  "overview": "• Poland reported that Russian missiles struck its territory, while a Russian cargo ship caught fire in the Baltic Sea after a drone strike.\n• Anthropic launched a record IPO just as a major market sell-off pulled tech and AI stocks into correction territory.\n• Nvidia is facing a U.S. accounting probe amid deepening turmoil, while Bayer reached a multibillion-dollar Roundup settlement.\n• An Anthropic mathematician claimed to have solved the Riemann Hypothesis with assistance from the Claude AI model.",
+  "totalItems": 23,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "'El Chapo Isidro': Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/ckz749ey0r75o",
+          "published": "2026-11-22T01:25:03.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump says latest FBI hack could have ‘positive’ impacts",
+          "source": "Politico",
+          "link": "https://www.politico.com/news/2026/11/21/trump-fbi-hack-cybersecurity-01179574",
+          "published": "2026-11-21T21:41:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
+          "published": "2026-11-21T20:09:35.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/",
+          "published": "2026-11-21T21:49:13.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVVMyejhOQXItTVVVdmVsQTR1SFBGeGVMWUI4enZsYkU1SW9DQ1hSbW1hNmo3SlFkdDBJSl82WEgxVlVGMGx0cUdETWJrcEJWamdUa3ZlbVZsWTUxUmN4REdKOHZrV3NfcmZMaFJneDJXdFFQOUNyYw?oc=5",
+          "published": "2026-11-21T22:40:36.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+          "published": "2026-11-21T14:18:17.000Z"
+        },
+        {
+          "title": "Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates",
+          "source": "Variety",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTFlSXA0SkNpLXdtNFhXbFRXeV9ubEVWa21neDZKRWV4NWpsUzJHVGR5VTdadFZNRzREZmpHbkZfTVlVRXZYTlpDdmloV3JENVN1SHI1NmtpallHNUZPZzZPdURhMWd0aXJjN2lmMjJkTnZReGFPRXpPXy1TWGFDZUI0bnczdW9LczZvdVllRGxNaEx0Nk93?oc=5",
+          "published": "2026-11-21T12:00:00.000Z"
+        },
+        {
+          "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+          "published": "2026-11-21T21:01:49.000Z"
+        },
+        {
+          "title": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+          "published": "2026-11-21T06:55:00.000Z"
+        },
+        {
+          "title": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/",
+          "published": "2026-11-22T03:59:33.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "What smart people are saying about the market sell-off ripping through tech and AI",
+          "source": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5",
+          "published": "2026-11-21T17:23:00.000Z"
+        },
+        {
+          "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, biz tech CEO says",
+          "source": "Fox Business",
+          "link": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
+          "published": "2026-11-21T17:54:21.000Z"
+        },
+        {
+          "title": "Bayer reaches Roundup settlement that could cost the company billions",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+          "published": "2026-11-21T20:37:35.000Z"
+        },
+        {
+          "title": "Nvidia faces US accounting probe amid deepening turmoil: media",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-us-accounting-probe-215354861.html",
+          "published": "2026-11-21T21:53:54.000Z"
+        },
+        {
+          "title": "Stock Market News From Nov. 20, 2026: S&P 500 Ends Week in Correction Territory",
+          "source": "Barron's",
+          "link": "https://www.barrons.com/livecoverage/stock-market-news-today-112026",
+          "published": "2026-11-21T00:39:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": []
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+          "published": "2026-11-21T13:00:01.000Z"
+        },
+        {
+          "title": "AI stocks lose their shine as Anthropic debuts | CNN Business",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2026/11/21/business/video/anthropics-sobering-day-2-stock-price-stocks-digvid-vrtc",
+          "published": "2026-11-21T17:13:00.000Z"
+        },
+        {
+          "title": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/1-000-anthropic-stock-xrp-201131858.html",
+          "published": "2026-11-21T20:11:31.000Z"
+        },
+        {
+          "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+          "published": "2026-11-21T16:52:00.000Z"
+        },
+        {
+          "title": "After Blockbuster Anthropic IPO, Dario Amodei Heads To Puglia",
+          "source": "Forbes",
+          "link": "https://www.forbes.com/sites/catherinesabino/2026/11/21/after-blockbuster-anthropic-ipo-dario-amodei-heads-to-puglia/",
+          "published": "2026-11-21T17:41:21.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": []
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+          "published": "2026-11-20T20:24:38.000Z"
+        },
+        {
+          "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+          "published": "2026-11-20T20:00:45.000Z"
+        },
+        {
+          "title": "Combatting adversarial distillation",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/combatting-adversarial-distillation",
+          "published": "2026-11-20T10:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
