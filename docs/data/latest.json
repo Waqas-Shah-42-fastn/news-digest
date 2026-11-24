@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T04:02:17.213Z",
-  "overview": "• Global climate negotiations at COP31 in Turkey have collapsed following a major clash over fossil fuels.\n• A Delta Air Lines automation system glitch has triggered widespread flight delays during busy Thanksgiving travel.\n• Grand Theft Auto 6 achieved a record-breaking $3.8 billion launch as players dive into the new game.\n• Anthropic completed the largest IPO ever, though the milestone failed to calm broader market jitters around artificial intelligence.",
-  "totalItems": 26,
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T04:01:19.670Z",
+  "overview": "• Ukraine confirmed using naval drones to strike Russian ships off Libya, while Poland is set to receive NATO early-warning aircraft after Russian missile strikes.\n• Stock markets surged on optimism following Jensen Huang’s return to Nvidia, even as the United States blacklisted AI company Megaspeed.\n• In consumer tech, Samsung unveiled the world's first 1,100Hz gaming monitor, and the new Ladybird browser engine became available for public testing.\n• Anthropic minted new millionaires following its recent IPO despite shares quickly slipping, while OpenAI and Cisco officially introduced Shirudo.",
+  "totalItems": 30,
   "sections": [
     {
       "key": "top",
       "title": "🔝 Top stories",
       "items": [
         {
-          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-          "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/c6vg29g7dlyno",
-          "published": "2026-11-23T01:23:43.000Z",
-          "outlets": 5
-        },
-        {
-          "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
           "source": "PBS",
-          "link": "https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa",
-          "published": "2026-11-22T20:18:46.000Z",
+          "link": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
+          "published": "2026-11-23T22:05:00.000Z",
           "outlets": 5
         },
         {
-          "title": "California coast faces extreme flood threat on holiday; water could inundate Bay Area airports",
-          "source": "Los Angeles Times",
-          "link": "https://www.latimes.com/california/story/2026-11-22/bay-area-airports-coast-under-extreme-flood-threat-residents-told-to-avoid-travel",
-          "published": "2026-11-22T22:08:00.000Z",
+          "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+          "published": "2026-11-23T22:29:53.000Z",
           "outlets": 5
         },
         {
-          "title": "Exclusive | Abdul El-Sayed Is Already Shaking Up the Senate",
-          "source": "WSJ",
-          "link": "https://www.wsj.com/politics/abdul-el-sayed-is-already-shaking-up-the-senate-72675805",
-          "published": "2026-11-23T00:00:00.000Z",
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/c9x2er1ry2mzo",
+          "published": "2026-11-24T02:15:59.000Z",
           "outlets": 5
         },
         {
-          "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+          "title": "Trump: DOJ working to overturn Newsom’s death row commutations",
+          "source": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFo1VHBPNTNKLWJsTk0xeUdQN2NJQTJBbkF3OHFOWTBOalRnMTJrMGpvX2pBY0loWDV6R0FBc21SUmIyR0VHRXpqb0pjaHNyQWk5by1PTW5GTUJjZDhsWWhZQkgxSkJXZy04WGRTaERZdVM0UHFzcWh6V2QycUlMVmlrd013bTc5YkVVVNIBkgFBVV95cUxQX1RiR1BOSGkxUi1rTV9yRF90dmRJUHhQUnUxSGFCT3RQRVdvUjZTSGVobl9HNUNFbFh4ZG1sM1lUOHVXZ2tldjhCZDdveWtra0dvLVQxTEZMUl83dV9WaXVXdDMyZ29SZmRKclhIT0tUUjRFdEwzTDlnTjBSeVZYZGhVTXlSYV9XcjFvTUlFS0tUQQ?oc=5",
+          "published": "2026-11-23T23:24:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
           "source": "The Guardian",
-          "link": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
-          "published": "2026-11-23T02:40:00.000Z",
+          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+          "published": "2026-11-24T02:30:00.000Z",
           "outlets": 5
         }
       ]
@@ -50,34 +50,34 @@
       "title": "🌍 Geopolitics",
       "items": [
         {
-          "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-          "source": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-          "published": "2026-11-23T02:01:42.000Z"
+          "title": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
+          "published": "2026-11-23T21:23:00.000Z"
         },
         {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEV3R09aQWhXWERGUjZxM3kzdURrdktKUU92VFhpcWVPUmRzQXdRVUgxdWdnbjBIVEpOYUgwTEs3Vzd1UjNOVXN1bXJoSHoxNTBhNFVGcEJXUzRHUTFYR1g3VEtCclNDZEZQZEYzX2NLUEJtMUd2YTYtSURTTEVLN1RsVlozSDRkZ3dISzVwTmZqS09jYVIyV2tyQW9PODdyVVRjcFBnaWRtSHk0SDg5Uw?oc=5",
+          "published": "2026-11-23T19:22:31.000Z"
+        },
+        {
+          "title": "My approach to EU is pragmatic, says Burnham",
           "source": "BBC",
-          "link": "https://www.bbc.com/news/articles/cr894gjz0j0yo",
-          "published": "2026-11-23T02:59:35.000Z"
+          "link": "https://www.bbc.com/news/articles/c6vg2v9xkr40o",
+          "published": "2026-11-23T19:10:44.000Z"
         },
         {
-          "title": "'Bottom of the sea': Trump threatens Iranian navy, weighs new attacks by New Year if talks fail",
-          "source": "The Jerusalem Post",
-          "link": "https://www.jpost.com/international/article-915744",
-          "published": "2026-11-22T19:34:58.000Z"
+          "title": "What failure of COP31 reveals about a divided world",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cky970n83rvjo",
+          "published": "2026-11-23T17:24:25.000Z"
         },
         {
-          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
-          "published": "2026-11-22T17:44:52.000Z"
-        },
-        {
-          "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
-          "source": "Fox News",
-          "link": "https://www.foxnews.com/world/ukraine-deals-major-blow-putins-crimea-lifeline-european-intel-assessment-claims",
-          "published": "2026-11-21T11:00:22.000Z"
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/asia-pacific/north-korea-consider-shutting-down-swiss-diplomatic-office-pyongyang-kcna-says-2026-11-23/",
+          "published": "2026-11-23T22:18:09.000Z"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "title": "💼 Business",
       "items": [
         {
-          "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+          "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+          "published": "2026-11-24T03:05:17.000Z"
+        },
+        {
+          "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+          "published": "2026-11-24T01:47:00.000Z"
+        },
+        {
+          "title": "Thanksgiving travel could be messy with storms coming after a week filled with airline glitches",
           "source": "AP News",
-          "link": "https://apnews.com/article/delta-atlanta-flight-delays-d4bdb732da930205ec3453d35c28daa2",
-          "published": "2026-11-23T00:47:00.000Z"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUThKclEzNmdSeWQ1MUIzc0hJWnBqSWdXdUtSVkIxMVdYTWIwQjU5UGVIclhJVUl1bVVyLVlCSVFLdWRHckdabDh6RDNsMVNDdUdKdjNFZEJLb3FCVE5Qa1RLVWp1NHVjeUxRWERFT3pJYWpOY3o1emQ3Z1JGbHNQeEhTdmZCeVUzUVpmY3dCeUdzSWZELUZlUjJTck5QaHJyLWVTeF9uV1BsQlBtSEE?oc=5",
+          "published": "2026-11-23T17:41:29.000Z"
         },
         {
-          "title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
-          "source": "Bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-          "published": "2026-11-23T01:58:00.000Z"
-        },
-        {
-          "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uX24yRlJuUGQzV2xNVzd4Rmt3b0oxbl8zajhpSEUzdUczX1JZSXNrVHNXOVBGT1ZGVnROODJITUZoMUxMNDk1MmVPQWtzaGVja0dXQjRoTU9HTFE?oc=5",
-          "published": "2026-11-23T00:08:00.000Z"
-        },
-        {
-          "title": "Jim Beam won't resume distilling at flagship Kentucky distillery in 2027",
-          "source": "USA Today",
-          "link": "https://www.usatoday.com/story/money/business/2026/11/22/jim-beam-kentucky-distillery-pause-2027/92918331007/",
-          "published": "2026-11-23T01:34:00.000Z"
-        },
-        {
-          "title": "Tech and AI Sentiment, Thanksgiving and Other Key Things to Watch this Week",
+          "title": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus",
           "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/tech-ai-sentiment-thanksgiving-other-180003267.html",
-          "published": "2026-11-22T18:00:03.000Z"
+          "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-best-233325003.html",
+          "published": "2026-11-23T23:33:25.000Z"
+        },
+        {
+          "title": "After judge signals ‘steep hill’ in regulatory case, Kalshi pauses operations in Utah",
+          "source": "The Salt Lake Tribune",
+          "link": "https://www.sltrib.com/news/2026/11/23/kalshi-pauses-operations-utah-amid/",
+          "published": "2026-11-23T23:12:03.000Z"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "title": "💻 Technology",
       "items": [
         {
-          "title": "‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida",
-          "source": "Yahoo Tech",
-          "link": "https://tech.yahoo.com/gaming/breaking-news/live/gta-6-live-updates-record-38-billion-launch-viral-clips-and-the-secrets-players-are-finding-in-leonida-163038757.html",
-          "published": "2026-11-21T16:55:28.000Z"
+          "title": "Google alternative Kagi launches an email service",
+          "source": "The Verge",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWpVUUptWVN0TVFDSlFjZzRTb0tGOTdfWUlRdmIxWUQ1eWpVUXBJTnlkcWdHR1VZemtpX3diSVlGTHd4aWxVVW03NDhGQVFuQVFTcnhxMGN3My1oRm43Z3g0WHZYRnEwOUdKNktHdHlzdkdSSVVyaURCN3d2MzlYbGo2cnE?oc=5",
+          "published": "2026-11-24T00:02:00.000Z"
         },
         {
-          "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
-          "source": "MacRumors",
-          "link": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
-          "published": "2026-11-22T15:09:50.000Z"
+          "title": "Samsung Launches the Odyssey G6: The World's First 1,100Hz Gaming Monitor",
+          "source": "TechPowerUp",
+          "link": "https://www.techpowerup.com/355109/samsung-launches-the-odyssey-g6-the-worlds-first-1-100hz-gaming-monitor",
+          "published": "2026-11-23T13:49:49.000Z"
         },
         {
-          "title": "Clicks Communicator buyers face a longer wait, but early orders get a bonus",
-          "source": "PhoneArena",
-          "link": "https://www.phonearena.com/news/clicks-communicator-buyers-face-a-longer-wait-but-early-orders-get-a-bonus_id185021",
-          "published": "2026-11-21T21:33:21.000Z"
+          "title": "Ladybird, the first new browser engine in years, is now available to test",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+          "published": "2026-11-23T22:38:09.000Z"
         },
         {
-          "title": "These iPhone Customizations Can Make Your Lock Screen Look Cooler",
-          "source": "BGR",
-          "link": "https://www.bgr.com/2317828/iphone-customizations-make-lock-screen-cooler/",
-          "published": "2026-11-22T03:47:00.000Z"
+          "title": "‘Grand Theft Auto VI’ lives up to its hype with compelling characters and spectacular action",
+          "source": "AP News",
+          "link": "https://apnews.com/article/grand-theft-auto-vi-6-video-game-82404adf585e7242e61fb42e8aa05481",
+          "published": "2026-11-23T16:03:00.000Z"
         },
         {
-          "title": "Users have shared instructions for running GTA VI at 60 frames per second on Xbox Series X.",
-          "source": "GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzI3RnNaLXNLNzk2RTBxYWptR3U3NHRkckw3LUR1MV9faUZMc0xEc2tKdkV0X2hDMXlxY09DNnhKbWotcTFDOVN4QkdiRlIwWmx3V3Nsc3A1SjJsdkViLWhsSkE2cGZ1Q05mOGZpOHc2VUV4VTkxTHl6SXJONzdJVGRvanZvWGsyMGJlWG1NTEo3SDIwcHVJNWRpY1MtcEZVc0lTS1czdmhrTk9jdmNjYmx0WVFiRDM1OTdrXw?oc=5",
-          "published": "2026-11-21T22:59:17.000Z"
+          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cqpv9kr7pxmro",
+          "published": "2026-11-23T14:08:50.000Z"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "title": "🤖 AI companies",
       "items": [
         {
-          "title": "Why Anthropic Is Hiring a $400,000-a-Year Natural-Gas Supply Manager ? Climate & Energy for Nov. 19",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "source": "OpenAI",
+          "link": "https://openai.com/index/introducing-shirudo/",
+          "published": "2026-11-23T21:24:12.000Z"
+        },
+        {
+          "title": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/",
+          "published": "2026-11-24T02:04:55.000Z"
+        },
+        {
+          "title": "Anthropic’s IPO Mints New Millionaires",
           "source": "WSJ",
-          "link": "https://www.wsj.com/business/energy-oil/why-anthropic-is-hiring-a-400-000-a-year-natural-gas-supply-manager-7c871e93",
-          "published": "2026-11-23T01:39:15.000Z"
+          "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289",
+          "published": "2026-11-23T21:56:16.000Z"
         },
         {
-          "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
+          "title": "Anthropic stock falls as Monday's tech rally takes off",
           "source": "Yahoo Finance",
-          "link": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
-          "published": "2026-11-22T19:00:51.000Z"
+          "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-falls-as-mondays-tech-rally-takes-off-194812614.html",
+          "published": "2026-11-23T19:59:37.000Z"
         },
         {
-          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-          "source": "TechCrunch",
-          "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-          "published": "2026-11-23T01:25:53.000Z"
-        },
-        {
-          "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
-          "source": "Reuters",
-          "link": "https://www.reuters.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-2026-11-22/",
-          "published": "2026-11-22T23:09:00.000Z"
-        },
-        {
-          "title": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
-          "source": "NPR",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6048720/anthropic-had-the-largest-ipo-ever-what-does-that-mean-for-their-future-and-ours",
-          "published": "2026-11-22T13:12:13.000Z"
+          "title": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+          "published": "2026-11-23T21:42:00.000Z"
         }
       ]
     },
@@ -199,10 +199,34 @@
       "title": "🛠️ Engineering blogs",
       "items": [
         {
-          "title": "Perplexity and Intelligence",
+          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "source": "Google DeepMind News",
+          "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "published": "2026-11-23T16:59:40.000Z"
+        },
+        {
+          "title": "Probing DNS at Cloudflare",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+          "published": "2026-11-23T14:00:00.000Z"
+        },
+        {
+          "title": "Connected intelligence for in-house legal",
           "source": "OpenAI News",
-          "link": "https://openai.com/index/perplexity-and-intelligence",
-          "published": "2026-11-22T00:00:00.000Z"
+          "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "published": "2026-11-23T08:00:00.000Z"
+        },
+        {
+          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "published": "2026-11-23T08:00:00.000Z"
+        },
+        {
+          "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+          "source": "Stripe Blog",
+          "link": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+          "published": "2026-11-23T00:00:00.000Z"
         }
       ]
     }

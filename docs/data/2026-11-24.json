@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T04:01:19.670Z",
+  "overview": "• Ukraine confirmed using naval drones to strike Russian ships off Libya, while Poland is set to receive NATO early-warning aircraft after Russian missile strikes.\n• Stock markets surged on optimism following Jensen Huang’s return to Nvidia, even as the United States blacklisted AI company Megaspeed.\n• In consumer tech, Samsung unveiled the world's first 1,100Hz gaming monitor, and the new Ladybird browser engine became available for public testing.\n• Anthropic minted new millionaires following its recent IPO despite shares quickly slipping, while OpenAI and Cisco officially introduced Shirudo.",
+  "totalItems": 30,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+          "source": "PBS",
+          "link": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
+          "published": "2026-11-23T22:05:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+          "source": "NPR",
+          "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+          "published": "2026-11-23T22:29:53.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/c9x2er1ry2mzo",
+          "published": "2026-11-24T02:15:59.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump: DOJ working to overturn Newsom’s death row commutations",
+          "source": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFo1VHBPNTNKLWJsTk0xeUdQN2NJQTJBbkF3OHFOWTBOalRnMTJrMGpvX2pBY0loWDV6R0FBc21SUmIyR0VHRXpqb0pjaHNyQWk5by1PTW5GTUJjZDhsWWhZQkgxSkJXZy04WGRTaERZdVM0UHFzcWh6V2QycUlMVmlrd013bTc5YkVVVNIBkgFBVV95cUxQX1RiR1BOSGkxUi1rTV9yRF90dmRJUHhQUnUxSGFCT3RQRVdvUjZTSGVobl9HNUNFbFh4ZG1sM1lUOHVXZ2tldjhCZDdveWtra0dvLVQxTEZMUl83dV9WaXVXdDMyZ29SZmRKclhIT0tUUjRFdEwzTDlnTjBSeVZYZGhVTXlSYV9XcjFvTUlFS0tUQQ?oc=5",
+          "published": "2026-11-23T23:24:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+          "published": "2026-11-24T02:30:00.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
+          "published": "2026-11-23T21:23:00.000Z"
+        },
+        {
+          "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEV3R09aQWhXWERGUjZxM3kzdURrdktKUU92VFhpcWVPUmRzQXdRVUgxdWdnbjBIVEpOYUgwTEs3Vzd1UjNOVXN1bXJoSHoxNTBhNFVGcEJXUzRHUTFYR1g3VEtCclNDZEZQZEYzX2NLUEJtMUd2YTYtSURTTEVLN1RsVlozSDRkZ3dISzVwTmZqS09jYVIyV2tyQW9PODdyVVRjcFBnaWRtSHk0SDg5Uw?oc=5",
+          "published": "2026-11-23T19:22:31.000Z"
+        },
+        {
+          "title": "My approach to EU is pragmatic, says Burnham",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/c6vg2v9xkr40o",
+          "published": "2026-11-23T19:10:44.000Z"
+        },
+        {
+          "title": "What failure of COP31 reveals about a divided world",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cky970n83rvjo",
+          "published": "2026-11-23T17:24:25.000Z"
+        },
+        {
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/asia-pacific/north-korea-consider-shutting-down-swiss-diplomatic-office-pyongyang-kcna-says-2026-11-23/",
+          "published": "2026-11-23T22:18:09.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+          "published": "2026-11-24T03:05:17.000Z"
+        },
+        {
+          "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+          "published": "2026-11-24T01:47:00.000Z"
+        },
+        {
+          "title": "Thanksgiving travel could be messy with storms coming after a week filled with airline glitches",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUThKclEzNmdSeWQ1MUIzc0hJWnBqSWdXdUtSVkIxMVdYTWIwQjU5UGVIclhJVUl1bVVyLVlCSVFLdWRHckdabDh6RDNsMVNDdUdKdjNFZEJLb3FCVE5Qa1RLVWp1NHVjeUxRWERFT3pJYWpOY3o1emQ3Z1JGbHNQeEhTdmZCeVUzUVpmY3dCeUdzSWZELUZlUjJTck5QaHJyLWVTeF9uV1BsQlBtSEE?oc=5",
+          "published": "2026-11-23T17:41:29.000Z"
+        },
+        {
+          "title": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-best-233325003.html",
+          "published": "2026-11-23T23:33:25.000Z"
+        },
+        {
+          "title": "After judge signals ‘steep hill’ in regulatory case, Kalshi pauses operations in Utah",
+          "source": "The Salt Lake Tribune",
+          "link": "https://www.sltrib.com/news/2026/11/23/kalshi-pauses-operations-utah-amid/",
+          "published": "2026-11-23T23:12:03.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "Google alternative Kagi launches an email service",
+          "source": "The Verge",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWpVUUptWVN0TVFDSlFjZzRTb0tGOTdfWUlRdmIxWUQ1eWpVUXBJTnlkcWdHR1VZemtpX3diSVlGTHd4aWxVVW03NDhGQVFuQVFTcnhxMGN3My1oRm43Z3g0WHZYRnEwOUdKNktHdHlzdkdSSVVyaURCN3d2MzlYbGo2cnE?oc=5",
+          "published": "2026-11-24T00:02:00.000Z"
+        },
+        {
+          "title": "Samsung Launches the Odyssey G6: The World's First 1,100Hz Gaming Monitor",
+          "source": "TechPowerUp",
+          "link": "https://www.techpowerup.com/355109/samsung-launches-the-odyssey-g6-the-worlds-first-1-100hz-gaming-monitor",
+          "published": "2026-11-23T13:49:49.000Z"
+        },
+        {
+          "title": "Ladybird, the first new browser engine in years, is now available to test",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+          "published": "2026-11-23T22:38:09.000Z"
+        },
+        {
+          "title": "‘Grand Theft Auto VI’ lives up to its hype with compelling characters and spectacular action",
+          "source": "AP News",
+          "link": "https://apnews.com/article/grand-theft-auto-vi-6-video-game-82404adf585e7242e61fb42e8aa05481",
+          "published": "2026-11-23T16:03:00.000Z"
+        },
+        {
+          "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/cqpv9kr7pxmro",
+          "published": "2026-11-23T14:08:50.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "source": "OpenAI",
+          "link": "https://openai.com/index/introducing-shirudo/",
+          "published": "2026-11-23T21:24:12.000Z"
+        },
+        {
+          "title": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/",
+          "published": "2026-11-24T02:04:55.000Z"
+        },
+        {
+          "title": "Anthropic’s IPO Mints New Millionaires",
+          "source": "WSJ",
+          "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289",
+          "published": "2026-11-23T21:56:16.000Z"
+        },
+        {
+          "title": "Anthropic stock falls as Monday's tech rally takes off",
+          "source": "Yahoo Finance",
+          "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-falls-as-mondays-tech-rally-takes-off-194812614.html",
+          "published": "2026-11-23T19:59:37.000Z"
+        },
+        {
+          "title": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+          "published": "2026-11-23T21:42:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": []
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "source": "Google DeepMind News",
+          "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "published": "2026-11-23T16:59:40.000Z"
+        },
+        {
+          "title": "Probing DNS at Cloudflare",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+          "published": "2026-11-23T14:00:00.000Z"
+        },
+        {
+          "title": "Connected intelligence for in-house legal",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "published": "2026-11-23T08:00:00.000Z"
+        },
+        {
+          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "published": "2026-11-23T08:00:00.000Z"
+        },
+        {
+          "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+          "source": "Stripe Blog",
+          "link": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+          "published": "2026-11-23T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
