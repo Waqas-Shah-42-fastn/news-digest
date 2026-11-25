@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T04:01:58.217Z",
+  "overview": "• Pakistan sent its first astronaut to space aboard a Chinese rocket, while China investigated a prominent politburo star in Xi Jinping’s latest purge.\n• The Dow closed above 50,000, while Nvidia’s board faced scrutiny over its reinstated CEO and Shein agreed to pay $100 million over deceptive claims.\n• Anthropic shares plummeted below their $83 IPO price on their fourth trading day, putting the company on track to lose nearly $200 billion in value.\n• OpenAI announced that its GPT-6 models demonstrate intrinsic protein-design capabilities, as new PC reviews highlighted a future powered by local AI.",
+  "totalItems": 25,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": []
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": [
+        {
+          "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/live/cmd71g9lzg1gt",
+          "published": "2026-11-24T23:38:00.000Z"
+        },
+        {
+          "title": "China investigates politburo star in Xi Jinping’s latest purge",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVFaWUFIS0JNSnpQQmcxM1pWcGJpc19iaklqek5GQlFKV2pLX0plWV9QS0d2Ml9KbnNsWkM0Qk1wc2E2cTdpbmo3U0M4QzlIM0xXN3p6N0VzamQxaUhwd201WVZaNzYyVm8tb25kQ280a19XeFlna1hjenR1WXE0TENqMndlalRmMGJUQlRaNEJWcjA1ZEIyU0dKSzlZWVJ1OTFFaWxn?oc=5",
+          "published": "2026-11-25T01:31:00.000Z"
+        },
+        {
+          "title": "Armed men take hostages in Cartagena, one of Colombia’s top tourist destinations",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/world/south-america/armed-men-take-hostages-cartagena-one-colombias-top-tourist-destinatio-rcna611165",
+          "published": "2026-11-24T20:03:09.000Z"
+        },
+        {
+          "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/c6808k8dxvgko",
+          "published": "2026-11-24T22:49:41.000Z"
+        },
+        {
+          "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/uk-warns-russian-sabotage-threat-companies-that-supply-ukraine-2026-11-24/",
+          "published": "2026-11-24T21:32:51.000Z"
+        }
+      ]
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nvidia-board-jensen-huang-reinstated-trump-7b0af450cb10c489ae00c51ae14af58a",
+          "published": "2026-11-25T00:21:00.000Z"
+        },
+        {
+          "title": "Stock Market Today: Dow ends above 50,000; S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap",
+          "source": "MarketWatch",
+          "link": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results",
+          "published": "2026-11-24T22:46:00.000Z"
+        },
+        {
+          "title": "Shein to pay $100 million to settle federal claims that it deceived U.S. customers",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWlLeWp5azljeGpxY3d0SlhMWXhwbFdEenBhRjczQ1VPWUIyVFByOE5oeXJSekJBd01PMXVHbE5qVFlMU2V5dFFSb1RKYnZGaDlqRDBDOTZ0d3NFWFRpa29DRklhdm80S2RINUJlSUhzbDB6QjU2Q3lSc3VmLU9wek10QXp3UVN2WEE?oc=5",
+          "published": "2026-11-24T22:13:39.000Z"
+        },
+        {
+          "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/11/24/jim-cramer-retail-stocks-earnings.html",
+          "published": "2026-11-25T00:04:00.000Z"
+        },
+        {
+          "title": "An Adored Manhattan Grocery, and Seinfeld Favorite, May Close Its Doors",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
+          "published": "2026-11-24T20:56:32.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": [
+        {
+          "title": "Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back",
+          "source": "MacRumors",
+          "link": "https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/",
+          "published": "2026-11-24T23:45:00.000Z"
+        },
+        {
+          "title": "GTA VI’s jaw-dropping success: in figures",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1RUTTlkdFdoR0NDNWFDTlBsS2xlN2JmLXc5UElWeFBTZnZnTDRTQUxjeF9hQlVZNGJwNDVqMnpMUHdna1lmV2tXYXZ0M3UycXE5RWFETjM5eWpROE1qYV9BUlkzeXFNaWtwOFRSTWVEcmE0ZkF6aElFREdSd2JTYlVfWQ?oc=5",
+          "published": "2026-11-24T13:00:00.000Z"
+        },
+        {
+          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+          "source": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHNPTmM3VGgxY2puYXdFWUJPM2NPbjBKYnhqTnBjWUJpelpERkVLSUNYT0NTdlpBV0V5dVBpSWlpSmFoczB3ZTBQN3RmeEZNcFNRTG84djlZTl9YV1A1cDlZTnRIaUFKVVktNkNxWjRjdkZkS2hfNFF3OTFTQkV0RXIwbjZRS1JLNFdRMHBnSE5NYm54SzFwS1g1WFdNaUhxMGFrQ3pSNXpKcnczWGpsajg4VlpmTEU?oc=5",
+          "published": "2026-11-23T12:00:00.000Z"
+        },
+        {
+          "title": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes",
+          "source": "Nintendo Life",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzM5R0dyLS1FWUZNVW9MTEg4UGwxMXREY3dua2lNTmxXOEJIX1Y4cF8zbllWZnFOOEFYbk9DZHhRdEs4SXZOTmh4cC1hTjhrYVEwN2gwNWJnd0NHWmNMQ0JEdzZnbHNDMHRUNE5jVWVvZEZtQnpiQVVoTzlxekFqZHdFbEtWVXZ0ZGt3RHZ3MWFDakxRYU1ONnZLanFIMUhQNlp2MlZOZUhzS0VMYkpZZHNlN3VzQ0tIQTBMeTk5MA?oc=5",
+          "published": "2026-11-25T01:13:51.000Z"
+        },
+        {
+          "title": "The 15 best Black Friday laptop and computer deals because these things are too expensive",
+          "source": "CNN",
+          "link": "https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2026-11-24",
+          "published": "2026-11-24T22:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": [
+        {
+          "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/",
+          "published": "2026-11-24T20:47:56.000Z"
+        },
+        {
+          "title": "Anthropic: ANT that a shame",
+          "source": "Axios",
+          "link": "https://www.axios.com/2026/11/24/anthropic-stock-ipo-banks",
+          "published": "2026-11-24T22:34:44.000Z"
+        },
+        {
+          "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxSGxKSk92NThxemttMVYyMzM1OXlveU1rOEYtM2lIa2FjQjA4dW5jSEU0VDBLVWF0aHFNUjlfVllIU1gzSDVibllXSUUwYm1MWkl6azV0a19HQjdqaW0wWG1ZSmItRTZiQlRZVWVvN0lzS0ItNWMxb2dCSlnSAYIBQVVfeXFMT1p0ckc3akJrU1ZWN2RHY2tlT29GVUJWZ3FFZUhaU1lrT2xTb1lhcHR4cy0xQXdhdUdMcGlBUzYtU3Azc1B5ZzJfRUxJdmlTNmZ4RjEwQS1zeTdHX3ZITEJVbEhPamhUcjFlV0J6RzY0UjJQcjZscTd5RzBjQTNBY3FsQQ?oc=5",
+          "published": "2026-11-24T18:16:30.000Z"
+        },
+        {
+          "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0hkbFdEeDFKTWo1UXlkenJzS3l0QWpGSDdIWGxpbTdiMkpzVkl0bFN0d2RUSGxJS3FxNFNjeEVOeE9qUlB6X1ZKNldQdFA5b2NUam1pZjQzXzFZSFZYQ21mUXJlSzVvOWs5dS1lc3A2NG5zeGQ1RXlQR0c4QkxOUVNQUzNyYzBMT1A5emhvX2VNc2thcUJoSjhqYzZjM0Y2ZmdQellESkczaXc?oc=5",
+          "published": "2026-11-24T21:10:02.000Z"
+        },
+        {
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "source": "OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdETW1TNzZiLWl5Z2lOUkhpRmtFMGNxY2dRVV9URkpQX3RVRGpVZGk5Q055WEY4elV1X2VHWlVCYzZTQUMydEk4YThidXZUOUh4dlBZVmpfZ21jaTZIeVRQaEFmdFN5MDNkNDhhYU5qdTJEN3ZQeGRXNG5NS215c3hxa2hFbEFjWW1DVE93UXFkdw?oc=5",
+          "published": "2026-11-24T21:06:37.000Z"
+        }
+      ]
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": []
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "Searching for distant planets with Astra",
+          "source": "OpenAI News",
+          "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "published": "2026-11-24T11:00:00.000Z"
+        },
+        {
+          "title": "Black Friday Has Taken Over Discord",
+          "source": "Discord Blog",
+          "link": "https://discord.com/blog/black-friday-2026",
+          "published": "2026-11-24T00:00:00.000Z"
+        },
+        {
+          "title": "How Intentful uses dots to make more time for growth",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/customer-stories/intentful-dots",
+          "published": "2026-11-24T00:00:00.000Z"
+        },
+        {
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/customer-stories/ifood",
+          "published": "2026-11-24T00:00:00.000Z"
+        },
+        {
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "source": "OpenAI News",
+          "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "published": "2026-11-24T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
