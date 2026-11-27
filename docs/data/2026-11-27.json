@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T04:01:23.826Z",
+  "overview": "",
+  "totalItems": 11,
+  "sections": [
+    {
+      "key": "top",
+      "title": "🔝 Top stories",
+      "items": [
+        {
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "source": "BBC",
+          "link": "https://www.bbc.com/news/articles/ckm2mz3prq77o",
+          "published": "2026-11-27T00:52:11.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "The Macy's Thanksgiving parade is postponed. What happens to its expansive roster of performers?",
+          "source": "AP News",
+          "link": "https://apnews.com/article/macys-thanksgiving-parade-nyc-manhattan-e3a17dee62d5847e37edf5fa21ed0ec1",
+          "published": "2026-11-26T18:59:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+          "published": "2026-11-26T19:33:06.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Trump spends Thanksgiving at golf club, accuses Commerce Department of releasing \"fake economic numbers\"",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/",
+          "published": "2026-11-26T19:49:00.000Z",
+          "outlets": 5
+        },
+        {
+          "title": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
+          "published": "2026-11-26T22:49:27.000Z",
+          "outlets": 5
+        }
+      ]
+    },
+    {
+      "key": "geopolitics",
+      "title": "🌍 Geopolitics",
+      "items": []
+    },
+    {
+      "key": "business",
+      "title": "💼 Business",
+      "items": [
+        {
+          "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5",
+          "published": "2026-11-26T19:41:00.000Z"
+        },
+        {
+          "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5",
+          "published": "2026-11-27T01:57:00.000Z"
+        },
+        {
+          "title": "Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful",
+          "source": "PBS",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczJXQXdpU1J5eDIxR1BmcjBHY0x4Z1hGeEowT1B3NnprRm0zSndubl9CanBVTHpKMzdDcmFac2FEc2tWNExZMTQtcXdUU2JGT2czRVdOeGhfUjVKbkhrQ0NocXEwQVNfVHNFMU5LaGdJbVIybldJc0MzbFg4SElvVTZaeVVEQUZLWlpaMldPWkFTXzNTUkxISUs2TVdJa05ua3M1VWlnVjl1dk03U3RiMTFuZEpiRlR5R29OY2RoYw?oc=5",
+          "published": "2026-11-26T19:33:22.000Z"
+        },
+        {
+          "title": "We Found the Very Best Black Friday Deals So You Don’t Have To",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbC1JQWFXeXIyLS1PV0o3ZS01MGxmT1kzaHZ6WHh4MW9qNEE0VnVhY25ZdkRzeVBmdlVtZTdBbzY1S3JiQTdCd3VhTUhXM1NLelhyd05nczlqN0xIZklpREFoVGRzRGlQcWtLNU93c01nbFVOSTRMVUFBeDVkcXd5YQ?oc=5",
+          "published": "2026-11-27T03:40:02.000Z"
+        },
+        {
+          "title": "Widespread power outages as nor'easter rolls through region",
+          "source": "13newsnow.com",
+          "link": "https://www.13newsnow.com/article/weather/weather-impact/power-outages-ramp-up-as-noreaster-rolls-in/291-c71b9d9f-9745-41cb-8780-9ca857b5c53f",
+          "published": "2026-11-26T01:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "title": "💻 Technology",
+      "items": []
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI companies",
+      "items": []
+    },
+    {
+      "key": "reddit",
+      "title": "🔥 Reddit",
+      "items": []
+    },
+    {
+      "key": "engineering",
+      "title": "🛠️ Engineering blogs",
+      "items": [
+        {
+          "title": "Introducing Search for Agents",
+          "source": "Cloudflare Blog",
+          "link": "https://blog.cloudflare.com/search-for-agents/",
+          "published": "2026-11-25T14:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
